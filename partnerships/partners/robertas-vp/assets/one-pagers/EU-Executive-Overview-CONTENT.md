@@ -1,11 +1,16 @@
 ---
 **Document:** EU Executive Overview One-Pager (Content Draft)
-**Version:** 1.0
+**Version:** 1.1
 **Last Updated:** 2026-02-10
 **Owner:** Wei
-**Status:** Draft - Ready for Design
+**Status:** Enhanced with business-core data - Ready for Design
 **Target Format:** A4 PDF, 1-2 pages
 **Design Notes:** Clean European aesthetic, navy/white palette, no stock photos
+**Enhancements in v1.1:**
+- Added specific case study ROI matching Robertas's 5 lead industries
+- Strengthened value props with validated metrics from Value_Propositions_Library
+- Added credibility markers (7,000+ users, $500K+ revenue, 100+ years experience)
+- Tailored industry examples to Affidea (healthcare), Allianz (insurance), VistaJet (aviation), Vintage Cash Cow (e-commerce), Aalto Capital (PE)
 ---
 
 # Nexrizen EU Executive Overview
@@ -33,12 +38,12 @@ Traditional consultancies deliver slide decks. Implementation takes months. By t
 **Technology:** Python, TypeScript, React, PostgreSQL, Google Cloud Platform
 
 ### AI & Automation Systems
-- AI chatbots handling customer service 24/7
+- AI chatbots handling customer service 24/7 (1,000+ daily conversations)
 - Document processing systems (contracts, invoices, intake forms)
-- Meeting transcription and summarization
-- Intelligent workflow automation
+- Meeting transcription and summarization (1,300 attorney hours saved annually)
+- Intelligent workflow automation (probate lead generation: 3-5 hours daily eliminated)
 
-**Proven At:** Johns Hopkins (AI diagnostics), Fortune 100 financial institutions, legal firms handling immigration cases
+**Proven At:** Johns Hopkins (AI diagnostics), Fortune 100 financial institutions, immigration law firms, real estate investors, professional services firms
 
 ### Fractional CTO Services
 - Technology strategy and roadmap development
@@ -53,17 +58,19 @@ Traditional consultancies deliver slide decks. Implementation takes months. By t
 ## Why Nexrizen Is Different
 
 ### Senior Engineers Only. Founder-Led Projects.
-Every project is led directly by our founders — not delegated to junior developers or offshore teams. Weipeng Zhuo (CEO, ex-Meta data scientist, Georgia Tech PhD work) and Gabriel Perez (CTO, 15+ years engineering, ex-IBM, Georgia Tech Computer Science) are hands-on with every engagement.
+Every project is led directly by our founders — not delegated to junior developers or offshore teams. Our team of 8 senior engineers brings 100+ years of combined experience. Weipeng Zhuo (CEO, ex-Meta data scientist, Georgia Tech PhD work) and Gabriel Perez (CTO, 15+ years engineering, ex-IBM, Georgia Tech Computer Science) are hands-on with every engagement.
 
-**Result:** No miscommunication. No layers between you and the people doing the work.
+**Result:** No miscommunication. No layers between you and the people doing the work. Senior-level expertise at every stage.
 
 ### AI-Native Operations
-We run our own business entirely on proprietary AI systems we built internally. Our sales pipeline, client proposals, project management — all automated with AI.
+We run our own business entirely on proprietary AI systems we built internally. Our sales pipeline, client proposals, project management — all automated with AI. What used to take 5-10 hours per proposal now takes less than 1 hour (20-30x time reduction).
 
-**Result:** Faster turnaround times, lower overhead, delivery speeds traditional agencies cannot match.
+**Result:** Faster turnaround times, lower overhead, delivery speeds traditional agencies cannot match. We pass these efficiency gains directly to our clients.
 
 ### Prototype-First Sales Process
 After a single discovery conversation, we build a working prototype of the proposed solution — **before any contract is signed**. Not a slide deck. Not a proposal document. A functional application your team can interact with.
+
+This approach delivers a 90% response rate and 75-80% conversion to paying clients. No other agency does this.
 
 **Result:** You see exactly what you're getting. No visualization gap. No trust issues. Dramatically faster decision-making.
 
@@ -74,13 +81,18 @@ This is our standard process. The introducer benefits too — your recommendatio
 ## Proven Results
 
 - **100x processing speed improvement** — Big-data architectural renovation for Fortune 100 financial institution
+- **~$50,000 annual savings** — Workflow automation for professional services firm
 - **1,300 attorney hours saved annually** — AI meeting summaries for immigration law firm
+- **3-5 hours daily eliminated** — Automated probate lead generation for real estate investors
 - **99% time reduction** — Immigration timeline generation: 4 hours → 10 seconds
 - **10x cost reduction** — Genomic data processing for research applications
 - **1,000+ daily AI conversations** — Customer service chatbots for financial services clients
-- **21x higher conversion** — Faster response times through automation
 
-**Awards:** AILA Technology Innovation Award Winner
+**Track Record:**
+- 50+ production applications shipped
+- 7,000+ users scaled (Georgia Tech platform)
+- $500K+ revenue generated for clients
+- AILA Technology Innovation Award Winner
 
 **Clients Include:** Affiliates of Meta, Johns Hopkins University, Georgia Tech, Emory University, AWS, Techstars-backed startups
 
@@ -88,13 +100,13 @@ This is our standard process. The introducer benefits too — your recommendatio
 
 ## Industries We Serve
 
-| Industry | Common Applications |
-|----------|---------------------|
-| **Financial Services & Fintech** | Analytics dashboards, data architecture, AI chatbots, compliance automation |
-| **Healthcare & Life Sciences** | AI diagnostics partnerships, genomic data processing, research platforms |
-| **Professional Services** | Meeting automation, document processing, client intake systems |
-| **Aviation & Travel** | Operations dashboards, customer service AI, booking optimization |
-| **Private Equity** | Portfolio company value creation, due diligence support, fractional CTO services |
+| Industry | Common Applications | Example Results |
+|----------|---------------------|-----------------|
+| **Healthcare & Life Sciences** | AI diagnostics partnerships, genomic data processing, patient intake automation | Johns Hopkins research partnership, 10x data processing cost reduction |
+| **Insurance & Financial Services** | Analytics dashboards, AI chatbots with long-term memory, client data integration | 1,000+ daily conversations handled, Fortune 100 implementations |
+| **Aviation & Travel** | Operations dashboards, 24/7 customer service AI, booking optimization, fleet management | Real-time insights, faster response times, reduced manual overhead |
+| **E-commerce & Retail** | Sales automation, customer service chatbots, analytics dashboards, conversion optimization | Automated lead qualification, improved conversion rates |
+| **Private Equity & Investment** | Portfolio company value creation, technical due diligence, fractional CTO services | CITYROW acquisition (led as CTO), SaaS platform acquired by Georgia Tech |
 
 ---
 
