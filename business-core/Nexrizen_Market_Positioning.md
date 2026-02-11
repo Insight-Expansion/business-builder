@@ -4,7 +4,7 @@
 
 ---
 **Document:** Nexrizen_Market_Positioning.md
-**Version:** 1.3
+**Version:** 1.4
 **Last Updated:** 2026-02-10
 **Owner:** Wei (CEO)
 **Update Frequency:** Quarterly or when repositioning
@@ -14,16 +14,19 @@
 - www.threedays.ai (coverage: ~20% - minimal content available)
 - Nexrizen blog content (coverage: ~40%)
 - `Strategic_Market_Insights.md` (coverage: ~80%)
-- `../meetings/sales-intros/02-04_AI_Venture_Partnership_and_Technology_Integration_Proposal-transcript.md` (coverage: ~90%) **← NEW - AI-native operations, proprietary systems**
+- `../meetings/sales-intros/02-04_AI_Venture_Partnership_and_Technology_Integration_Proposal-transcript.md` (coverage: ~90%) - AI-native operations, proprietary systems
 - `../meetings/sales-intros/11_07_2025-Nick_intro.md` (coverage: ~95%) - metrics validation
 - `../meetings/sales-intros/Israel-Gold_Intro_Meeting.md` (coverage: ~85%) - partnership models
 - `../meetings/sales-intros/12-30_Consultation_AI_Automation.md` (coverage: ~70%) - tech architecture
+- `../meetings/sales-intros/Gary_Intro_Meeting.md` (coverage: ~85%) **← NEW - values positioning, bootstrap mindset**
+- `../partnerships/partners/robertas-vp/PARTNER.md` (coverage: ~90%) **← NEW - EU executive positioning, banking standards**
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial creation from website scraping
 - v1.1 (2026-02-10): Moved to business-core/ for proper organization (was in root)
 - v1.2 (2026-02-10): MAJOR UPDATE - Added elevator pitches, battle-tested value props with REAL metrics from 4 sales meetings (Israel, Nick, Thomas, Zane), vertical-specific messaging. +260 lines of sales-ready content.
 - v1.3 (2026-02-10): AI-NATIVE POSITIONING - Added comprehensive "AI-Native Operations" section as #1 differentiator, featuring Proposal Builder (20-30x reduction), Business Builder vision, cutting-edge tech integration. Updated elevator pitches to lead with AI-native angle. Source: Zane meeting (VC partner conversation).
+- v1.4 (2026-02-10): VALUES & EU POSITIONING - Added 2 new differentiators: "We Don't Work With Assholes" (values-driven client selection from Gary meeting), "Banking-Standard Quality for EU Executives" (no advance payment, institutional quality from Robertas partnership). Enhanced Wei's leadership profile with 10-day meditation retreats, "search for truth" philosophy. Added bootstrap mindset positioning.
 
 **Downstream Dependencies:**
 - `sales/docs/Sales_Messaging.md` - Uses positioning for pitch
@@ -140,17 +143,81 @@ Small, highly educated team focused on quality over volume.
 
 ---
 
+### 6. **"We Don't Work With Assholes" - Values-Driven Client Selection**
+
+> "We've had rich clients get upset when we said no to working with them. Why? Because money isn't everything. We want to work with good people who are on a search for truth, who value their teams, who are building something meaningful." - Wei
+
+**Why This Matters:**
+
+Most agencies will take any client who pays. Nexrizen is selective.
+
+**What We Look For:**
+- ✅ People on a learning journey, seeking truth
+- ✅ Leaders who treat their teams well
+- ✅ Collaborative, respectful communication
+- ✅ Building something meaningful (not just chasing money)
+- ❌ Arrogant, dismissive, entitled behavior
+- ❌ Micromanagers demanding daily 2-hour updates
+- ❌ Unrealistic expectations ("Build me Facebook in 2 days")
+
+**Philosophy:**
+> "I'm not just trying to take your money. I want to be able to work with you. I think you are very interesting and a great person. And I would love to connect with you. So connecting with you, working with you, we have a bootstrap mindset." - Wei to Gary
+
+**Client Reaction:**
+> "That sounds like a tagline... 'We don't work with assholes'" - Gary
+
+**Bootstrap Mindset:**
+- Startup-friendly approach
+- Maximize client ROI, not billable hours
+- Partnership mentality, not vendor mentality
+- Long-term relationships over one-time transactions
+
+---
+
+### 7. **Banking-Standard Quality for Enterprise / European Executives**
+
+**European Market Positioning:**
+
+Unlike agencies asking €25-50K advance payment, Nexrizen delivers working prototypes before contracts.
+
+**Why EU Executives Choose Nexrizen** (per Robertas, 30+ years Big Four experience):
+- **"Highest possible level standards banking banking standards"** - institutional quality
+- **Risk-free validation** - prototype first, contract later
+- **No advance payment** - pay after you see it works
+- **Senior engineers only** - ex-Meta, ex-IBM, Georgia Tech PhDs
+- **Fast execution** - 3-day MVP option
+
+**Target EU Network:**
+- Big Four backgrounds (KPMG, Deloitte, PwC, EY)
+- Family offices and private equity
+- Aviation finance (VistaJet)
+- Insurance (Allianz)
+- Healthcare (Affidea - largest EU clinic network)
+- E-commerce unicorns (VintageStock - €5B valuation)
+
+**Robertas's Quote:**
+> "Most companies... ask pay advance something like 25,000 or 50,000 euros or dollars... and when you say we do a small example just to test it and to see. That's very good. That's very risk-free. Everybody likes it."
+
+---
+
 ## Team Credentials
 
 ### Leadership
-- **Weipeng Zhuo, PhD (ABD)** - CEO & Co-Founder
-  - Ex-Meta engineer
-  - PhD in Data Science (Georgia Tech)
-  - Fractional CTO at Saenz-Garcia Law
 
-- **Gabriel Perez** - CTO & Co-Founder
-  - Ex-Meta engineer
-  - Technical leadership across 50+ production apps
+**Weipeng Zhuo, PhD (ABD)** - CEO & Co-Founder
+- Ex-Meta engineer (machine learning algorithms, data analytics)
+- PhD in Data Science (Georgia Tech #3 engineering school)
+- Fractional CTO at Saenz-Garcia Law (largest Dallas immigration firm)
+- **10-day silent meditation retreats annually** (10th year) - brings mindfulness and clarity to business decisions
+- 30+ years combined experience across genomics (Genentech), distributed data processing, computer vision research
+- Philosophy: "On a search for truth... connecting with good people and doing good things"
+
+**Gabriel Perez** - CTO & Co-Founder
+- Ex-IBM engineer
+- Multiple startup exits (CTO of acquired startups)
+- Built SaaS acquired by Georgia Tech
+- Technical leadership across 50+ production apps
+- 10-15 years entrepreneurship experience
 
 ### Senior Data Scientists
 - **Zhimin Gao, PhD** - Senior Data Scientist

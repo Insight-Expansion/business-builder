@@ -1,16 +1,18 @@
 ---
 **Document:** Value_Propositions_Library.md
-**Version:** 1.3
+**Version:** 1.4
 **Last Updated:** 2026-02-10
 **Owner:** Marketing/Sales
 **Update Frequency:** Monthly or when positioning shifts
 
 **Synthesized From:**
-- `../meetings/sales-intros/02-04_AI_Venture_Partnership_and_Technology_Integration_Proposal-transcript.md` (coverage: ~90%) **← NEW - AI-native operations**
+- `../meetings/sales-intros/02-04_AI_Venture_Partnership_and_Technology_Integration_Proposal-transcript.md` (coverage: ~90%) - AI-native operations
 - `../meetings/sales-intros/11_07_2025-Nick_intro.md` (coverage: ~90%)
 - `../meetings/sales-intros/Israel-Gold_Intro_Meeting.md` (coverage: ~85%)
 - `../meetings/sales-intros/02-09-2026_giafranco_discussion.md` (coverage: ~90%)
 - `../meetings/sales-intros/12-30_Consultation_AI_Automation_for_Business_Operations-transcript.md` (coverage: ~80%)
+- `../meetings/sales-intros/Gary_Intro_Meeting.md` (coverage: ~85%) **← NEW - values positioning, bootstrap mindset**
+- `../partnerships/partners/robertas-vp/PARTNER.md` (coverage: ~90%) **← NEW - EU executive positioning**
 - `../meetings/sales-intros/*` (coverage: ~85%)
 - `Nexrizen_Business_Overview.md` (coverage: ~90%)
 - `Nexrizen_Market_Positioning.md` (coverage: ~95%)
@@ -21,6 +23,7 @@
 - v1.1 (2026-02-10): Added automated demo generation, 3-day service validation, legal market insights
 - v1.2 (2026-02-10): Added Quick Reference table, price anchoring model ($3K/$6K/$10K), conference strategy (50% Month 1 revenue), updated metrics (90% response, 75-80% conversion)
 - v1.3 (2026-02-10): MAJOR EXPANSION of AI-Native value prop (#5) - Added Proposal Builder details (20-30x reduction, auto-ingestion, one-click prototypes), Business Builder vision, cutting-edge tech integration (weekly adoption), Zane's "chief business synthesis officer" observation, VC investor angle. Updated Quick Reference table.
+- v1.4 (2026-02-10): VALUES & EU MARKET - Added 3 new value props: #10 "We Don't Work With Assholes" (culture fit filter), #11 "Bootstrap Mindset" (ROI-focused, startup-friendly), #12 "Banking-Standard Quality" (EU executive positioning, no advance payment vs €25-50K). Updated Quick Reference table with 4 new rows.
 
 **Downstream Dependencies:**
 - `Sales_Playbook.md` - Uses these in pitch sequences
@@ -50,6 +53,10 @@
 | **Execution Is Cheap** | "Team of 20 with team of 8" | Strategic partnerships | Israel meeting |
 | **Dating Phase Partnership** | De-risks both sides | High-potential partnerships | Israel meeting |
 | **Cutting-Edge Tech Integration** | Weekly adoption of tools <1 month old | Early adopters, innovators | Zane meeting |
+| **"We Don't Work With Assholes"** | Culture fit filter, values-driven | Values-aligned buyers, quality partnerships | Gary meeting |
+| **Bootstrap Mindset / ROI-Focused** | Maximize client ROI, not billable hours | Startups, cost-conscious buyers | Gary meeting |
+| **Banking-Standard Quality** | Big Four-level institutional quality | EU executives, enterprise buyers | Robertas partnership |
+| **No Advance Payment** | Prototype first, contract later (vs €25-50K upfront) | Risk-averse EU market, enterprise | Robertas partnership |
 | **Fear → Safety → Transformation** | Lawyers terrified of AI | Conservative industries | Gianfranco |
 | **Transformation Not Education** | Done-for-you > DIY courses | Service buyers vs learners | Gianfranco |
 | **PI Law Intake Speed** | 60% hire first firm contacted | Personal injury law firms | Gianfranco |
@@ -276,6 +283,109 @@
 
 **Example Usage:**
 > "I'll be at [Conference Name] next month. Want to grab coffee and I'll show you a live demo of what we're building for [similar company]? 15 minutes, no sales pitch."
+
+---
+
+### 10. **"We Don't Work With Assholes" - Values-Driven Client Selection**
+> "We've had rich clients get upset when we said no to working with them. Money isn't everything. We work with good people."
+
+**Context:** Pre-qualifying clients, attracting values-aligned partnerships
+**Source:** Gary meeting - Wei's philosophy on client selection
+**Purpose:** Filter out toxic clients, attract quality long-term relationships
+
+**What We Look For:**
+- ✅ People on a learning journey, seeking truth
+- ✅ Leaders who treat their teams well
+- ✅ Collaborative, respectful communication
+- ✅ Building something meaningful (not just chasing money)
+
+**What We Avoid:**
+- ❌ Arrogant, dismissive, entitled behavior
+- ❌ Micromanagers demanding daily 2-hour updates
+- ❌ Unrealistic expectations ("Build me Facebook in 2 days")
+- ❌ Price-shoppers who don't value quality
+
+**Why This Works:**
+- Pre-qualifies buyers (toxic clients self-select out)
+- Attracts values-aligned clients who become long-term partners
+- Creates positive word-of-mouth (happy clients refer similar clients)
+- Protects team morale and quality of work
+
+**Example Usage:**
+> "We're selective about who we work with. We've turned down wealthy clients because they were jerks. We want to work with good people who value their teams and are building something meaningful. If you're on a search for truth, if you believe in treating people well, we'd love to work with you."
+
+**Gary's Reaction:**
+> "That sounds like a tagline... 'We don't work with assholes'"
+
+---
+
+### 11. **Bootstrap Mindset - Maximize Your ROI, Not Our Billable Hours**
+> "We have a bootstrap mindset. We want to make sure we get you the highest ROI possible."
+
+**Context:** Differentiating from agencies that pad hours
+**Source:** Gary meeting - Wei explaining Nexrizen's approach
+**Best For:** Startups, cost-conscious buyers, founders with limited runway
+
+**What This Means:**
+- We optimize for YOUR success, not our hours
+- Startup-friendly approach (we've been there)
+- Partnership mentality, not vendor mentality
+- Long-term relationships over one-time transactions
+
+**How It Shows Up:**
+- Using AI to reduce our time (passing savings to you)
+- Recommending phased approaches to minimize risk
+- Being honest when something isn't worth building yet
+- Suggesting cheaper alternatives when appropriate
+
+**Example Usage:**
+> "Look, we have a bootstrap mindset. My co-founder has done multiple startups. We know what it's like to watch every dollar. We're not here to pad hours—we're here to get you the highest ROI possible. If we can use AI to cut our time in half, we pass those savings to you."
+
+**Co-Founder Background:**
+- Gabe: Multiple startup exits, SaaS acquired by Georgia Tech
+- Wei: Left Meta to do entrepreneurship, understands founder struggles
+- Team: 8 people, not 80 (no overhead waste)
+
+---
+
+### 12. **Banking-Standard Quality for Enterprise / EU Executives**
+> "Highest possible level standards banking banking standards" - Robertas (30+ years Big Four experience)
+
+**Context:** Positioning for European enterprise market
+**Source:** Robertas partnership (Big Four background, EU executive network)
+**Best For:** EU executives, Big Four backgrounds, institutional buyers
+
+**Why EU Executives Choose Nexrizen:**
+
+**Problem:** Most agencies ask €25-50K advance payment before showing anything
+
+**Solution:** Nexrizen delivers working prototype first, contract later
+
+**Quality Standards:**
+- Ex-Meta, ex-IBM, Georgia Tech PhD engineers
+- Big Four-level institutional quality (not outsourced juniors)
+- Banking-standard security and compliance
+- Professional, European business etiquette
+
+**Target EU Network:**
+- Big Four backgrounds (KPMG, Deloitte, PwC, EY)
+- Family offices and private equity
+- Aviation finance (VistaJet)
+- Insurance (Allianz Senior Partners)
+- Healthcare (Affidea - largest EU clinic network)
+- E-commerce unicorns (VintageStock - €5B valuation)
+
+**Robertas's Quote:**
+> "Most companies... ask pay advance something like 25,000 or 50,000 euros or dollars... and when you say we do a small example just to test it and to see. That's very good. That's very risk-free. Everybody likes it."
+
+**Partnership Approach:**
+- Warm introductions through trusted advisors (Robertas network)
+- "Trilateral emails" - all parties CC'd, transparent from day one
+- Relationship-based sales (not cold outreach)
+- Long-term thinking (24-month attribution period)
+
+**Example Usage (for EU market):**
+> "Unlike agencies asking €25-50K upfront, we deliver a working prototype before asking you to sign anything. Our partner Robertas has 30+ years at the Big Four—he only introduces us to clients who expect banking-standard quality. We're ex-Meta and Georgia Tech PhDs delivering institutional-grade work at startup speed."
 
 ---
 
