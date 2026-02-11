@@ -14,6 +14,37 @@ Wei brings a PhD in data science from Georgia Tech and experience at Meta to the
 
 ---
 
+## Quick Stats (Sales-Ready Numbers)
+
+### Sales & Conversion Metrics
+- **90% response rate** on Upwork (vs industry 5-10%)
+- **75-80% conversion** from demo to client
+- **~50% close rate** on Upwork warm leads overall
+- **60%+ choose $6K middle tier** (price anchoring validation)
+- **50% of Month 1 revenue** from conferences (Nick's experience)
+
+### Delivery & Efficiency
+- **3-12 weeks** typical delivery (vs industry 6 months)
+- **20-30x time reduction** on proposal creation (Proposal Builder)
+- **1,000 leads/day** processing capability (immigration system)
+- **50+ production apps** shipped
+- **7,000+ users** scaled (Georgia Tech project)
+- **$500K+ revenue** generated for clients
+
+### Team & Credibility
+- **100+ years combined experience** across team
+- **8 total team members** (2 founders, 2 PhDs, 3 engineers, 1 VA)
+- **AILA Technology Innovation Winner**
+- **Ex-Meta, ex-IBM, Georgia Tech PhDs**
+
+### Business Model
+- **First month (validated):** 10 projects completed, 10-12 in waitlist
+- **Current monthly revenue:** ~$10K
+- **Target (pre-retreat):** ~$15K
+- **Maintenance clients:** 0 (first round of projects still ongoing)
+
+---
+
 ## Team Structure
 
 | Role | Person | Responsibilities |
