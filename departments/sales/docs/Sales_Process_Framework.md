@@ -7,7 +7,7 @@
 
 **Synthesized From:**
 - `../../meetings/sales-intros/*` (coverage: ~90%)
-- `Nexrizen Business Overview.md` (coverage: ~80%)
+- `../../business-core/Nexrizen_Business_Overview.md` (coverage: ~80%)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial extraction from successful sales conversations

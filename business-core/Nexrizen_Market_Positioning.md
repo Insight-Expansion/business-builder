@@ -4,7 +4,7 @@
 
 ---
 **Document:** Nexrizen_Market_Positioning.md
-**Version:** 1.0
+**Version:** 1.1
 **Last Updated:** 2026-02-10
 **Owner:** Wei (CEO)
 **Update Frequency:** Quarterly or when repositioning
@@ -16,6 +16,7 @@
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial creation from website scraping
+- v1.1 (2026-02-10): Moved to business-core/ for proper organization (was in root)
 
 **Downstream Dependencies:**
 - `departments/sales/docs/Sales_Messaging.md` - Uses positioning for pitch
@@ -304,7 +305,7 @@ To refine positioning, gather data on:
 
 ---
 
-**Internal Note:** This doc captures PUBLIC positioning. For operational reality, constraints, and internal strategy, see `Nexrizen Business Overview.md`.
+**Internal Note:** This doc captures PUBLIC positioning. For operational reality, constraints, and internal strategy, see `Nexrizen_Business_Overview.md`.
 
 ---
 

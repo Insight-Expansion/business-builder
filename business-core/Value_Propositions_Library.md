@@ -7,7 +7,7 @@
 
 **Synthesized From:**
 - `../meetings/sales-intros/*` (coverage: ~85%)
-- `Nexrizen Business Overview.md` (coverage: ~90%)
+- `Nexrizen_Business_Overview.md` (coverage: ~90%)
 - `Nexrizen_Market_Positioning.md` (coverage: ~90%)
 
 **What Changed:**
