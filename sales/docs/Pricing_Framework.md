@@ -6,8 +6,8 @@
 **Update Frequency:** Quarterly or when cost structure changes
 
 **Synthesized From:**
-- `../../meetings/sales-intros/*` (coverage: ~70%)
-- `../../business-core/Nexrizen_Business_Overview.md` (coverage: ~90%)
+- `../meetings/sales-intros/*` (coverage: ~70%)
+- `../business-core/Nexrizen_Business_Overview.md` (coverage: ~90%)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial extraction from sales conversations

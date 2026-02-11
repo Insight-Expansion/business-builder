@@ -6,8 +6,8 @@
 **Update Frequency:** Monthly or when process changes
 
 **Synthesized From:**
-- `../../meetings/sales-intros/*` (coverage: ~90%)
-- `../../business-core/Nexrizen_Business_Overview.md` (coverage: ~80%)
+- `../meetings/sales-intros/*` (coverage: ~90%)
+- `../business-core/Nexrizen_Business_Overview.md` (coverage: ~80%)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial extraction from successful sales conversations

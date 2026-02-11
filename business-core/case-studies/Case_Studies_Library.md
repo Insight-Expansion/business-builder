@@ -1,6 +1,6 @@
 ---
 **Document:** Case_Studies_Library.md
-**Version:** 2.1
+**Version:** 3.0
 **Last Updated:** 2026-02-10
 **Owner:** Business Development (org-wide asset)
 **Update Frequency:** Monthly (add new case studies as projects complete)
@@ -16,18 +16,38 @@
 - v1.1 (2026-02-10): Added 3-Day AI service validation metrics, automated demo generation case
 - v2.0 (2026-02-10): Comprehensive extraction from ALL proposal-builder projects (38 projects total)
 - v2.1 (2026-02-10): Moved to business-core/case-studies/ (org-wide asset, not department-specific)
+- v3.0 (2026-02-10): Split into 10 vertical-specific files for easier navigation
+
+**Structure:**
+This is the **master reference document** containing all 33 case studies. For easier navigation, case studies are also organized into vertical-specific files:
+- See [README.md](README.md) for navigation guide
+- See individual vertical files (e.g., `Legal_Tech.md`, `Sports_Fitness.md`) for focused reference
 
 **Downstream Dependencies:**
+- `README.md` - Index file for vertical navigation
+- 10 vertical-specific files - Extract subsets from this master doc
 - `../../departments/marketing/docs/Website_Case_Studies.md` - Public-facing versions
 - `../../departments/sales/docs/Sales_Playbook.md` - Uses in pitch sequences
-- `../../proposal-builder/templates/Proposal_Templates.md` - References in proposals
+- `../../../proposal-builder/templates/Proposal_Templates.md` - References in proposals
 
 **Completeness:** ⚠️ Missing - Client names need authorization, metrics need validation
 ---
 
-# Nexrizen Case Studies Library
+# Nexrizen Case Studies Library (Master Document)
 
-**Purpose:** Document proven successes to use in sales conversations, proposals, and marketing materials. Each case study follows a problem-solution-results format with specific metrics.
+**Purpose:** Comprehensive master reference containing all 33 case studies across 10 verticals.
+
+**For quick vertical-specific access:** See [README.md](README.md) or individual vertical files:
+- [Internal_Meta.md](Internal_Meta.md) - 3-Day AI, Proposal Builder, internal systems
+- [Legal_Tech.md](Legal_Tech.md) - Immigration, law firm operations, compliance
+- [Construction_Field_Services.md](Construction_Field_Services.md) - Restoration, field documentation
+- [Sports_Fitness.md](Sports_Fitness.md) - Baseball analytics, mobile metrics
+- [Sales_Marketing_Automation.md](Sales_Marketing_Automation.md) - Sales coaching, CRM automation
+- [Data_Analytics.md](Data_Analytics.md) - RAG systems, structured extraction
+- [Content_Publishing.md](Content_Publishing.md) - AI book publishing, personalized content
+- [Real_Estate_Property.md](Real_Estate_Property.md) - Probate automation
+- [Professional_Services.md](Professional_Services.md) - Essay service, workflow automation
+- [Emerging_Verticals.md](Emerging_Verticals.md) - Voice AI, automotive, genealogy, wellness
 
 ---
 

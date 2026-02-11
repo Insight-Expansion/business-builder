@@ -19,9 +19,9 @@
 - v1.1 (2026-02-10): Moved to business-core/ for proper organization (was in root)
 
 **Downstream Dependencies:**
-- `departments/sales/docs/Sales_Messaging.md` - Uses positioning for pitch
-- `departments/marketing/docs/Content_Strategy.md` - Aligns with brand voice
-- `decision-frameworks/ICP_Profile.md` - Target market definition
+- `sales/docs/Sales_Messaging.md` - Uses positioning for pitch
+- Content strategy documents - Aligns with brand voice
+- ICP Profile - Target market definition
 
 **Completeness:** ✅ Complete for current website state
 ---

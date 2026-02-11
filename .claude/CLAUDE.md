@@ -4,17 +4,30 @@ Build comprehensive business intelligence and operating system for software agen
 
 ## Project Structure
 
+**Simplified, Pre-Retreat Focus (Active Folders Only)**
+
 ```
 /
-├── business-core/          # Foundation layer (vision, financial model, delivery framework)
-│   └── case-studies/       # Org-wide case studies library (synced from proposal-builder)
-├── departments/            # Department-specific context and SOPs
-├── agency-intelligence/    # Data-driven insights (historical, capacity, client portfolio)
-├── strategy/               # Strategic planning (quarterly, annual, risks)
-├── decision-frameworks/    # Structured decision support
-├── rhythms/                # Operating cadence templates (daily, weekly, monthly, quarterly)
-└── integrations/           # External system sync (Notion, Google Drive, Go High Level)
+├── business-core/          # Foundation (ICP, positioning, case studies)
+│   └── case-studies/       # Org-wide case studies library (33 projects)
+├── sales/                  # Sales process, pricing, objection handling
+│   └── docs/
+├── partnerships/           # EU partnerships, Robertas VP, templates
+│   ├── context/
+│   ├── docs/
+│   ├── partners/
+│   └── templates/
+├── meetings/               # Sales intro transcripts
+│   └── sales-intros/
+├── _future/                # Archived empty structure (build when needed)
+└── .claude/                # System configuration
 ```
+
+**Philosophy**: Build folders when you have content, not before. The `_future/` folder contains planned structure for:
+- agency-intelligence/, strategy/, decision-frameworks/, rhythms/, integrations/
+- Empty departments: delivery, finance, marketing, operations
+
+**When to expand**: When you have 3+ documents for a topic, create its folder.
 
 ## Core Rules
 
@@ -71,28 +84,38 @@ When synthesizing from context sources:
 **Dense interviews, long transcripts = lossy synthesis by design.**
 **Short notes, simple data = can be fully synthesized.**
 
-## Department Structure
+## Active Departments
 
-Each department follows this pattern:
+**Current**: Sales and Partnerships only. No "departments/" parent folder needed.
 
+### Sales Structure
 ```
-departments/[name]/
+sales/
+└── docs/
+    ├── Sales_Process_Framework.md
+    ├── Pricing_Framework.md
+    └── Objection_Handling_Library.md
+```
+
+### Partnerships Structure
+```
+partnerships/
 ├── DEPARTMENT.md           # Overview: owner, update frequency, current state
 ├── context/                # Raw inputs (DO NOT MODIFY)
-│   ├── 01_[source].md
-│   ├── 02_[source].md
-│   └── [exports/interviews/notes]
-└── docs/
-    ├── Context_Map.md              # Catalog of context sources
-    ├── Current_State.md            # How things work now
-    ├── Process_Flows.md            # Detailed workflows
-    ├── SOPs/                       # Standard Operating Procedures
-    │   ├── [Process_Name]_SOP.md
-    │   └── ...
-    ├── KPIs.md                     # Metrics, targets, current state
-    ├── Tools_Stack.md              # Systems used
-    └── Dependencies.md             # What this dept needs from others
+│   ├── 01_eu-partnership-proposal.md
+│   ├── 02_customgpt-intro-email-generator.md
+│   └── ...
+├── docs/
+│   ├── Context_Map.md      # Catalog of context sources
+│   ├── Current_State.md    # How partnerships work now
+│   └── Process_Flows.md    # Step-by-step workflows
+├── partners/               # Individual partner folders
+│   └── robertas-vp/
+├── frameworks/             # Decision frameworks (e.g., Partner Qualification Rubric)
+└── templates/              # Reusable templates
 ```
+
+**When to create new departments**: When you have 3+ documents and clear ownership. Don't prematurely organize.
 
 ## External System Integration
 
@@ -117,43 +140,41 @@ Decision Outputs (Can we take this project? Who's at risk?)
 
 ## Key Document Types
 
-### 1. Foundation Documents (business-core/)
+### 1. Foundation Documents (business-core/) ✅ ACTIVE
 **Purpose**: Establish how the business operates fundamentally
 
-**Examples**:
-- `Vision_Mission_Values.md` - Why we exist
-- `Service_Catalog.md` - What we sell, standard scope
-- `Unit_Economics.md` - Cost to deliver, target margins
-- `ICP_Profile.md` - Ideal client profile
+**Current files**:
+- `Nexrizen_Business_Overview.md` - Internal operational reality
+- `Nexrizen_Market_Positioning.md` - External-facing messaging
+- `Target_Verticals_ICP.md` - Who to sell to
+- `Value_Propositions_Library.md` - How to sell
+- `case-studies/` - 33 projects across 10 verticals
 
 **Update frequency**: Quarterly or when strategy shifts
 
-### 2. Intelligence Documents (agency-intelligence/)
-**Purpose**: Data-driven insights from actual business operations
+### 2. Sales Documents (sales/) ✅ ACTIVE
+**Purpose**: Sales process, pricing, and objection handling
 
-**Examples**:
-- `Estimation_Accuracy.md` - Estimated vs actual hours
-- `Current_Capacity.md` - Team availability next 12 weeks
-- `Client_Health_Scores.md` - Health by client, risk factors
-- `Delivery_Velocity.md` - Actual hours per deliverable type
+**Current files**:
+- `Sales_Process_Framework.md` - Wei's proven sales process
+- `Pricing_Framework.md` - How to price deals
+- `Objection_Handling_Library.md` - How to overcome objections
 
-**Update frequency**: Weekly to monthly (data-driven)
+**Update frequency**: Monthly or when process changes
 
-### 3. Strategic Documents (strategy/)
-**Purpose**: Planning and execution tracking
+### 3. Partnership Documents (partnerships/) ✅ ACTIVE
+**Purpose**: EU partnerships, partner management, collateral
 
-**Examples**:
-- `Q1_2026_OKRs.md` - Quarterly objectives and key results
-- `2026_Revenue_Plan.md` - How we hit the number
-- `Risk_Register.md` - Top risks and mitigation plans
-- `Win_Loss_Analysis.md` - Why we win/lose deals
+**Current structure**: See Partnerships Structure above
 
-**Update frequency**: Set quarterly, review monthly
+**Update frequency**: Weekly during active partnership development
 
-### 4. Decision Frameworks (decision-frameworks/)
-**Purpose**: Structured decision support with clear criteria
-
-**Examples**:
+### 4. Future Document Types (_future/) 📁 PLANNED
+**Folders to build when needed**:
+- `agency-intelligence/` - Data-driven insights (capacity, client health, estimation accuracy)
+- `strategy/` - OKRs, revenue plans, risk registers
+- `decision-frameworks/` - Structured decision support (Should we bid? Should we hire?)
+- `rhythms/` - Meeting templates (weekly sales review, quarterly OKR review)
 - `Should_We_Take_This_Project.md` - ICP fit, margin, capacity check
 - `Should_We_Hire_Now.md` - Utilization, pipeline, cash runway check
 - `Pricing_This_Deal.md` - Cost-plus calculation, value multiplier
@@ -262,7 +283,7 @@ Without regular maintenance, the system drifts:
 
 | Anti-Pattern | Example | Why It Happens | How to Fix |
 |--------------|---------|----------------|------------|
-| **Org-wide assets in dept folders** | `departments/marketing/docs/Case_Studies_Library.md` | Convenient filing when created | Move to `business-core/` or top-level |
+| **Org-wide assets in dept folders** | Case studies in marketing/ instead of business-core/ | Convenient filing when created | Move to `business-core/` or top-level |
 | **Generic folders in specific contexts** | `partnerships/assets/case-studies/` | Starts dept-specific, becomes org-wide | Move to org-wide location when usage broadens |
 | **Meeting notes scattered** | Meetings in marketing/, sales/, partnerships/ | No clear convention established | Centralize to top-level `meetings/` directory |
 | **Foundation docs in wrong location** | ICP, value props, service catalog in dept folders | Unclear ownership at creation | Move to `business-core/` (foundational strategy) |
@@ -307,28 +328,25 @@ Run `/audit` when you notice:
 # Then run /maintain to fix
 ```
 
-### File Placement Decision Tree
+### File Placement Decision Tree (Simplified)
 
 **When creating a new document, ask:**
 
 ```
-Is this document used by multiple departments?
-├─ YES → Consider org-wide location (business-core/, strategy/, decision-frameworks/)
-│   └─ Is it foundational (vision, ICP, services, economics)?
-│       ├─ YES → business-core/
-│       └─ NO → Is it strategic planning (OKRs, revenue plans, risks)?
-│           ├─ YES → strategy/
-│           └─ NO → Is it a decision framework (should we X)?
-│               ├─ YES → decision-frameworks/
-│               └─ NO → Consider agency-intelligence/ or rhythms/
-└─ NO → Is it department-specific process/knowledge?
-    ├─ YES → departments/[name]/docs/
-    │   └─ Is it raw input (transcript, export, notes)?
-    │       ├─ YES → departments/[name]/context/
-    │       └─ NO → Is it a synthesized doc or SOP?
-    │           └─ YES → departments/[name]/docs/ or docs/SOPs/
-    └─ NO → Might be org-wide after all, reconsider top branch
+Is this foundational (ICP, positioning, case studies)?
+├─ YES → business-core/
+└─ NO → Is it about sales process/pricing/objections?
+    ├─ YES → sales/docs/
+    └─ NO → Is it about partnerships?
+        ├─ YES → partnerships/docs/ (or context/ if raw input)
+        └─ NO → Is it a meeting transcript?
+            ├─ YES → meetings/sales-intros/
+            └─ NO → Do you have 3+ similar docs?
+                ├─ YES → Create new top-level folder
+                └─ NO → Put in business-core/ for now, move later if pattern emerges
 ```
+
+**Key principle**: Don't create folders until you have content. When you have 3+ documents on a topic, create its folder.
 
 ### Reference Update Best Practices
 
@@ -614,10 +632,11 @@ Before marking any document complete:
 ## Conventions
 
 ### Naming
-- **Departments**: lowercase with hyphens (`sales`, `delivery`, `marketing`)
+- **Top-level folders**: lowercase, no hyphens (`sales`, `partnerships`, `meetings`, `business-core`)
 - **Context files**: Numbered prefix (`01_`, `02_`, `03_`)
 - **Documents**: Title_Case_With_Underscores (`Current_State.md`, `Process_Flows.md`)
 - **SOPs**: Process_Name_SOP.md (`Lead_Qualification_SOP.md`)
+- **No spaces in filenames**: Use underscores or hyphens, not spaces
 
 ### Versioning
 - **Major version** (1.0 → 2.0): Significant restructure, major content change
@@ -663,20 +682,28 @@ Track these to measure system health:
 - Win rate: % on qualified opportunities
 - Margin achievement: Actual vs target by service
 
-## Current Phase: Phase 0 - Foundation
+## Current Phase: Pre-Retreat Focus
 
-**Status**: Setting up repository structure and core system
+**Status**: Simplified structure, focused on urgency
 
-**Next Steps**:
-1. ✅ Create directory structure
-2. ✅ Write CLAUDE.md (this file)
-3. Create first slash command: `/capture-context`
-4. Build Phase 1 priority docs: Service Catalog, Unit Economics, Estimation Accuracy, Current Capacity, Client Health
+**Completed**:
+1. ✅ Simplified to 5 active folders (was 14 top-level folders)
+2. ✅ Core business docs in place (Business Overview, Market Positioning, ICP, Value Props)
+3. ✅ 33 case studies organized by vertical
+4. ✅ Sales process documented (Wei's proven process)
+5. ✅ Partnerships structure for EU expansion (Robertas VP)
 
-**Questions to Answer**:
-- Which department to pilot first? (Recommend: Sales or Delivery)
-- MCP vs exports for Phase 1? (Recommend: Exports for speed, MCP later)
-- Update frequency for core docs? (Recommend: Weekly for intelligence, Monthly for strategy)
+**Priorities** (Next 2.5 months before Wei's retreat):
+1. LinkedIn outreach system documentation (for Ruth + Gabe)
+2. Sales handoff documentation (Gabe autonomous sales)
+3. Partnership playbooks (Robertas VP execution)
+4. Meeting transcripts → synthesized insights
+
+**Build later** (Post-retreat, in _future/):
+- Agency intelligence (capacity planning, client health)
+- Decision frameworks (should we bid, should we hire)
+- Strategic planning docs (OKRs, revenue plans)
+- Operating rhythms (weekly/monthly/quarterly templates)
 
 ---
 
