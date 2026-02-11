@@ -226,32 +226,33 @@ Commands should:
 - `agency-intelligence/capacity_planning/Hiring_Forecast.md` - Uses utilization thresholds
 ```
 
-### Tidy: One Command for All Maintenance
+### Two-Command Maintenance System
 
-**The `/tidy` command is your all-in-one system maintenance tool.**
+**Simple, focused maintenance with clear separation:**
 
-Every time you run `/tidy`, it automatically:
+#### `/tidy` - Git + Content (Daily)
+Run after every work session to keep commits clean and dependencies in sync:
 1. **Organizes uncommitted changes** into logical git commits
 2. **Analyzes downstream dependencies** to identify which docs need updates
-3. **Runs quick structural audit** to catch misplaced files and broken references
-4. **Fixes organizational issues** with safe file moves and automatic reference updates
-
-**This replaces needing to remember multiple commands** - just run `/tidy` after every work session.
 
 **Priority levels for dependency updates:**
 - 🔴 **Critical**: Foundation doc changed, decision frameworks must update
 - ⚠️ **Should update**: KPIs changed, strategy docs should reflect new data
 - 💡 **Consider**: Context added, synthesis might benefit from inclusion
 
-**Why this matters:**
-Without automated maintenance, the system drifts:
-- Commits become messy and unclear
-- Decision frameworks use stale data
-- Files end up in wrong locations
-- Cross-references break
-- New context doesn't get synthesized
+#### `/maintain` - Structure + References (Weekly)
+Run weekly to keep system organized:
+1. **Audits structure** to find misplaced files and broken references
+2. **Reorganizes files** safely with automatic reference updates
+3. **Fixes metadata** issues (missing fields, stale dates)
+4. **Validates conventions** (naming, structure)
 
-**Run `/tidy` after every work session** (5-10 minutes total).
+**Why both matter:**
+Without regular maintenance, the system drifts:
+- Commits become messy → `/tidy` fixes
+- Files end up in wrong places → `/maintain` fixes
+- Dependencies go stale → `/tidy` detects
+- References break → `/maintain` detects
 
 ## Structural Health & System Integrity
 
@@ -282,27 +283,29 @@ Run `/audit` when you notice:
 - ❌ **Unsure which file is "correct"** - Version drift
 - ❌ **Documents reference outdated values** - Downstream drift
 
-### When to Use Deep Audit (Optional)
+### When to Use Each Command
 
-**`/tidy` handles 95% of maintenance automatically.**
+**`/tidy` (daily):**
+- After every work session
+- Before pushing to git
+- When you've updated multiple documents
+- When you've added context files
+- When foundation docs changed
 
-You only need the standalone `/audit` command for:
+**`/maintain` (weekly):**
+- Friday afternoon cleanup
+- After creating new departments
+- After moving files manually
+- Before onboarding new team members
+- Before quarterly reviews
+- When system feels disorganized
 
-**Monthly Deep Clean:**
+**Use `--check-only` for dry runs:**
+```bash
+/maintain --check-only
+# Review issues without making changes
+# Then run /maintain to fix
 ```
-/tidy --audit-only
-    → Comprehensive 6-phase analysis
-    → Dependency graph validation
-    → Content consistency checks
-    → ~5 minutes
-```
-
-**After Major Changes:**
-- New department created → `/tidy --audit-only` to verify structure
-- Onboarding new team member → `/tidy --audit-only` to ensure clarity
-- Before quarterly review → `/tidy --audit-only` to verify system health
-
-**Most of the time:** Just run `/tidy` after work sessions and you're good!
 
 ### File Placement Decision Tree
 
@@ -387,58 +390,55 @@ Track these metrics monthly via `/audit`:
 
 **If overall health drops below 75/100:** Schedule dedicated cleanup sprint.
 
-### Primary Workflow: Just Use `/tidy`
+### Primary Workflow
 
 ```
-Daily Workflow (Simple):
+Daily (After Every Work Session):
+  Work on docs → /tidy → Push
+                   ↓
+       ┌───────────┴───────────┐
+       │ 1. Commits organized  │
+       │ 2. Dependencies synced│
+       └───────────────────────┘
 
-Work on docs → /tidy → Done!
-                 ↓
-    ┌────────────┴────────────┐
-    │ 1. Commits organized    │
-    │ 2. Dependencies checked │
-    │ 3. Structure audited    │
-    │ 4. Issues fixed         │
-    └─────────────────────────┘
-
-That's it! One command handles everything.
+Weekly (Friday Afternoon):
+  /maintain → Review issues → Approve fixes → Push
+       ↓
+┌──────┴──────────────────┐
+│ 1. Structure audited    │
+│ 2. Files reorganized    │
+│ 3. References updated   │
+│ 4. Metadata fixed       │
+└─────────────────────────┘
 ```
 
-**Monthly deep audit (optional):**
+**That's it!** Two focused commands:
+- **Tidy** = Content-level maintenance
+- **Maintain** = Structure-level maintenance
+
+### How `/maintain` Handles Reorganization
+
+**Safe, automatic file moves:**
+
+When you run `/maintain`, it:
+1. **Scans** for misplaced files, broken references, metadata issues
+2. **Prioritizes** problems (🔴 Critical / ⚠️ Important / 💡 Recommendations)
+3. **Proposes** specific fixes with clear reasoning
+4. **Asks approval** with full impact analysis
+5. **Executes** safe moves with automatic reference updates
+6. **Commits** all fixes automatically
+
+**Example approval flow:**
 ```
-Monthly Review:
+/maintain found 5 issues:
+- 2 misplaced files (8 references to update)
+- 1 broken reference
+- 2 missing metadata fields
 
-/tidy --audit-only
-    ↓
-Deep structural analysis
-    ↓
-Fix any complex issues
-    ↓
-/tidy (commits the fixes)
-```
-
-### How `/tidy` Handles Reorganization
-
-**Automatic detection and fixing:**
-
-When you run `/tidy`, it automatically:
-1. **Detects** misplaced files (quick structural audit)
-2. **Proposes** moves with clear reasoning
-3. **Asks approval** before making changes
-4. **Executes** safe moves with reference updates
-5. **Commits** reorganization automatically
-
-**User approval flow:**
-```
-/tidy finds 3 misplaced files
-
-Would you like to fix these issues now? [y/n]
-  → You review the proposed moves
-  → You approve or decline
-  → If approved, /tidy handles everything
+Would you like me to execute these fixes? [y/n]
 ```
 
-**No need for separate commands** - `/tidy` does it all!
+**Completely safe:** All references updated automatically, nothing breaks!
 
 ### System Integrity Principles
 
@@ -560,12 +560,9 @@ When syncing from external systems, track:
 - `/capture-context` - Synthesize messy inputs into structured docs
 - `/build-doc <type>` - Generate standard doc from template
 - `/update-context` - Update existing doc with new information
-- **`/tidy`** - **Complete system maintenance** (commits + dependencies + audit + reorganization)
+- **`/tidy`** - Organize git commits + analyze downstream dependencies (daily use)
+- **`/maintain`** - Audit structure + reorganize files (weekly use)
 - `/sync-case-studies` - Sync new projects from proposal-builder GitHub repo to case studies
-
-**Advanced (optional):**
-- `/audit` - Deep system health audit (monthly, comprehensive 6-phase analysis)
-- `/reorganize` - Manual file reorganization (use when `/tidy` auto-detection isn't enough)
 
 ### Phase 2: Decision Support (Week 5-6)
 - `/should-we-bid <opportunity>` - Evaluate against frameworks
@@ -644,8 +641,9 @@ Before marking any document complete:
 - ❌ Don't synthesize without tracking sources
 - ❌ Don't skip the learning loop (track actuals, extract patterns)
 - ❌ Don't build analysis paralysis - focus on decision-enabling docs
-- ❌ **Don't skip `/tidy` after work sessions** - it handles everything automatically
-- ❌ Don't move files manually without updating references (use `/tidy` to fix)
+- ❌ **Don't skip `/tidy` after work sessions** - keeps commits clean and dependencies synced
+- ❌ **Don't skip `/maintain` weekly** - prevents organizational drift
+- ❌ Don't move files manually without updating references (use `/maintain` to fix)
 
 ## Success Metrics
 
