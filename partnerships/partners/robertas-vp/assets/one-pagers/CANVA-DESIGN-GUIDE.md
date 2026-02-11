@@ -60,20 +60,24 @@
 ├─────────────────────────────────────┤
 │ THE CHALLENGE EUROPEAN              │  ← Problem
 │ EXECUTIVES FACE                     │
+│ (includes €25-50K advance payment)  │
 ├─────────────────────────────────────┤
 │ WHAT WE BUILD                       │  ← Services
 │ [3 columns: Software | AI | CTO]    │
 ├─────────────────────────────────────┤
-│ WHY NEXRIZEN IS DIFFERENT           │  ← Differentiators
-│ • Senior Engineers Only             │
-│ • AI-Native Operations              │
-│ • Prototype-First Sales             │
+│ WHY NEXRIZEN IS DIFFERENT           │  ← 3 Major Differentiators
+│ 1. No Advance Payment (Robertas Q) │
+│ 2. 6 AI Systems (GitHub badges)    │
+│ 3. Banking-Standard Quality         │
 ├─────────────────────────────────────┤
 │ PROVEN RESULTS                      │  ← Metrics
 │ • 100x speed • $50K savings         │
 ├─────────────────────────────────────┤
 │ INDUSTRIES WE SERVE                 │  ← Table
 │ [Healthcare | Insurance | etc.]     │
+├─────────────────────────────────────┤
+│ OUR FOUNDERS                        │  ← Enhanced profiles
+│ Wei (Meta, meditation) | Gabe (exits)│
 ├─────────────────────────────────────┤
 │ HOW TO START                        │  ← CTA
 │ [Button: Schedule Discovery Call]  │
@@ -171,30 +175,91 @@ The Challenge European Executives Face
 
 ---
 
-### SECTION 3: WHY NEXRIZEN IS DIFFERENT (3 Boxes)
+### SECTION 3: WHY NEXRIZEN IS DIFFERENT (3 Major Subsections)
 
-**Box 1: Senior Engineers Only**
+**NEW IN V2.0:** This section is now structured as 3 detailed subsections instead of 3 boxes. Each subsection gets its own heading and detailed content.
+
+---
+
+**Subsection 1: No Advance Payment Required (Unlike €25-50K Competitors)**
+
+**Heading:**
+- Font: Inter Bold, 14-16pt, `#2563eb` (blue)
+- Text: "1. No Advance Payment Required (Unlike €25-50K Competitors)"
+
+**Content highlights:**
+- "The Problem: Most European consultancies ask €25,000-€50,000 upfront"
+- "Our Approach: After a single discovery call, we build a working prototype — BEFORE any contract is signed"
+- Results: 90% response rate, 75-80% conversion
+- **Include Robertas quote in blockquote style** (light blue background, left border in `#502cff`)
+
+**Design:** Clean paragraph layout with bullet points for results. Use blockquote styling for Robertas's testimonial.
+
+---
+
+**Subsection 2: Complete AI-Native Technology Stack (Verifiable on GitHub)**
+
+**Heading:**
+- Font: Inter Bold, 14-16pt, `#2563eb` (blue)
+- Text: "2. Complete AI-Native Technology Stack (Verifiable on GitHub)"
+
+**Content - 6 Systems in compact format:**
+
 ```
-Every project led by founders (ex-Meta, ex-IBM, Georgia Tech).
-8 senior engineers, 100+ years combined experience.
-No junior devs. No outsourcing. Direct founder access.
+System #1: Proposal Builder
+• 20-30x time reduction
+• Auto-ingests meetings/emails
+
+System #2: Lovable Prototype Generator
+• One-click UI generation
+• Working demos in minutes
+
+System #3: ThreeDays Dev Toolkit
+• GitHub: github.com/Insight-Expansion/threedays-dev-toolkit
+• Why we deliver in 3-12 weeks vs 6 months
+
+System #4: Browser Automation Generator
+• GitHub: github.com/Insight-Expansion/browser-automation-generator
+• Custom automation for each project
+
+System #5: Webinar Generator
+• GitHub: github.com/Insight-Expansion/webinar-generator
+• Scales marketing without scaling team
+
+System #6: Business Builder
+• Complete AI-native operating system (In Development)
 ```
 
-**Box 2: AI-Native Operations**
-```
-We run our own business on proprietary AI systems.
-20-30x time reduction on proposals.
-Faster turnaround, lower overhead than traditional agencies.
-```
+**Design Elements:**
+- Use small GitHub logo/icon next to systems #3, #4, #5
+- Consider light code-style background (`#f8fafc`) for GitHub URLs
+- Keep compact - 2 columns if space allows
+- **Add "Verify our claims" callout** (small badge or highlight)
 
-**Box 3: Prototype-First Sales**
-```
-After one discovery call, we build a working prototype
-BEFORE any contract is signed.
-90% response rate, 75-80% conversion to paying clients.
-```
+---
 
-**Design:** Light blue background boxes (`#eff6ff`), rounded corners
+**Subsection 3: Banking-Standard Quality. Senior Engineers Only.**
+
+**Heading:**
+- Font: Inter Bold, 14-16pt, `#2563eb` (blue)
+- Text: "3. Banking-Standard Quality. Senior Engineers Only."
+
+**Content highlights:**
+- "Every project led directly by founders"
+- "ex-Meta and ex-IBM engineers with Georgia Tech backgrounds"
+- "8 senior engineers, 100+ years combined experience"
+- **Bold callout:** "No junior developers. No outsourcing. No layers."
+- "Our EU partner has 30+ years at Big Four firms"
+
+**Design:** Clean paragraph layout with key phrases in bold. Consider subtle icon/badge for "Big Four" reference.
+
+---
+
+**Overall Section Design Notes:**
+- Each subsection should be visually distinct (use horizontal lines or spacing)
+- Maintain hierarchy: Section title > Subsection headings > Content
+- Don't overcrowd - this is now a longer section but critical for positioning
+- If page length is an issue, slightly reduce font size (9-10pt body) but keep readable
 
 ---
 
@@ -241,7 +306,56 @@ Eliminated    Conversations   Scaled
 
 ---
 
-### SECTION 6: HOW TO START (CTA)
+### SECTION 6: OUR FOUNDERS (Enhanced Profiles - NEW IN V2.0)
+
+**NEW IN V2.0:** Founder profiles now include personal details that build trust and relatability (Wei's meditation practice, Gabe's successful exits).
+
+**Layout:** 2-column format with photos (optional) or clean text blocks
+
+---
+
+**Column 1: Weipeng Zhuo, PhD (ABD) — CEO & Co-Founder**
+
+**Key highlights to emphasize:**
+- Former Meta data scientist
+- Seven years at Georgia Tech (ranked #3 nationally in engineering)
+- **NEW:** "10-day silent meditation retreats annually (10th year)"
+- AILA Technology Innovation Award winner
+- Philosophy: "On a search for truth, connecting with good people"
+
+**Design notes:**
+- Consider meditation/mindfulness icon or subtle visual
+- Highlight the meditation detail - it humanizes technical expertise
+- Keep professional but warm tone
+
+---
+
+**Column 2: Gabriel Perez — CTO & Co-Founder**
+
+**Key highlights to emphasize:**
+- **NEW:** "Serial entrepreneur with multiple successful exits:"
+  - CITYROW acquisition (WaterRower, January 2024)
+  - SaaS platform acquired by Georgia Tech
+- 15+ years engineering experience
+- Computer Science at Georgia Tech (ranked #2 nationally in CS)
+- Former IBM engineer
+
+**Design notes:**
+- Emphasize "successful exits" for PE/investment audience
+- Creates credibility for entrepreneurial understanding
+- Balance technical depth with business acumen
+
+---
+
+**Overall Founder Section Design:**
+- Keep concise but impactful
+- Use subtle icons (meditation symbol, acquisition/exit symbol)
+- Consider light background box (`#f8fafc`) to separate from surrounding content
+- Font: Inter Regular, 10pt body, with bold highlights for key achievements
+
+---
+
+### SECTION 7: HOW TO START (CTA)
 
 **Headline:**
 ```
@@ -274,7 +388,7 @@ How to Start
 
 ---
 
-### FOOTER
+### SECTION 8: FOOTER
 
 **Contact Info:**
 ```

@@ -1,4 +1,26 @@
-# Nexrizen Brand Assets
+---
+**Document:** Brand_Guidelines.md
+**Version:** 1.0
+**Last Updated:** 2026-02-11
+**Owner:** Wei
+**Update Frequency:** Quarterly (or when brand updates occur)
+
+**Synthesized From:**
+- nexrizen.com website analysis (coverage: ~95%)
+- `partnerships/partners/robertas-vp/context/03_eu-collateral-plan.md` (coverage: ~10%)
+
+**What Changed:**
+- v1.0 (2026-02-11): Moved from partnerships to business-core as org-wide asset
+
+**Downstream Dependencies:**
+- `business-core/collateral/Executive_Overview.md` - Uses brand colors and design aesthetic
+- `partnerships/partners/robertas-vp/assets/one-pagers/*` - References brand guidelines
+- All sales and marketing collateral
+
+**Completeness:** ✅ Complete - Comprehensive brand guidelines extracted from website
+---
+
+# Nexrizen Brand Guidelines
 
 **Source:** Extracted from nexrizen.com website (2026-02-10)
 
@@ -102,7 +124,7 @@ onerror='this.onerror=null,this.src="/images/logo_hu_9e50537ab8f9108e.png"'
 
 ---
 
-## Recommended Color Palette for EU One-Pager
+## Recommended Color Palette for Collateral
 
 ### Primary
 - **Navy/Deep Blue:** `#1e293b` (slate-900) - for headings
@@ -120,9 +142,9 @@ onerror='this.onerror=null,this.src="/images/logo_hu_9e50537ab8f9108e.png"'
 
 ---
 
-## Assets Needed for One-Pager
+## Brand Assets
 
-### To Create/Obtain
+### Available Assets
 1. **Logo PNG** - High-res, transparent background
    - Download from: `https://www.nexrizen.com/images/logo.png`
 
@@ -139,7 +161,7 @@ onerror='this.onerror=null,this.src="/images/logo_hu_9e50537ab8f9108e.png"'
 
 ---
 
-## Design Guidelines for EU One-Pager
+## Design Guidelines for All Collateral
 
 ### Do's
 ✅ Use clean sans-serif typography (Inter)
