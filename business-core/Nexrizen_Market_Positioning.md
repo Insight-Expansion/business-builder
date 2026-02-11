@@ -39,11 +39,14 @@
 
 ## 30-Second Elevator Pitches (Quick Reference)
 
-**Generic version (AI-Native Angle):**
-> "We're ex-Meta and Georgia Tech PhDs who build AI systems in 3-12 weeks that other dev shops take 6 months to deliver. Here's the secret: We've built proprietary AI that runs our entire business—from proposals to prototypes to project management. We build working demos before you even pay us, which is why 90% of people who see our demos become clients. We don't just talk about AI—we're 100% AI-native."
+**Generic version (AI-Native Angle - Full Stack):**
+> "We're ex-Meta and Georgia Tech PhDs who build AI systems in 3-12 weeks that other dev shops take 6 months to deliver. Here's the secret: We've built 6 proprietary AI systems that run our entire business—sales (Proposal Builder), prototyping (Lovable), development (ThreeDays Dev Toolkit on GitHub), automation, marketing, operations. We build working demos before you even pay us, which is why 90% of people who see our demos become clients. We don't just talk about AI—we're 100% AI-native for everything we do."
 
-**Alternative (Speed + Innovation):**
-> "We're completely uprooting traditional software development using the newest cutting-edge tech. Our proprietary AI systems let us deliver in 3-12 weeks what takes others 6 months. We're constantly integrating tools that didn't exist a month ago into practical business solutions. No PMs, no junior devs, just senior engineers using AI workflows that give us 20-30x time advantages."
+**Alternative (Speed + Innovation + GitHub Credibility):**
+> "We're completely uprooting traditional software development using the newest cutting-edge tech. We've built 6 proprietary AI systems that let us deliver in 3-12 weeks what takes others 6 months. Three of them are public on GitHub: threedays-dev-toolkit, browser-automation-generator, webinar-generator. We're constantly integrating tools that didn't exist a month ago. No PMs, no junior devs, just senior engineers using AI workflows that give us 20-30x time advantages."
+
+**For GitHub/Tech Community:**
+> "Check out our ThreeDays Dev Toolkit on GitHub—it's how we deliver AI projects in 3-12 weeks vs industry 6 months. We've built 6 proprietary AI systems: sales automation (Proposal Builder), rapid prototyping (Lovable), development acceleration (ThreeDays), project-specific automation (Browser Automation Generator), marketing (Webinar Generator), and operations (Business Builder). We're ex-Meta and Georgia Tech PhDs who practice what we preach: 100% AI-native operations."
 
 **For legal sector:**
 > "We're the only dev shop with a fractional CTO embedded in the largest Dallas immigration law firm, speaking at AILA, and processing 1,000 leads/day with AI. We ease lawyers' fears about AI by doing the heavy lifting—you focus on clients, we handle the tech. Proof of concept in a week, full system in 3-12 weeks."
@@ -76,34 +79,70 @@ Custom AI systems, software development, and data infrastructure built by senior
 
 ### 1. **AI-Native Operations: We Practice What We Preach**
 
-> "We're not just building AI systems for clients—we use AI to completely uproot and rebuild our entire business. We're 100% AI-native." - Wei
+> "We're not just building AI systems for clients—we use AI to completely uproot and rebuild our entire business. We're 100% AI-native for EVERYTHING we do." - Wei
 
-**The Secret Weapon: Proprietary Internal AI Systems**
+**The Complete AI-Native Technology Stack**
 
-Most dev shops talk about AI. Nexrizen runs on AI.
+Most dev shops talk about AI. Nexrizen runs **entirely** on proprietary AI systems.
 
-**Proposal Builder (Proprietary System):**
+**We've built AI automation for every part of our business:**
+
+### Complete Proprietary AI Stack (6 Systems)
+
+**1. Proposal Builder** - Sales & Client Acquisition
 - **20-30x time reduction** - 5-10 hours per proposal → <1 hour for 5-6 proposals in parallel
 - **Auto-ingests everything** - Meetings, WhatsApp, Upwork messages, emails, documents, Excel sheets
 - **Deep research automation** - Reads hundreds of articles to understand competitors and tools
 - **One-click prototype generation** - Creates working UI from single prompt before client pays
-- **Bidirectional updates** - Change scope → auto-updates requirements → auto-updates architecture → auto-updates estimates
+- **Bidirectional updates** - Change scope → auto-updates requirements → architecture → estimates
 - **Interactive web proposals** - Beautiful, clickable proposals (not static PDFs)
+- **Results:** 90% response rate, 75-80% conversion from demo to client
+
+**2. Lovable Prototype Generator** - Rapid Prototyping
+- **One-click UI generation** from requirements
+- **Working demos in minutes** (not days)
+- **Client alignment tool** - Show, don't tell
+- **Integrated with Proposal Builder** - Seamless workflow
+
+**3. ThreeDays Dev Toolkit** - Actual Development Framework
+- **GitHub:** github.com/Insight-Expansion/threedays-dev-toolkit
+- **Proprietary development accelerators**
+- **AI-assisted coding workflows**
+- **Why we deliver in 3-12 weeks vs industry 6 months**
+
+**4. Browser Automation Generator** - Project-Specific Builders
+- **GitHub:** github.com/Insight-Expansion/browser-automation-generator
+- **Creates custom automation** for each project
+- **Reduces manual testing and repetitive work**
+- **Client-specific workflow automation**
+
+**5. Webinar Generator** - Marketing Automation
+- **GitHub:** github.com/Insight-Expansion/webinar-generator
+- **Automated webinar content creation**
+- **Scales marketing without scaling team**
+- **Consistent quality at volume**
+
+**6. Business Builder** - Operations (In Development)
+- Ingests ALL business context (Slack, meetings, strategies, financials, departments)
+- Answers: "Who's doing well?", "Which projects?", "Who should we hire?"
+- Weekly team evaluations, business coaching, forecasting
+- **Vision:** Complete AI-native business operating system
+
+---
+
+### The Competitive Moat This Creates
 
 **What This Means for Clients:**
 - ✅ **Working prototypes before you pay** - No other competitor does this
 - ✅ **90% response rate** on competitive platforms (vs industry 5-10%)
 - ✅ **75-80% conversion** from demo to client
+- ✅ **3-12 weeks delivery vs 6 months industry** - Our dev toolkit is the secret
 - ✅ **Faster sales process** - Visual alignment eliminates weeks of back-and-forth
+- ✅ **Better quality** - AI catches errors humans miss
+- ✅ **Lower cost** - Pass time savings to clients
 
 **Client Reaction:**
 > "Holy shit, you've already built 50% of this project. How are we not gonna go with you?" - Typical response
-
-**Business Builder (In Development):**
-- Ingests ALL business context (Slack, meetings, strategies, financials, departments)
-- Answers questions like: "Who's doing well on the team?", "Which projects should we prioritize?", "Who should we hire?"
-- Weekly team evaluations, business coaching, forecasting
-- **Vision:** Complete AI-native business operating system
 
 **Why This Matters:**
 > "We're constantly on the lookout for new tools, integrating new tools to completely uproot and rebuild the whole business operations. AI is moving insanely fast - technology that comes up literally a week or two, a month ago, we're applying it to completely redesign how business is done." - Wei to Zane (VC partner)
