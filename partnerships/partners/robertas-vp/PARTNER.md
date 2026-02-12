@@ -4,7 +4,8 @@
 **Territory:** EU/EEA + Switzerland
 **Agreement Signed:** Not yet (draft in progress)
 **Partnership Start:** 2026-02-06 (kickoff meeting)
-**Last Updated:** 2026-02-10
+**Last Updated:** 2026-02-12
+**Recent Update:** EU one-pager v2.0 content complete, ready for design
 
 **Commission Structure:**
 - Rate: 15% of collected revenue
@@ -245,10 +246,13 @@
 **Due: Early next week (~2026-02-09 to 2026-02-12)**
 - [ ] Send draft reseller agreement
 - [ ] Send collateral drafts:
-  - [ ] One-pager (EU executive overview)
-  - [ ] Co-branded presentation materials
-  - [ ] Email introduction templates
-- [ ] Provide logo and brand assets
+  - [x] One-pager (EU executive overview) ✅ **v2.0 content complete (Feb 11, 2026)** - Ready for Canva design (3-4 hours), then PDF export
+    - **Location:** `partnerships/partners/robertas-vp/assets/one-pagers/EU-Executive-Overview-CONTENT.md`
+    - **Includes:** Complete 6-system AI-native stack, GitHub repos, "No Advance Payment" differentiator, banking-standard positioning
+    - **Next:** Design execution, then send to Robertas for review
+  - [ ] Co-branded presentation materials (planned, not yet created)
+  - [ ] Email introduction templates (planned, not yet created)
+- [x] Provide logo and brand assets ✅ **Complete** - Brand guidelines in `business-core/brand/Brand_Guidelines.md`
 - [ ] Schedule recurring bi-weekly check-ins
 
 **Timeline commitment:**

@@ -1,7 +1,7 @@
 ---
 **Document:** Current_State.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-12
 **Owner:** Wei Zhuo
 **Update Frequency:** Monthly (or when partnership terms/status changes materially)
 
@@ -13,12 +13,13 @@
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial creation - pilot phase, pre-agreement
+- v1.1 (2026-02-12): Updated collateral status to reflect EU one-pager v2.0 completion (ready for design), updated "What We Don't Know Yet" section
 
 **Downstream Dependencies:**
 - `Process_Flows.md` - Details the workflows described here
 - Future: `Partner_Performance.md` - Will track outcomes once deals close
 
-**Completeness:** ⚠️ In Progress - Kickoff meeting completed (2026-02-06), 5 leads identified, agreement draft in progress
+**Completeness:** ⚠️ In Progress - Kickoff meeting completed (2026-02-06), 5 leads identified, EU one-pager v2.0 content complete, agreement draft in progress
 ---
 
 # Partnerships Department - Current State
@@ -371,13 +372,21 @@ Partner agrees not to directly compete by offering identical AI development serv
 
 ### Current Collateral Status
 
-**Status:** Planned but not yet produced (as of 2026-02-10)
+**Status:** EU one-pager v2.0 content complete, ready for design (as of 2026-02-12)
 
 **Priority 1 deliverables (Week 1-2):**
 1. ✅ Partnership proposal (done - this doc references it)
-2. 🕐 **One-Pager:** EU Executive Overview (A4 PDF, 1-2 pages)
-3. 🕐 **Case Study Collection:** 8-12 page booklet, 7 selected cases
+2. ✅ **One-Pager:** EU Executive Overview (v2.0 content complete Feb 11, 2026)
+   - **Location:** `partnerships/partners/robertas-vp/assets/one-pagers/EU-Executive-Overview-CONTENT.md`
+   - **Status:** Ready for Canva design execution (3-4 hours)
+   - **Includes:** Complete 6-system AI-native stack, GitHub repos (3 public), "No Advance Payment" differentiator (vs €25-50K EU competitors), banking-standard quality positioning for Big Four backgrounds, enhanced founder profiles
+   - **Format:** A4 PDF (design pending)
+   - **Next step:** Design execution in Canva, then export to PDF
+3. 📊 **Case Study Collection:** 8-12 page booklet, 7 selected cases
+   - **Available:** `business-core/case-studies/` (33 case studies across 10 verticals)
+   - **Status:** Content exists, needs formatting/design as PDF booklet
 4. 🕐 **Capability Sheets:** 5 industry-specific one-pagers (fintech, healthcare, professional services, aviation, private equity)
+   - **Status:** Planned, not yet created
 
 **Priority 2 deliverables (Week 3-4):**
 5. 🕐 **Presentation Deck:** 10-15 slides for group presentations
@@ -512,9 +521,11 @@ Partner agrees not to directly compete by offering identical AI development serv
 - ⚠️ Don't know how competitors structure channel partnerships
 - ⚠️ Don't know if 15% is competitive or low/high
 
-**No collateral produced yet:**
-- ⚠️ One-pager, case studies, capability sheets, deck all in planning phase
-- ⚠️ Can't enable partner effectively without materials
+**Limited collateral produced:**
+- ✅ One-pager content complete (v2.0, ready for design execution)
+- ⚠️ Case study collection needs formatting (content exists in business-core/)
+- ⚠️ Capability sheets, presentation deck, email templates still in planning phase
+- ⚠️ Can't fully enable partner until all priority materials are designed/formatted
 
 **Legal/tax unknowns:**
 - ⚠️ Tax implications of US-EU reseller payments (need accountant review)

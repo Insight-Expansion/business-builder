@@ -1,40 +1,53 @@
 ---
 **Document:** REUSABLE_ASSETS.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-12
 **Owner:** Wei Zhuo
 **Purpose:** Catalog of reusable partnership assets and where they're stored
 
 **Update Frequency:** As-needed (when new assets are created)
+
+**What Changed:**
+- v1.0 (2026-02-10): Initial catalog of partnership assets
+- v1.1 (2026-02-12): Updated directory structure to reflect business-core/ org-wide assets; noted Brand_Guidelines moved to business-core/brand/; updated EU one-pager status to v2.0 complete
 ---
 
 # Partnerships Department - Reusable Assets
 
 ## Directory Structure
 
+**Note:** As of Feb 2026, org-wide assets moved to `business-core/` for reuse across all departments.
+
 ```
-departments/partnerships/
-├── templates/                  # Reusable document templates
-│   ├── partner/               # Partner management
-│   ├── leads/                 # Lead tracking
-│   └── meetings/              # Meeting notes
-├── assets/                    # Partner-facing collateral (marketing materials)
-│   ├── one-pagers/           # Executive overviews
-│   ├── capability-sheets/    # Industry-specific capabilities
-│   ├── case-studies/         # Success stories
-│   ├── email-templates/      # Introduction emails
-│   ├── presentations/        # Slide decks
-│   └── brand/                # Logos, brand guidelines
-├── frameworks/                # Decision support tools
+business-core/                 # ORG-WIDE ASSETS (used by all departments)
+├── collateral/               # Reusable sales materials
+│   └── Executive_Overview.md # Market-neutral base template for all one-pagers
+├── brand/                    # Brand identity
+│   └── Brand_Guidelines.md   # Colors, typography, logo, design aesthetic
+└── case-studies/             # 33 case studies across 10 verticals
+
+partnerships/
+├── templates/                # Reusable document templates
+│   ├── partner/             # Partner management
+│   ├── leads/               # Lead tracking
+│   └── meetings/            # Meeting notes
+├── assets/                  # PARTNERSHIP-SPECIFIC collateral
+│   ├── one-pagers/         # Regional variants (EU, US, APAC) derived from business-core base
+│   ├── capability-sheets/  # Industry-specific capabilities
+│   ├── email-templates/    # Introduction emails
+│   └── presentations/      # Slide decks
+├── frameworks/              # Decision support tools
 │   ├── partner-qualification.md
 │   ├── lead-qualification.md
 │   └── vertical-fit-matrix.md
-└── docs/SOPs/                 # Standard operating procedures
+└── docs/SOPs/               # Standard operating procedures
     ├── Partner_Onboarding_SOP.md
     ├── Lead_Attribution_SOP.md
     ├── Commission_Payment_SOP.md
     └── Monthly_Check_In_SOP.md
 ```
+
+**Key principle:** Generic collateral lives in `business-core/` (single source of truth). Market-specific variants live in partnerships or other departments.
 
 ---
 
@@ -145,24 +158,35 @@ departments/partnerships/
 
 ### One-Pagers
 
-**File:** `assets/one-pagers/Nexrizen_EU_Executive_Overview.pdf`
-**Purpose:** General EU market one-pager
+**Base Template:** `business-core/collateral/Executive_Overview.md`
+**Purpose:** Market-neutral executive overview (source of truth)
+**Location:** business-core (org-wide, not partnership-specific)
+**Contains:** Complete service catalog, 3 key differentiators, proven results, founder bios, tech stack
+**Use:** Starting point for all regional/market-specific one-pagers
+
+**File:** `partners/robertas-vp/assets/one-pagers/EU-Executive-Overview-CONTENT.md` (v2.0) ✅
+**Purpose:** EU market one-pager content (ready for design)
 **Audience:** C-suite executives in EU/EEA
-**Format:** A4 PDF, 1-2 pages
+**Format:** A4 PDF (design in progress)
 **Language:** English (future: FR, DE, ES)
+**Status:** Content complete Feb 11, 2026 - includes 6 AI systems, GitHub repos, "No Advance Payment" differentiator, banking-standard positioning
 **Contains:**
 - Tagline and value proposition
-- Prototype-first sales differentiator
-- Team credentials (ex-Meta, ex-IBM, Georgia Tech)
+- "No Advance Payment" positioning (vs €25-50K EU competitors)
+- Complete 6-system AI-native technology stack with GitHub credibility
+- Banking-standard quality positioning for Big Four backgrounds
+- Team credentials (ex-Meta, ex-IBM, Georgia Tech, meditation practice, successful exits)
 - Key proof points (100x speed, 1,300 hours saved, etc.)
 - Service tiers (3-Day MVP, Custom, Fractional CTO)
 - Contact info + QR code
+**Derived from:** business-core/collateral/Executive_Overview.md + EU-specific positioning
 
-**File:** `assets/one-pagers/Nexrizen_US_Overview.pdf`
+**File:** `assets/one-pagers/Nexrizen_US_Overview.pdf` (future)
 **Purpose:** US market one-pager
-**Differences:** US letter size, dollar pricing, US case studies emphasized
+**Differences:** US letter size, dollar pricing, US case studies emphasized, different competitive landscape
+**Status:** Not yet created - will derive from business-core base template when needed
 
-**File:** `assets/one-pagers/Nexrizen_3Day_MVP_Overview.pdf`
+**File:** `assets/one-pagers/Nexrizen_3Day_MVP_Overview.pdf` (future)
 **Purpose:** Focused on 3-Day MVP product (threedays.ai)
 **Use when:** Partner wants low-risk entry point messaging
 
@@ -267,14 +291,20 @@ departments/partnerships/
 
 ### Brand Assets
 
-**Location:** `assets/brand/`
+**Location:** `business-core/brand/` ← **ORG-WIDE** (moved from partnerships Feb 2026)
 
 **Files:**
-- `Nexrizen_Logo_Color.png` (standard logo)
-- `Nexrizen_Logo_White.png` (for dark backgrounds)
-- `Nexrizen_Logo_Black.png` (for light backgrounds)
-- `Brand_Guidelines.pdf` (colors, fonts, usage rules)
-- `Partner_Co_Branding_Guidelines.pdf` (how to use Nexrizen branding with partner materials)
+- `Brand_Guidelines.md` ✅ (colors, typography, logo, design aesthetic)
+  - Primary colors: `#502cff` (purple/blue), `#fbffff` (theme background)
+  - Typography: Inter font
+  - Logo locations on website
+  - Design aesthetic (minimal, clean, European-friendly)
+  - Recommended color palettes for collateral
+- `Nexrizen_Logo_Color.png` (standard logo) - Available at nexrizen.com/images/logo.png
+- `Nexrizen_Logo_White.png` (for dark backgrounds) - To be created
+- `Partner_Co_Branding_Guidelines.pdf` (future - how to use Nexrizen branding with partner materials)
+
+**Note:** Brand guidelines moved to business-core/ as they're used across all departments (sales, partnerships, marketing), not just partnerships. Single source of truth for visual identity.
 
 ---
 

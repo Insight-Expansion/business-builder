@@ -1,23 +1,25 @@
 ---
 **Document:** Objection_Handling_Library.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-12
 **Owner:** Sales (Wei/Gabe)
 **Update Frequency:** Monthly or when new objections emerge
 
 **Synthesized From:**
 - `../../meetings/sales-intros/*` (coverage: ~95%)
 - Wei's actual objection handling in 6 sales conversations
+- GitHub repos and AI-native positioning (v2.0 collateral)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial extraction from meeting transcripts
+- v1.1 (2026-02-12): Added objections 2D & 2E leveraging GitHub credibility and proof hierarchy (3 public repos as verifiable claims)
 
 **Downstream Dependencies:**
 - `Sales_Process_Framework.md` - References these during sales stages
 - `Sales_Training.md` - Used for training new sales team
 - `FAQ.md` - Public-facing version of common questions
 
-**Completeness:** ✅ Complete - Battle-tested in real conversations
+**Completeness:** ✅ Complete - Battle-tested in real conversations + GitHub proof points
 ---
 
 # Nexrizen Objection Handling Library
@@ -167,6 +169,75 @@ Gary initially skeptical, Wei demonstrated:
 - Explained Business Builder architecture
 - Showed command system, skill system, agent system
 > Gary's response: "That's fascinating... I can learn a lot from you"
+
+---
+
+### Objection 2D: "How do I know you're really AI-native?"
+
+**Context:** Skepticism about AI capabilities or questioning if you actually use AI internally
+
+**Wei's Response (Verifiable Proof):**
+> "Don't take my word for it—check our GitHub. We've open-sourced 3 of our internal systems: threedays-dev-toolkit, browser-automation-generator, and webinar-generator. These aren't marketing demos—they're production tools we use daily to run our business. You can see the code, fork it, use it yourself."
+
+**GitHub Repos (Public & Verifiable):**
+1. **threedays-dev-toolkit** - `github.com/Insight-Expansion/threedays-dev-toolkit`
+   - Our development framework
+   - Why we deliver in 3-12 weeks vs industry 6 months
+   - Open source, real code, not vaporware
+
+2. **browser-automation-generator** - `github.com/Insight-Expansion/browser-automation-generator`
+   - Generates custom automation for each client project
+   - Shows how we scale without scaling team
+
+3. **webinar-generator** - `github.com/Insight-Expansion/webinar-generator`
+   - Marketing automation we actually use
+   - Proves we practice what we preach
+
+**Why This Works:**
+- ✅ Verifiable claims (they can actually check GitHub)
+- ✅ Shows transparency (we share our internal tools)
+- ✅ Differentiates from competitors (no one else does this)
+- ✅ Technical credibility (for technical buyers)
+
+**Alternative Response (Less Technical):**
+> "We run our entire business on AI we built ourselves. What used to take 5-10 hours per proposal now takes less than 1 hour—20-30x time reduction. Our sales pipeline, client proposals, project management—all automated. We don't sell AI theory. We sell what we've already proven works for us."
+
+**For Non-Technical Buyers:**
+Focus on outcomes, not code:
+- "20-30x time reduction on proposals"
+- "We deliver faster because our AI does the heavy lifting"
+- "Check our case studies—1,000+ daily AI conversations, 1,300 attorney hours saved annually"
+
+---
+
+### Objection 2E: "What proof do you have of your capabilities?"
+
+**Context:** Asking for evidence, references, or validation
+
+**Wei's Response (Multi-Layered Proof):**
+> "Three levels of proof: (1) **GitHub** - See our actual code, 3 public repos showing our internal systems. (2) **Case Studies** - 50+ production apps, clients like Johns Hopkins, Georgia Tech, Fortune 100 companies. (3) **Live Demo** - I'll build you a working prototype before you pay anything. Pick your level of proof."
+
+**Proof Hierarchy (Offer in Order):**
+1. **Immediate:** Share GitHub repos (takes 30 seconds)
+2. **This Week:** Build proof of concept (free, working code)
+3. **Reference Calls:** Connect them with past clients (if needed)
+4. **Case Studies:** Share detailed metrics and screenshots
+5. **Live Systems:** Show actual production apps running
+
+**For Technical Stakeholders:**
+> "Check our GitHub repos—real production code, not marketing. Fork it, use it, see how we build. That's more transparent than any case study."
+
+**For Business Stakeholders:**
+> "We've shipped 50+ production apps, generated $500K+ revenue for clients, scaled systems to 7,000+ users. But numbers don't convince everyone. Let me build you something this week—free. Then you'll know."
+
+**Red Flag (If They're Still Skeptical After All This):**
+If they say: "I still don't believe you"
+> "Fair enough. Sounds like we're not the right fit. I respect that." (Walk away)
+
+**Why Walk Away:**
+- Offered multiple forms of proof (GitHub, POC, case studies)
+- They're not genuinely skeptical, they're not interested
+- Will be difficult client regardless of delivery
 
 ---
 

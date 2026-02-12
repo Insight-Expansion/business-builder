@@ -1,7 +1,7 @@
 ---
 **Document:** Context_Map.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-12
 **Owner:** Wei Zhuo
 **Update Frequency:** As-needed (when new context sources are added)
 
@@ -13,6 +13,7 @@
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial creation
+- v1.1 (2026-02-12): Updated EU collateral plan status to reflect v2.0 one-pager completion, brand guidelines move to business-core/, and generic Executive Overview creation
 
 **Downstream Dependencies:**
 - `Current_State.md` - Uses this to understand what sources exist
@@ -117,20 +118,39 @@ This document catalogs all context sources in the `partnerships/context/` direct
 
 **Key Deliverables:**
 1. **One-Pager** - A4 PDF, EU executive overview
+   - ✅ **v2.0 CONTENT COMPLETE** (Feb 11, 2026)
+   - Status: Ready for Canva design execution
+   - Location: `partnerships/partners/robertas-vp/assets/one-pagers/EU-Executive-Overview-CONTENT.md`
+   - Includes: Complete 6-system AI-native stack, GitHub repos, "No Advance Payment" differentiator, banking-standard quality positioning
+   - Next: Design execution in Canva (3-4 hours)
 2. **Case Study Collection** - 8-12 page booklet, 7 selected cases
+   - Available: `business-core/case-studies/` (33 case studies across 10 verticals)
+   - Status: Content exists, needs formatting as PDF booklet
 3. **Capability Sheets** - 5 industry-specific one-pagers (fintech, healthcare, professional services, aviation, private equity)
+   - Status: Planned, not yet created
 4. **Presentation Deck** - 10-15 slides for group presentations
+   - Status: Planned, not yet created
 5. **Email Templates** - 5 versions by industry
+   - Status: Planned, not yet created
 6. **FAQ Document** - 2-3 pages covering common questions
+   - Status: Planned, not yet created
+
+**Implementation Status (as of Feb 12, 2026):**
+- ✅ Brand guidelines moved to `business-core/brand/Brand_Guidelines.md` (org-wide)
+- ✅ Generic executive overview created in `business-core/collateral/Executive_Overview.md` (base template)
+- ✅ EU one-pager v2.0 content complete (ready for design)
+- ⚠️ Remaining deliverables pending
 
 **When to Re-Read:**
-- 📊 ~90% coverage - Re-read when producing collateral
+- 📊 ~90% coverage - Re-read when producing remaining collateral
 - Re-read when: Creating marketing materials, updating collateral roadmap, prioritizing deliverables
 - Specific sections to reference: Capability sheets structure (lines 80-110), production plan (lines 197-226)
 
 **Used By:**
-- Future: `Marketing_Collateral_Status.md`, `Brand_Guidelines.md`
-- Reference when creating partner enablement materials
+- `business-core/brand/Brand_Guidelines.md` ✅ (created)
+- `business-core/collateral/Executive_Overview.md` ✅ (created)
+- `partnerships/partners/robertas-vp/assets/one-pagers/*` ✅ (EU v2.0 complete)
+- Future: Capability sheets, presentation decks, email templates
 
 ---
 

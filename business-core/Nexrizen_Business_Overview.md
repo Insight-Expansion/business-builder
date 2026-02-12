@@ -63,6 +63,32 @@ Wei brings a PhD in data science from Georgia Tech and experience at Meta to the
 
 ---
 
+## Marketing Collateral & Assets
+
+### Collateral Structure
+
+**Org-wide assets:** `business-core/`
+- `business-core/collateral/` - Reusable sales materials
+  - `Executive_Overview.md` - Market-neutral base template for all regional one-pagers
+- `business-core/brand/` - Brand identity and guidelines
+  - `Brand_Guidelines.md` - Colors, typography, logo, design aesthetic
+- `business-core/case-studies/` - 33 case studies across 10 verticals
+
+**Regional/market-specific:** Derived from base templates
+- EU one-pager (v2.0) - In partnerships/partners/robertas-vp/
+- Future: US, APAC variants as needed
+
+**Key collateral assets:**
+- Executive Overview (generic, adaptable to any market)
+- Brand Guidelines (consistent visual identity)
+- Case Studies Library (proof points by vertical)
+- Value Propositions Library (how to sell by use case)
+- GitHub repos (3 public: threedays-dev-toolkit, browser-automation-generator, webinar-generator)
+
+**Collateral philosophy:** Create once in business-core/, adapt for markets. Maintain single source of truth for positioning, customize for regional nuances (pricing, competitive landscape, regulatory considerations).
+
+---
+
 ## Business Model
 
 ### Revenue Streams
@@ -486,5 +512,5 @@ Move off Upwork dependency:
 
 ---
 
-*Last updated: February 10, 2026*
-*Updated with: Team structure from website, public proof points*
+*Last updated: February 12, 2026*
+*Updated with: Added Marketing Collateral & Assets section documenting business-core/collateral/ and business-core/brand/ structure*
