@@ -97,27 +97,47 @@ Wei brings a PhD in data science from Georgia Tech and experience at Meta to the
 2. **Fractional CTO Services** - Ongoing strategic technical leadership (Wei and Gabe sell individually)
 3. **Maintenance Packages** - Recurring monthly revenue ($300-600/month per client)
 
-### Pyramid Pricing Strategy (In Development)
+### Pricing Policy (Updated Feb 2026)
 
-The company is building a tiered offer structure:
+**All new work: hourly at $120/hr, no exceptions.**
 
-| Tier | Offering | Price |
-|------|----------|-------|
-| Free | Webinar / Lead Magnet | $0 |
-| Entry | Baseline implementation (e.g., starter voice agent) | ~$2K |
-| Mid | Full build / automation package | $10-15K |
-| High | Fractional CTO / comprehensive engagement | $50K+ |
+Fixed-price projects were identified as the primary margin killer. Multiple projects hit or exceeded budget, meaning Nexrizen delivered work at or below cost once founder time was included. The decision to shift all new work to hourly billing is the most impactful financial decision made to date.
 
-**Maintenance upsell:** Every implementation includes a pitch for monthly maintenance package ($300-600/month), creating passive recurring revenue that funds tech/client service team growth.
+**Rule going forward:** No fixed-price projects. Period. For existing clients requesting additional scope, push for hourly. If they don't accept hourly terms, don't do the work.
+
+> **Note:** The historical $3K/$6K/$10K tiered model is retained as a reference in `Value_Propositions_Library.md` for sales framing context, but operationally all billing is hourly.
+
+**Maintenance upsell:** Every implementation includes a pitch for monthly maintenance package ($300-600/month), creating passive recurring revenue.
 
 ### Current Financial State
 
-| Metric | Current State |
-|--------|---------------|
-| Monthly Revenue | ~$10K |
-| Target (pre-retreat) | ~$15K |
-| Maintenance Clients | 0 (first round of projects still ongoing) |
-| Margins | Thin (due to internal systems investment) |
+#### Monthly Economics
+
+| Line Item | Amount | Notes |
+|-----------|--------|-------|
+| Engineer hours available | 240 hrs/mo | Marta (full) + Susanna (20 hrs/wk) |
+| Engineer cost rate | $60/hr | Contractor rate |
+| Client billing rate | $120/hr | 2x markup |
+| **Total monthly burn** | **~$17,400** | 240 x $60 + ~$3K (Ruth, tools, misc) |
+| **Revenue at full utilization** | **~$28,800** | 240 x $120 |
+| **Gross profit at full utilization** | **~$14,400** | Before founder compensation |
+| Current utilization | 85%+ | Strong, but sustained by Wei's sales effort |
+| Effective gross profit (current) | ~$12,000-14,000/mo | Variable based on utilization gaps |
+
+#### Personal Runway
+
+Both founders have **less than 2 months of personal runway**. This creates real pressure and limits the ability to take risks or invest in longer-term initiatives.
+
+#### Cost Reduction Levers (If Needed)
+
+| Lever | Monthly Savings | Impact |
+|-------|----------------|--------|
+| Pause Susanna (20 hrs/wk) | ~$4,800 | Reduces capacity but preserves core team |
+| Pause Ruth (30 hrs/wk VA) | ~$1,200 | Minimal if no active sales happening |
+| Both | ~$6,000 | Significant breathing room, agency can still operate with Marta |
+| Pause Marta | ~$9,600 | **Last resort** — losing Marta would be far more costly to replace |
+
+**Decision point:** Susanna's hours during retreat should be decided by end of Week 3 (early March) based on pipeline visibility. If there isn't enough committed hourly work to keep her utilized at 70%+, pause her hours for the retreat period.
 
 ### Pricing Philosophy & Why It Works
 
@@ -214,14 +234,23 @@ A strategic service for legal practices that includes understanding their curren
 
 ### Current Lead Sources
 
-| Channel | Status | Volume | Quality |
-|---------|--------|--------|---------|
-| Upwork (Wei's profile) | Primary | ~5 calls/week (30 min each) | Warm, ~50% close rate |
-| LinkedIn/Dripify (Sales Coach AI campaign) | Active, growing | ~10 calls/week (15 min each) | Colder, close rate TBD |
-| Immigration law firm network | Secondary | Variable | Mixed (some know Wei by name, some are conference contacts) |
+| Channel | Status | Volume | Quality | Revenue Share |
+|---------|--------|--------|---------|---------------|
+| Upwork (Wei's profile) | Primary | ~5 calls/week (30 min each) | Warm, ~50% close rate | **~70% of revenue** |
+| LinkedIn Inbound | Active, growing | ~10 calls/week (15 min each) | Colder, close rate TBD | **~20% of revenue** |
+| Referrals / Network | Secondary | Variable | Highest quality, lowest acquisition cost | **~10% of revenue** |
 
 **Current total:** ~15 calls/week but many are low-quality intros
 **Target:** 10 qualified (serious buyer) calls/week before retreat
+
+### Channels Being Activated
+
+| Channel | Priority | Status | Retreat-Proof? | Timeline to Results |
+|---------|----------|--------|---------------|---------------------|
+| **LinkedIn DM + Email Outbound** | HIGH | Systems built, need to turn on | Yes (automated, Gabe monitors) | 2-4 weeks for qualified conversations |
+| **Paid Ads (Meta/LinkedIn)** | MEDIUM | Not yet started, $500-1K/mo budget | Yes (runs unattended, Gabe monitors spend) | 4-8 weeks minimum; unlikely to generate revenue before retreat |
+| **Webinars** | MEDIUM | Just started, early experiments | Partially (recorded can be repurposed; live requires host) | Immediate conversations + long-tail content |
+| **School Community** | LOW (pre-retreat) | Early stage | Yes (community exists without daily management) | Slow build, not short-term revenue driver |
 
 ### Sales Process
 
@@ -274,20 +303,37 @@ These systems are functional and in active use but still under significant devel
 
 **Wei's Retreat:** Wei will be unavailable for approximately 1.5 months for a silent meditation retreat.
 
-**Timeline:** ~2.5 months to prepare before retreat begins
+**Timeline:** 4-6 weeks to prepare before retreat begins (~March 28 departure)
+
+### Single Point of Failure
+
+Wei spends **20-30 hours/week** on sales — the pipeline buffer is only **4-6 weeks**, which is almost exactly the duration of the retreat. There is essentially zero margin for error.
+
+**Wei's Sales Workload Breakdown:**
+
+| Activity | Hours/Week | Can Others Do It? |
+|----------|-----------|-------------------|
+| Upwork browsing, filtering, applying | 5-8 hrs | Partially (Ruth could filter) |
+| Proposal building | 5-8 hrs | Becoming faster (<1hr each) but requires technical judgment |
+| Discovery/sales calls | 5-8 hrs | Gabe can do some |
+| Lead nurturing & follow-up | 3-5 hrs | Ruth could assist with scheduling |
+| LinkedIn content & engagement | 2-3 hrs | Can continue during retreat (scheduled posts) |
+| **Total** | **20-30 hrs/wk** | |
+
+**Without intervention, the most likely scenario is:**
+- Weeks 1-2 of retreat: existing projects continue, revenue is fine
+- Weeks 3-4: projects start completing, no new pipeline to replace them
+- Weeks 5-6: utilization drops significantly, revenue declines
+- Wei returns to an empty or near-empty pipeline
 
 **Implications:**
 - Upwork leads (Wei's profile) will pause
 - Wei's sales calls will pause
 - LinkedIn outreach must be operational and sustainable without Wei
 - Gabe must be able to close deals independently
-- Pipeline must be built before Wei leaves
+- Pipeline must be built and pre-loaded before Wei leaves
 
-**Success Criteria for Retreat Period:**
-- 10 qualified calls/week flowing to Gabe
-- $15K/month revenue achieved before departure
-- LinkedIn system running with Ruth executing
-- Clear sales handoff process documented
+> **See `Retreat_Operations_Plan.md`** for the detailed pre-retreat action plan (week-by-week checklists), Gabe's operating playbook, post-retreat priorities, and success metrics.
 
 ---
 
@@ -512,5 +558,5 @@ Move off Upwork dependency:
 
 ---
 
-*Last updated: February 12, 2026*
-*Updated with: Added Marketing Collateral & Assets section documenting business-core/collateral/ and business-core/brand/ structure*
+*Last updated: February 14, 2026*
+*v2.0: Major update — replaced pricing strategy with hourly-only policy, added full monthly economics table, cost reduction levers, personal runway note, revenue channel percentages, channels being activated, SPOF analysis with Wei's sales workload breakdown, cross-reference to Retreat_Operations_Plan.md. Synthesized from `context/02_nexrizen-operational-roadmap.md`.*

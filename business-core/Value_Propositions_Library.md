@@ -1,7 +1,7 @@
 ---
 **Document:** Value_Propositions_Library.md
-**Version:** 1.4
-**Last Updated:** 2026-02-10
+**Version:** 1.5
+**Last Updated:** 2026-02-14
 **Owner:** Marketing/Sales
 **Update Frequency:** Monthly or when positioning shifts
 
@@ -11,12 +11,13 @@
 - `../meetings/sales-intros/Israel-Gold_Intro_Meeting.md` (coverage: ~85%)
 - `../meetings/sales-intros/02-09-2026_giafranco_discussion.md` (coverage: ~90%)
 - `../meetings/sales-intros/12-30_Consultation_AI_Automation_for_Business_Operations-transcript.md` (coverage: ~80%)
-- `../meetings/sales-intros/Gary_Intro_Meeting.md` (coverage: ~85%) **← NEW - values positioning, bootstrap mindset**
-- `../partnerships/partners/robertas-vp/PARTNER.md` (coverage: ~90%) **← NEW - EU executive positioning**
+- `../meetings/sales-intros/Gary_Intro_Meeting.md` (coverage: ~85%)
+- `../partnerships/partners/robertas-vp/PARTNER.md` (coverage: ~90%)
 - `../meetings/sales-intros/*` (coverage: ~85%)
 - `Nexrizen_Business_Overview.md` (coverage: ~90%)
 - `Nexrizen_Market_Positioning.md` (coverage: ~95%)
 - `Strategic_Market_Insights.md` (coverage: ~95%)
+- `context/03_nexrizen-strategic-vision.md` (coverage: ~15% — "Sell the Outcome" principle only)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial extraction from 6 lead intro meeting transcripts
@@ -24,6 +25,7 @@
 - v1.2 (2026-02-10): Added Quick Reference table, price anchoring model ($3K/$6K/$10K), conference strategy (50% Month 1 revenue), updated metrics (90% response, 75-80% conversion)
 - v1.3 (2026-02-10): MAJOR EXPANSION of AI-Native value prop (#5) - Added Proposal Builder details (20-30x reduction, auto-ingestion, one-click prototypes), Business Builder vision, cutting-edge tech integration (weekly adoption), Zane's "chief business synthesis officer" observation, VC investor angle. Updated Quick Reference table.
 - v1.4 (2026-02-10): VALUES & EU MARKET - Added 3 new value props: #10 "We Don't Work With Assholes" (culture fit filter), #11 "Bootstrap Mindset" (ROI-focused, startup-friendly), #12 "Banking-Standard Quality" (EU executive positioning, no advance payment vs €25-50K). Updated Quick Reference table with 4 new rows.
+- v1.5 (2026-02-14): Added "Sell the Outcome Reframing" section with 4 specific outcome reframes from founders' strategy session.
 
 **Downstream Dependencies:**
 - `Sales_Playbook.md` - Uses these in pitch sequences
@@ -765,6 +767,27 @@ Both sell equally well—use fear for conservative buyers, aspiration for innova
 3. **Senior-Only, No Handoffs** (differentiates from competition)
 4. **Speed Without Sacrifice** (addresses timeline concerns)
 5. **Industry-Specific Credentials** (if applicable)
+
+---
+
+## Sell the Outcome Reframing
+
+**Source**: Founders' strategy session (Feb 2026)
+**Principle**: Don't sell the tool or system — sell the transformation it creates. This reframing increases perceived value, improves marketing resonance, and justifies premium pricing.
+
+| What You Built | What You Sell |
+|----------------|---------------|
+| "consultation recording pipeline" | **"never lose a detail from a client consultation again"** |
+| "law firm dashboard" | **"know exactly how your firm is performing in real-time"** |
+| "Claude Code plugin" | **"automate 10 hours of work per week in your practice"** |
+| "sales coach AI" | **"more closed deals and higher conversion rates"** |
+
+**How to apply this in every conversation:**
+1. Identify the specific pain the client has expressed
+2. Describe the *after state* — what their life/business looks like once the pain is gone
+3. Only then explain *how* you get them there (the technical solution)
+
+> See also: `Strategic_Market_Insights.md` — Critical Insight #8 for the full services-to-products evolution framework.
 
 ---
 

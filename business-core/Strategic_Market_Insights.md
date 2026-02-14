@@ -1,21 +1,24 @@
 ---
 **Document:** Strategic_Market_Insights.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-14
 **Owner:** Wei (CEO)
 **Update Frequency:** Monthly or after significant market conversations
 
 **Synthesized From:**
 - `../meetings/sales-intros/02-04_AI_Venture_Partnership_and_Technology_Integration_Proposal-transcript.md` (coverage: ~70%)
 - `../meetings/sales-intros/02-09-2026_giafranco_discussion.md` (coverage: ~80%)
+- `context/03_nexrizen-strategic-vision.md` (coverage: ~40% — business model evolution section only)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial creation from Zane (VC partner) and Gianfranco (legal marketing expert) meetings
+- v1.1 (2026-02-14): Added Critical Insight #8: Business Model Evolution (services-to-products spectrum, info product sweet spot, "Sell the Outcome" principle)
 
 **Downstream Dependencies:**
 - `Target_Verticals_ICP.md` - Informs vertical prioritization
-- `Value_Propositions_Library.md` - Shapes messaging
+- `Value_Propositions_Library.md` - Shapes messaging, "Sell the Outcome" reframing
 - `Nexrizen_Business_Overview.md` - Strategic direction
+- `Strategic_Vision.md` - Business model evolution aligns with four pillars and guiding principles
 
 **Completeness:** ✅ Complete - Ready to inform strategy
 ---
@@ -319,6 +322,47 @@
 - Internal version stays proprietary
 - Lite version sold as SaaS
 - Premium "done-for-you" implementation services
+
+---
+
+## Critical Insight #8: Business Model Evolution — Services to Products
+
+**Source**: Founders' strategy session (Feb 2026)
+
+### The Spectrum from Services to Products
+
+The founders' long-term trajectory moves along a spectrum of increasing leverage and scalability:
+
+| Stage | Model | Example | Scalability | Current Status |
+|-------|-------|---------|-------------|----------------|
+| **Pure services** | Custom dev at hourly rates | Current agency work | Low (time-for-money) | Active |
+| **Productized services** | Standardized offerings on repeatable templates | Law firm dashboard setup, consultation recording pipeline | Medium (faster delivery, better margins) | Emerging |
+| **Info products / plugins** | Packaged Claude Code setups, workflow templates, department-specific plugins | $1-2K Claude Code plugins for law firms | High (near-zero marginal cost) | **Next priority** |
+| **Courses and coaching** | Leveraging personal brand and track record to teach | AI implementation courses for professionals | Very high (requires brand/audience first) | Future |
+| **Platform / SaaS** | Recurring-revenue software product | Standalone Business Builder or Proposal Builder | Highest (but highest investment/risk) | Potential |
+
+### The Info Product Sweet Spot
+
+Info products (particularly Claude Code plugins at $1-2K each) sit at the optimal intersection:
+- **Leverages strongest pillar** (technology expertise)
+- **Near-zero marginal cost** once built
+- **Creates content and authority** that feeds personal brand
+- **Proof point:** A comparable seller at a conference generated **$32K in two months** selling GitHub repo setups at $1K each — the market exists
+
+**Post-retreat priority:** Build the first Claude Code plugin for the law firm vertical using workflows already developed for existing clients. Target: sellable product within 2-3 weeks of focused effort. If organic sales generate 5-10 units at $1-2K, the product has signal — invest ad budget to scale.
+
+### The "Sell the Outcome" Principle
+
+A recurring theme: shift from selling software to selling outcomes. This reframing affects pricing (outcomes worth more than tools), marketing (resonates more), and partnerships (domain experts help articulate the outcome).
+
+| Don't Sell This... | Sell This Instead |
+|---------------------|-------------------|
+| "consultation recording pipeline" | "never lose a detail from a client consultation again" |
+| "law firm dashboard" | "know exactly how your firm is performing in real-time" |
+| "Claude Code plugin" | "automate 10 hours of work per week in your practice" |
+| "sales coach AI" | "more closed deals and higher conversion rates" |
+
+> See also: `Value_Propositions_Library.md` — "Sell the Outcome Reframing" section for sales application.
 
 ---
 
