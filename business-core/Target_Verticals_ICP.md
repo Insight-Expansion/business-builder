@@ -1,7 +1,7 @@
 ---
 **Document:** Target_Verticals_ICP.md
-**Version:** 1.2
-**Last Updated:** 2026-02-10
+**Version:** 1.3
+**Last Updated:** 2026-02-16
 **Owner:** Marketing/Sales
 **Update Frequency:** Quarterly or when strategy shifts
 
@@ -12,24 +12,41 @@
 - `Nexrizen_Business_Overview.md` (coverage: ~90%)
 - `Nexrizen_Market_Positioning.md` (coverage: ~90%)
 - `Strategic_Market_Insights.md` (coverage: ~95%)
+- `context/01_ai-native-agencies-aaron-epstein.md` (coverage: ~100%)
+- `context/02_nexrizen-operational-roadmap.md` (coverage: ~60% — revenue channels, hourly-only policy, retreat timeline)
+- `context/03_nexrizen-strategic-vision.md` (coverage: ~40% — info product ICP, "Sell the Outcome" principle, selectivity)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial extraction from successful client profiles
 - v1.1 (2026-02-10): Major update - Personal Injury now #1 legal vertical, added fear-based marketing
 - v1.2 (2026-02-10): Added greenfield/brownfield market segmentation (Nick meeting), revenue model hierarchy (Gianfranco), market research action plan (50-100 conversations), conference strategy
+- v1.3 (2026-02-16): Major alignment update — fixed vertical priority matrix to match PI-first strategy, added AI-native agency framing (Epstein thesis), added info product buyer ICP, updated all pricing to hourly-only per Feb 2026 policy, added retreat timeline to expansion strategy, added revenue channel mix to ICP context, added "fractional AI/tech team" positioning
 
 **Downstream Dependencies:**
 - `LinkedIn_Outreach_Strategy.md` - Uses ICP for targeting
 - `Sales_Process_Framework.md` - Qualification criteria
 - `Content_Strategy.md` - Content themes by vertical
 - `Value_Propositions_Library.md` - Revenue model informs value prop packaging
+- `../sales/docs/Lead_Generation_Strategy.md` - Vertical priorities drive channel targeting
 
-**Completeness:** ✅ Complete - Validated through real client conversations + strategic insights from 4 sales meetings
+**Completeness:** ✅ Complete - Validated through real client conversations + strategic insights from 4 sales meetings + operational roadmap alignment
 ---
 
 # Target Verticals & Ideal Client Profile (ICP)
 
 **Purpose:** Define who we sell to, why they buy, and how to qualify them. Based on actual successful client engagements and sales conversations.
+
+---
+
+## The AI-Native Agency Thesis
+
+> "Agencies have always been crazy hard to scale. Low margins, slow manual work, and the only way to grow is to add more people. But AI changes this. Now instead of selling software to customers to help them do the work, you can charge way more by using the software yourself and selling them the finished product at 100x the price." — Aaron Epstein
+
+**Why this matters for ICP:** Nexrizen is building the AI-native agency model — using proprietary AI systems internally to deliver at software-company margins. Our ICP should be businesses that want **AI-native transformation delivered to them** (not AI education, not DIY tools). We sell the finished product, not the technology.
+
+**Engagement Model (Feb 2026 Policy):** All new work is **hourly at $120/hr, no exceptions**. The pitch is **"fractional AI/tech team"** — ongoing, flexible, outcome-focused — not one-off fixed-price project delivery.
+
+> See `context/01_ai-native-agencies-aaron-epstein.md` for the full thesis and `Nexrizen_Business_Overview.md` for the hourly-only pricing policy.
 
 ---
 
@@ -598,19 +615,36 @@
 
 ## Vertical Prioritization Matrix
 
-### Current State (Before Retreat)
+### Current State (Pre-Retreat, Updated Feb 2026)
 
-| Vertical | Depth | Demand | Capacity | Priority |
-|----------|-------|--------|----------|----------|
-| **Immigration Law** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | 🥇 #1 |
-| **Construction/RE** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | 🥈 #2 |
-| **Prof Services** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | 🥉 #3 |
-| **FinTech** | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | 🔮 Future |
+| Vertical | Depth | Demand | Budget | Decision Speed | Priority |
+|----------|-------|--------|--------|---------------|----------|
+| **Personal Injury Law** | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 🥇 #1 |
+| **Immigration Law** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | 🥈 #2 (credibility, not primary growth) |
+| **Construction/RE** | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | 🥉 #3 |
+| **Prof Services** | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | #4 |
+| **FinTech** | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | 🔮 Future (via Robertas) |
+
+**Why PI moved to #1:** Gianfranco validated that PI lawyers have the highest budgets, fastest decisions, and most willingness to adopt AI. Immigration, while our deepest expertise, is "under attack" with tight budgets and conservative buyers. PI is where the money and speed are.
 
 **Depth:** Our expertise in vertical
 **Demand:** Market need + inbound interest
-**Capacity:** Can we serve this well now?
+**Budget:** Client willingness/ability to pay
+**Decision Speed:** How fast they buy
 **Priority:** Where to focus limited resources
+
+### Revenue Channel Context (from Operational Roadmap)
+
+Current revenue by channel — ICP targeting should reflect these dynamics:
+
+| Channel | Revenue Share | ICP Quality | Retreat-Proof? |
+|---------|-------------|-------------|----------------|
+| **Upwork** | ~70% | Warm, 50% close rate | ❌ No (Wei-dependent) |
+| **LinkedIn Inbound** | ~20% | Growing, close rate TBD | ✅ Partially (scheduled content + Gabe handles) |
+| **Referrals / Network** | ~10% | Highest quality | ✅ Passive |
+| **LinkedIn DM + Email Outbound** | Activating | Systems built, not yet turned on | ✅ Yes (automated, Gabe monitors) |
+
+**Strategic shift:** Move from 70% Upwork to 60%+ non-Upwork channels post-retreat. ICP targeting for outbound should prioritize PI law firms and construction — the verticals most responsive to automated outreach.
 
 ---
 
@@ -847,31 +881,52 @@ Free webinar → Discovery & Strategy → Implementation → Managed Services
 
 ---
 
-## Expansion Strategy
+## Expansion Strategy (Aligned to Retreat Timeline)
 
-### Phase 1 (Now - Pre-Retreat): Depth in Immigration Law
-- Build 3-5 case studies
-- Speak at AILA
-- Publish weekly content
-- Close 2-3 immigration law deals
+### Phase 1 (Now - Pre-Retreat, Feb 14 - ~Mar 28): PI-First + Retreat Prep
+- **Activate PI outreach:** LinkedIn DM + email outbound targeting PI firm decision makers
+- **Use immigration credentials** to prove intake speed capability for PI firms
+- **Close hourly engagements** to pre-load pipeline before retreat ($120/hr, no fixed-price)
+- **Network re-activation:** Reach out to top 20 past clients/contacts
+- **Build case studies** for immigration intake (1,000/day) as proof for PI
+- **Target:** 5-10 qualified conversations/week within 2 weeks
 
-### Phase 2 (Post-Retreat): Add Construction/Real Estate
-- Publish Sean case study (if successful)
-- Target 10-20 firms with LinkedIn outreach
-- Partner with insurance adjusters
-- Close 1-2 construction deals
+### Phase 2 (During Retreat, ~Mar 28 - May): Automated + Partnership Channels
+- Automated outbound (LinkedIn DM + email) runs without Wei
+- Gabe converts warm inbound leads to hourly engagements
+- Partnership channels (Robertas, Rob) provide work for engineering team
+- **Minimum viable target:** 65% Marta utilization (~105 hrs/mo billable)
 
-### Phase 3 (6-12 months): Professional Services at Scale
-- Productize multi-agent orchestration
-- Fixed-price packages for agencies
-- Self-service POC demos
-- Close 5-10 agency deals
+### Phase 3 (Post-Retreat, May - June): Product + Scale
+- **Build first Claude Code plugin** for law firm vertical (existing workflows → packaged product)
+- **Target:** Sellable product within 2-3 weeks of focused effort
+- **Test-sell:** $1-2K per unit to webinar audience, school community, past law firm clients
+- **Signal test:** If 5-10 organic sales, invest ad budget to scale
+- **AILA Texas Fall Conference** for distribution and networking
+- Double down on 1-2 best-performing marketing channels from retreat period
 
-### Phase 4 (12-24 months): FinTech Exploration
-- Partner with Robertas for EU deals
-- Hire compliance consultant
-- Build first fintech case study
-- Evaluate demand before doubling down
+### Phase 4 (6-12 months): Vertical Expansion + Fintech
+- Expand to construction/field services (post-PI foundation)
+- Partner with Robertas for EU fintech deals
+- Productize multi-agent orchestration for professional services
+- Evaluate: agency growth vs product pivot (see `Strategic_Vision.md` — Open Questions)
+
+### Info Product Buyer ICP (Emerging — Post-Retreat)
+
+**A new buyer profile for the services-to-products transition:**
+
+| Attribute | Service Buyer (Current) | Product Buyer (Emerging) |
+|-----------|------------------------|-------------------------|
+| **Budget** | $10K-50K+ | $1-2K per unit |
+| **Engagement** | Custom, hands-on | Self-serve, packaged |
+| **Decision speed** | 2-4 weeks | Immediate (impulse at price point) |
+| **Volume** | 1-3/month | 5-50/month (scalable) |
+| **Channel** | Upwork, LinkedIn, referrals | Webinars, ads, conferences, community |
+| **What they buy** | Outcome + implementation | Packaged workflow/template/plugin |
+
+**Proof point:** A comparable seller generated **$32K in two months** selling GitHub repo setups at $1K each — market exists for packaged Claude Code plugins.
+
+> See `Strategic_Vision.md` — "Business Model Evolution" for the full services-to-products spectrum and `Retreat_Operations_Plan.md` — "Post-Retreat Priorities" for the execution timeline.
 
 ---
 
@@ -896,6 +951,6 @@ Free webinar → Discovery & Strategy → Implementation → Managed Services
 
 ---
 
-*Last updated: 2026-02-10*
-*Source: 6 successful sales conversations + business overview*
+*Last updated: 2026-02-16*
+*Source: 6 successful sales conversations + business overview + operational roadmap + strategic vision + AI-native agency thesis*
 *Owner: Marketing + Sales (Wei/Gabe)*

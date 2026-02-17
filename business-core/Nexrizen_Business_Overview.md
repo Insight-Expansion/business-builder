@@ -346,6 +346,8 @@ Wei spends **20-30 hours/week** on sales — the pipeline buffer is only **4-6 w
 
 ### What Nexrizen Has (Internal IP)
 
+**External validation:** The AI-native agency model (using AI internally to deliver outcomes at software margins) is validated by industry experts like Aaron Epstein: *"Instead of selling software to customers, you can charge way more by using the software yourself and selling them the finished product at 100x the price."* See `context/01_ai-native-agencies-aaron-epstein.md` and `Strategic_Market_Insights.md` — Critical Insight #9.
+
 1. **Proposal Builder** - 20-30x time reduction, auto-generates demos
    - Auto-ingests meeting transcripts, emails, documents
    - Deep research on competitors/tools
@@ -481,12 +483,33 @@ Move off Upwork dependency:
 
 ## Strategic Priorities
 
-### Active Focus Areas
+### Alignment to Four Pillars (from Strategic Vision)
+
+The founders' long-term vision is organized around four pillars. Here's where Nexrizen currently stands on each:
+
+| Pillar | Current State | Gap | Priority |
+|--------|--------------|-----|----------|
+| **Technology Expertise** | Strong — 6 proprietary AI systems, rapid adoption | Risk of over-investing here at expense of others | Maintain (don't over-invest) |
+| **Business Fundamentals** | Growing — hourly-only policy, pricing discipline, but founder-dependent sales | Sales system that others can execute; financial management maturity | **Highest priority** |
+| **Personal Brand** | Early — consistent LinkedIn posting, webinars starting | No strategic variation, LinkedIn-only, no personal storytelling | Build during/after retreat |
+| **Network & Partnerships** | Nascent — Robertas, Rob, Gianfranco identified | No systematic relationship management, few high-value connections activated | Activate pre-retreat |
+
+> See `Strategic_Vision.md` for the full four-pillar framework, guiding principles, and open questions.
+
+### Active Focus Areas (Pre-Retreat)
 1. LinkedIn program execution (primary Upwork replacement strategy)
 2. Law firm network warm outreach (voice demo campaigns)
 3. Website rewrite for new positioning (blocking lead conversion)
 4. Case study / demo / social proof buildout (SOP needed)
 5. Sales process documentation for handoff
+
+### Post-Retreat Priorities (from Operational Roadmap)
+1. **Build first Claude Code plugin** for law firm vertical — target sellable product within 2-3 weeks
+2. **Test-sell at $1-2K/unit** to webinar audience, school community, past law firm clients
+3. **Signal test:** If 5-10 organic sales → invest ad budget to scale
+4. **AILA Texas Fall Conference** — distribution and networking
+5. Double down on 1-2 best-performing marketing channels from retreat period
+6. **Target:** $5-10K/month in product revenue by end of 2026
 
 ### Icebox (Post-Retreat)
 - Video marketing system (HeyGen pipeline)
@@ -499,16 +522,42 @@ Move off Upwork dependency:
 
 ---
 
-## Exit Strategy
+## Exit Strategy & Long-Term Vision
 
-**Timeline:** Approximately 5 years
+### The "Serial Builders" Endgame
+
+The ultimate goal is not to build one company and ride it to retirement. It's to become **serial builders** — founders who can repeatedly identify opportunities, build businesses, grow them, and exit profitably. Nexrizen in its current form is a **training ground, not a final destination**.
+
+> "Every decision should be evaluated against: *Does this build transferable skills and assets, or does it only serve this specific business?*" — from `Strategic_Vision.md`
+
+**The Long-Term Progression:**
+1. Build the skills (current agency = classroom for technology, business, branding, network)
+2. Achieve multiple exits (flip several smaller businesses for credibility, capital, and pattern recognition)
+3. Transition to leverage (courses, coaching, education products, passive income streams)
+
+### Business Model Evolution Path
+
+| Stage | Model | Example | Scalability | Status |
+|-------|-------|---------|-------------|--------|
+| **Pure services** | Custom dev at hourly rates | Current agency work ($120/hr) | Low | Active |
+| **Productized services** | Standardized offerings on repeatable templates | Law firm dashboard setup, consultation recording pipeline | Medium | Emerging |
+| **Info products / plugins** | Packaged Claude Code setups, workflow templates | $1-2K Claude Code plugins for law firms | High | **Next priority (post-retreat)** |
+| **Courses and coaching** | Leveraging personal brand to teach | AI implementation courses for professionals | Very high | Future (requires brand/audience) |
+| **Platform / SaaS** | Recurring-revenue software product | Standalone Business Builder or Proposal Builder | Highest | Potential (highest investment/risk) |
+
+### Exit Timeline
+
+**Near-term (5-year horizon):**
 
 **Potential Assets to Sell:**
 
 1. **The agency** - Client relationships, team, recurring revenue (maintenance packages), reputation
-2. **Internal systems/tech** - The AI-assisted operations infrastructure being built for sales, proposals, and development
+2. **Internal systems/tech** - The AI-assisted operations infrastructure (6 proprietary systems, 3 public GitHub repos)
+3. **Info products** - Claude Code plugins, packaged workflows (if product revenue materializes)
 
-**Key to Exit Value:** Building recurring maintenance revenue base. More past clients on maintenance = more passive revenue = more valuable asset.
+**Key to Exit Value:** Building recurring revenue base. Maintenance clients + info product revenue + (potentially) SaaS = higher multiple on exit.
+
+> See `Strategic_Vision.md` — "Open Questions" for unresolved strategic decisions: agency ceiling, vertical scope, team shape, brand investment levels.
 
 ---
 
@@ -558,5 +607,5 @@ Move off Upwork dependency:
 
 ---
 
-*Last updated: February 14, 2026*
-*v2.0: Major update — replaced pricing strategy with hourly-only policy, added full monthly economics table, cost reduction levers, personal runway note, revenue channel percentages, channels being activated, SPOF analysis with Wei's sales workload breakdown, cross-reference to Retreat_Operations_Plan.md. Synthesized from `context/02_nexrizen-operational-roadmap.md`.*
+*Last updated: February 16, 2026*
+*v2.1: Added four-pillar strategic alignment, serial builders endgame, business model evolution spectrum (services → products), post-retreat product priorities, Epstein AI-native agency validation. Cross-referenced Strategic_Vision.md and context/01, context/02, context/03.*

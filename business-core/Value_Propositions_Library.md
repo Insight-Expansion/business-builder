@@ -1,7 +1,7 @@
 ---
 **Document:** Value_Propositions_Library.md
-**Version:** 1.5
-**Last Updated:** 2026-02-14
+**Version:** 1.6
+**Last Updated:** 2026-02-16
 **Owner:** Marketing/Sales
 **Update Frequency:** Monthly or when positioning shifts
 
@@ -17,7 +17,9 @@
 - `Nexrizen_Business_Overview.md` (coverage: ~90%)
 - `Nexrizen_Market_Positioning.md` (coverage: ~95%)
 - `Strategic_Market_Insights.md` (coverage: ~95%)
-- `context/03_nexrizen-strategic-vision.md` (coverage: ~15% — "Sell the Outcome" principle only)
+- `context/01_ai-native-agencies-aaron-epstein.md` (coverage: ~100% — AI-native agency thesis, software margins validation)
+- `context/02_nexrizen-operational-roadmap.md` (coverage: ~30% — hourly-only policy, "fractional AI/tech team" positioning)
+- `context/03_nexrizen-strategic-vision.md` (coverage: ~40% — "Sell the Outcome" principle, guiding principles as sales language, "Systems over heroics" proof)
 
 **What Changed:**
 - v1.0 (2026-02-10): Initial extraction from 6 lead intro meeting transcripts
@@ -26,14 +28,16 @@
 - v1.3 (2026-02-10): MAJOR EXPANSION of AI-Native value prop (#5) - Added Proposal Builder details (20-30x reduction, auto-ingestion, one-click prototypes), Business Builder vision, cutting-edge tech integration (weekly adoption), Zane's "chief business synthesis officer" observation, VC investor angle. Updated Quick Reference table.
 - v1.4 (2026-02-10): VALUES & EU MARKET - Added 3 new value props: #10 "We Don't Work With Assholes" (culture fit filter), #11 "Bootstrap Mindset" (ROI-focused, startup-friendly), #12 "Banking-Standard Quality" (EU executive positioning, no advance payment vs €25-50K). Updated Quick Reference table with 4 new rows.
 - v1.5 (2026-02-14): Added "Sell the Outcome Reframing" section with 4 specific outcome reframes from founders' strategy session.
+- v1.6 (2026-02-16): Added "Fractional AI/Tech Team" VP (#13), "Guiding Principles as Sales Language" section, Epstein external validation for AI-Native VP, hourly-only pricing note on price anchoring VP.
 
 **Downstream Dependencies:**
 - `Sales_Playbook.md` - Uses these in pitch sequences
 - `LinkedIn_Messaging_Templates.md` - Social selling scripts
 - `Website_Copy.md` - Homepage and landing pages
 - `Target_Verticals_ICP.md` - Revenue model informs vertical targeting
+- `../sales/docs/Lead_Generation_Strategy.md` - Offer copy uses these VPs
 
-**Completeness:** ✅ Complete - Ready for sales team use with validated metrics from 4 sales meetings
+**Completeness:** ✅ Complete - Ready for sales team use with validated metrics from 4 sales meetings + strategic vision alignment
 ---
 
 # Nexrizen Value Propositions Library
@@ -63,6 +67,7 @@
 | **Transformation Not Education** | Done-for-you > DIY courses | Service buyers vs learners | Gianfranco |
 | **PI Law Intake Speed** | 60% hire first firm contacted | Personal injury law firms | Gianfranco |
 | **Conference Strategy** | 50% of Month 1 revenue | Industry-specific targeting | Nick meeting |
+| **Fractional AI/Tech Team** | Ongoing partnership, not one-off gigs | Hourly engagements, retreat-proof relationships | Operational Roadmap |
 
 ---
 
@@ -280,7 +285,10 @@
 
 **Context:** Pricing psychology for faster decisions
 **Source:** Nick meeting (Nov 2025)
-**Results (Validated):**
+
+> **Feb 2026 Policy Update:** All new work is now **hourly at $120/hr, no exceptions**. The tiered model below is retained as a historical reference and price-anchoring tool for sales framing, but operationally all billing is hourly. Use these numbers as mental anchors ("that kind of scope is typically $6K-$10K worth of work at our hourly rate") rather than fixed-price quotes. See `Nexrizen_Business_Overview.md` — "Pricing Policy" for details.
+
+**Results (Validated, historical):**
 - **60%+ choose $6K middle tier** (price anchoring works)
 - **First month:** 10 projects completed, 10-12 in waitlist
 - Simple, clear, no negotiation needed
@@ -431,7 +439,7 @@
 - Warm introductions through trusted advisors (Robertas network)
 - "Trilateral emails" - all parties CC'd, transparent from day one
 - Relationship-based sales (not cold outreach)
-- Long-term thinking (24-month attribution period)
+- Long-term thinking (12-month attribution period)
 
 **Example Usage (for EU market):**
 > "Unlike agencies asking €25-50K upfront, we deliver a working prototype before asking you to sign anything. Our partner Robertas has 30+ years at the Big Four—he only introduces us to clients who expect banking-standard quality. We're ex-Meta and Georgia Tech PhDs delivering institutional-grade work at startup speed."
@@ -791,6 +799,50 @@ Both sell equally well—use fear for conservative buyers, aspiration for innova
 
 ---
 
+## Value Prop #13: "Your Fractional AI/Tech Team"
+> "Think of us as your fractional AI team — not a vendor you hire for a project, but an ongoing technical partner."
+
+**Context:** Positioning for hourly engagements (all new work is hourly at $120/hr)
+**Source:** Operational Roadmap (Feb 2026), outbound messaging strategy
+**Best For:** SMBs without internal tech capacity, firms that need ongoing AI guidance, retreat-proof relationships
+
+**Why This Works:**
+- **Hourly = ongoing relationship** — not a one-time project that ends
+- **"Fractional" = affordable expertise** — they get CTO-level thinking at $120/hr instead of $200K+/year
+- **"Team" = more than one person** — implies depth (which Nexrizen has: PhDs, senior engineers)
+- **Retreat-proof** — hourly relationships survive Wei's absence (Gabe manages, team delivers)
+
+**How It Differs from "Execution Is Cheap" (VP #3):**
+- VP #3 positions Nexrizen for partnership/equity conversations with entrepreneurs
+- VP #13 positions Nexrizen for **ongoing hourly retainer** relationships with established businesses
+
+**Example Usage (Outbound LinkedIn DM):**
+> "Hi [Name], I noticed your firm is [specific observation]. We serve as a fractional AI/tech team for firms like yours — senior engineers (ex-Meta, PhDs) at $120/hr, no long-term contracts required. We recently helped a Dallas immigration firm process 1,000 leads/day with AI. Would a quick call make sense?"
+
+**Example Usage (Sales Call):**
+> "The way we work best is as your ongoing fractional AI team. You have questions, you need a new system built, you want to automate something — you just ping us and we start the clock. $120/hr, no minimums, no commitments. Think of us like having a CTO on speed dial."
+
+---
+
+## Guiding Principles as Sales Language
+
+**Source**: `Strategic_Vision.md` — Six guiding principles, translated into client-facing messaging
+
+The strategic vision's guiding principles aren't just internal philosophy — they're powerful differentiators when expressed as sales language:
+
+| Principle | Internal Meaning | Sales Language |
+|-----------|-----------------|----------------|
+| **Skills over revenue** | Optimize for learning, not billing hours | "We optimize for your ROI, not our billable hours. We've turned down projects that would have made us money but wouldn't have moved the needle for the client." |
+| **Systems over heroics** | Build systems that don't depend on one person | "Our CEO is about to leave on a 6-week silent meditation retreat — and the business keeps running. That's how robust our systems are. Imagine what we can build for you." |
+| **Leverage over effort** | One input → many outputs | "We built one AI system that now handles 1,000 leads per day — 24/7, never sleeps, never gets tired. That's the kind of leverage we build into everything we do." |
+| **Selectivity over volume** | Say no to bad-fit work | "We only take on work where we know we can deliver exceptional results. If we're not the right fit, we'll tell you — and probably recommend someone who is." |
+| **Foundation before expansion** | Nail one thing before spreading thin | "We don't try to boil the ocean. We pick the single highest-impact system for your business, nail it, prove it works, then expand from there." |
+| **The vehicle is not the destination** | Nexrizen is a training ground | "Every project we do makes us better at the next one. We've shipped 50+ production apps — each one taught us something that benefits our current clients." |
+
+> **Usage note:** Don't recite these as principles. Weave them naturally into conversations. The "systems over heroics" line about Wei's retreat is particularly powerful — use it to prove your AI systems actually work.
+
+---
+
 ## Anti-Patterns (What NOT to Say)
 
 ❌ "We're the cheapest option"
@@ -822,5 +874,5 @@ Both sell equally well—use fear for conservative buyers, aspiration for innova
 
 ---
 
-*Last updated: 2026-02-10*
-*Sources: 6 lead intro meeting transcripts + business positioning docs*
+*Last updated: 2026-02-16*
+*Sources: 6 lead intro meeting transcripts + business positioning docs + operational roadmap + strategic vision + AI-native agency thesis*

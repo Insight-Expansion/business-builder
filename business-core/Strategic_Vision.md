@@ -1,21 +1,26 @@
 ---
 **Document:** Strategic_Vision.md
-**Version:** 1.0
-**Last Updated:** 2026-02-14
+**Version:** 1.1
+**Last Updated:** 2026-02-16
 **Owner:** Wei / Gabe
 **Update Frequency:** Quarterly or when strategic direction shifts
 
 **Synthesized From:**
 - `context/03_nexrizen-strategic-vision.md` (coverage: ~95%)
+- `context/01_ai-native-agencies-aaron-epstein.md` (coverage: ~100% — external validation of AI-native model)
+- `context/02_nexrizen-operational-roadmap.md` (coverage: ~20% — retreat as systems test)
 
 **What Changed:**
 - v1.0 (2026-02-14): Initial creation from founders' strategy session (Feb 2026)
+- v1.1 (2026-02-16): Added external validation of AI-native agency model (Epstein thesis), operational cross-references for principles in practice (retreat as systems test), connected info product timeline to Retreat_Operations_Plan
 
 **Downstream Dependencies:**
 - `Nexrizen_Business_Overview.md` - Informs business model direction
-- `Strategic_Market_Insights.md` - Vision shapes market priorities
+- `Strategic_Market_Insights.md` - Vision shapes market priorities; Insight #9 validates AI-native thesis externally
 - `Value_Propositions_Library.md` - Guiding principles influence messaging
 - `Retreat_Operations_Plan.md` - Near-term execution aligned to vision
+- `Target_Verticals_ICP.md` - Info product ICP and vertical expansion phasing
+- `Nexrizen_Market_Positioning.md` - Serial builders and "Sell the Outcome" now integrated into positioning
 
 **Completeness:** ✅ Complete
 ---
@@ -60,6 +65,10 @@ Both founders have deep technical backgrounds (Wei's PhD in data science from Ge
 - Technical credibility that supports the personal brand and attracts partnerships
 
 **Key insight:** Technology is the easiest pillar because curiosity drives continuous learning. The risk isn't falling behind — it's over-investing here at the expense of the other pillars. The team already builds well; the bottleneck is elsewhere.
+
+**External validation (Epstein thesis):** The AI-native agency model — using AI internally to deliver finished outcomes at software margins — is not just Nexrizen's experiment. It's an emerging industry thesis. Traditional agencies sell labor (30-40% margins). AI-native agencies sell outcomes at 60-80% margins because the "labor" is heavily automated. Nexrizen is already operating this way with 6 proprietary systems. The moat is head start + integration depth + compound learning.
+
+> "Instead of selling software to customers to help them do the work, you can charge way more by using the software yourself and selling them the finished product at 100x the price." — Aaron Epstein. See `context/01_ai-native-agencies-aaron-epstein.md` and `Strategic_Market_Insights.md` — Critical Insight #9 for the full analysis.
 
 **Ongoing development:**
 - Stay current with Claude Code, AI agent frameworks, and automation tooling
@@ -152,6 +161,8 @@ The current business exists primarily to build the founders' capabilities across
 
 ### 2. Systems over heroics
 Any process that depends entirely on one person is a liability. Building systems (for sales, delivery, marketing, operations) is slower but creates compounding value. The retreat is a forcing function for this principle.
+
+**The retreat as acid test:** Wei's upcoming 1.5-month silent meditation retreat (~March 28 - May) is the definitive test of this principle. If the business survives — automated outbound generates leads, Gabe converts them, Marta delivers work — then the systems are real, not marketing claims. See `Retreat_Operations_Plan.md` for the detailed execution plan, Gabe's operating playbook, and minimum viable revenue targets (~$12,600/mo break-even with reduced team).
 
 ### 3. Leverage over effort
 Prioritize activities where one unit of input creates many units of output. Content that can be repurposed, products that can be sold repeatedly, partnerships that multiply reach, and automation that eliminates manual work.
