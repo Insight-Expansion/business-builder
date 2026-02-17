@@ -1,7 +1,7 @@
 # EU Executive One-Pager - Design Status
 
-**Last Updated:** 2026-02-11
-**Status:** ✅ Ready for Canva Design Phase (v2.0 Content Complete)
+**Last Updated:** 2026-02-16
+**Status:** ✅ Ready for Canva Design Phase (v3.0 Content Complete)
 **Owner:** Wei
 **Estimated Time to Complete:** 3-4 hours design work
 
@@ -10,13 +10,20 @@
 ## ✅ Completed
 
 ### 1. Content Development
-- **File:** `EU-Executive-Overview-CONTENT.md` (v2.0) ✅ **MAJOR UPDATE**
-- **v2.0 Enhancements (Feb 11, 2026):**
-  - **MAJOR:** Complete 6-system AI-native technology stack with GitHub repos
-  - **MAJOR:** "No Advance Payment" differentiator (vs €25-50K EU competitors)
-  - **NEW:** Banking-standard quality positioning for Big Four backgrounds
-  - **NEW:** GitHub credibility (3 public repos - verifiable claims)
-  - Enhanced founder profiles (Wei's meditation, Gabe's successful exits)
+- **File:** `EU-Executive-Overview-CONTENT.md` (v3.0) ✅ **MAJOR UPDATE**
+- **v3.0 Enhancements (Feb 16, 2026):**
+  - **CRITICAL:** All pricing updated to hourly-only ($120/hr) — removed fixed-price entry points ($3K-$5K MVP, $10K-$50K custom)
+  - **MAJOR:** "Sell the Outcome" transformation framing throughout (before/after messaging)
+  - **MAJOR:** "Your Fractional AI/Tech Team" positioning — ongoing partnership, not projects
+  - **MAJOR:** AI-native agency thesis with external validation (industry trend, not just Nexrizen claim)
+  - **NEW:** Price anchoring table (€ vs $ market comparison)
+  - **NEW:** "The Model: Ongoing Partnership, Not One-Off Projects" section
+- **v2.0 features maintained:**
+  - Complete 6-system AI-native technology stack with GitHub repos
+  - "No Advance Payment" differentiator (vs €25-50K EU competitors)
+  - Banking-standard quality positioning for Big Four backgrounds
+  - GitHub credibility (3 public repos - verifiable claims)
+  - Enhanced founder profiles (Wei's meditation, Gabe's exits)
 - Still matched to Robertas's 5 specific leads:
   - Healthcare (Affidea)
   - Insurance/Finance (Allianz)
@@ -36,13 +43,18 @@
 - **QR Code:** Instructions ready in `QR-CODE-TODO.md`
 
 ### 3. Design Guide
-- **File:** `CANVA-DESIGN-GUIDE.md` ✅ Updated for v2.0
+- **File:** `CANVA-DESIGN-GUIDE.md` ✅ Updated for v3.0
 - Complete step-by-step Canva instructions
-- **v2.0 Updates:**
-  - New 3-subsection "Why Different" layout (replaces 3 boxes)
+- **v3.0 Updates:**
+  - "How to Start" section redesigned for hourly engagement (was "3-Day MVP")
+  - Price anchoring comparison table added
+  - "Your Fractional AI/Tech Team" positioning added to hero section
+  - AI-native agency thesis paragraph in technology section
+- **v2.0 features maintained:**
+  - 3-subsection "Why Different" layout
   - GitHub badge/logo design instructions
   - Enhanced founder profile design notes
-  - Updated page structure diagram
+  - Page structure diagram
 - Layout structure defined
 - Typography and spacing guidelines
 - Export settings for A4 and US Letter
@@ -77,12 +89,12 @@
 ```
 partnerships/partners/robertas-vp/assets/
 ├── one-pagers/
-│   ├── EU-Executive-Overview-CONTENT.md (v2.0) ✅ **UPDATED**
-│   ├── CANVA-DESIGN-GUIDE.md ✅ **UPDATED for v2.0**
+│   ├── EU-Executive-Overview-CONTENT.md (v3.0) ✅ **UPDATED**
+│   ├── CANVA-DESIGN-GUIDE.md ✅ **UPDATED for v3.0**
 │   ├── DESIGN-STATUS.md (this file) ✅ **UPDATED**
 │   └── [TO CREATE]
-│       ├── Nexrizen-EU-Overview-v2.0-A4.pdf
-│       └── Nexrizen-EU-Overview-v2.0-Letter.pdf (optional)
+│       ├── Nexrizen-EU-Overview-v3.0-A4.pdf
+│       └── Nexrizen-EU-Overview-v3.0-Letter.pdf (optional)
 └── brand/
     ├── nexrizen-logo.png ✅
     ├── QR-CODE-TODO.md ✅
@@ -136,7 +148,15 @@ Once PDF is ready:
 
 ---
 
-**Current Status (v2.0):** Ready to execute. All content and design prep work complete. v2.0 incorporates complete AI-native positioning from Phase 1-5 cross-pollination work (1,300+ lines of positioning). Just needs design execution in Canva following the updated guide.
+**Current Status (v3.0):** Ready to execute. All content and design prep work complete. v3.0 incorporates hourly-only pricing policy, "Sell the Outcome" framing, "Fractional AI/Tech Team" positioning, AI-native agency thesis validation, and price anchoring for EU market. Just needs design execution in Canva following the updated guide.
+
+**What Changed in v3.0:**
+- Feb 16, 2026: Critical pricing update — all fixed-price references removed, hourly-only ($120/hr)
+- Added "Sell the Outcome" before/after transformation messaging
+- Added "Your Fractional AI/Tech Team" core positioning
+- Added AI-native agency thesis (external industry validation)
+- Added price anchoring comparison table (€ vs market expectations)
+- Added "Ongoing Partnership, Not One-Off Projects" model description
 
 **What Changed in v2.0:**
 - Feb 11, 2026: Major content update incorporating 5 phases of positioning work

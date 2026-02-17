@@ -1,17 +1,19 @@
 ---
 **Document:** Executive_Overview.md
-**Version:** 1.0
-**Last Updated:** 2026-02-11
+**Version:** 2.0
+**Last Updated:** 2026-02-16
 **Owner:** Wei
 **Update Frequency:** Monthly (or when core positioning/offerings change)
 
 **Synthesized From:**
-- `partnerships/partners/robertas-vp/assets/one-pagers/EU-Executive-Overview-CONTENT.md` (coverage: ~90%)
-- `business-core/Nexrizen_Market_Positioning.md` (coverage: ~30%)
-- `business-core/Value_Propositions_Library.md` (coverage: ~20%)
+- `partnerships/partners/robertas-vp/assets/one-pagers/EU-Executive-Overview-CONTENT.md` v3.0 (coverage: ~90%)
+- `business-core/Nexrizen_Market_Positioning.md` v1.5 (coverage: ~40%)
+- `business-core/Value_Propositions_Library.md` v1.6 (coverage: ~30%)
+- `business-core/Strategic_Market_Insights.md` v1.2 (coverage: ~15% — AI-native agency thesis)
 
 **What Changed:**
 - v1.0 (2026-02-11): Created generic executive overview from EU-specific version
+- v2.0 (2026-02-16): CRITICAL — Updated all pricing to hourly-only ($120/hr). Added "Fractional AI/Tech Team" positioning, "Sell the Outcome" framing, AI-native agency thesis, price anchoring table. Aligned with EU one-pager v3.0.
 
 **Downstream Dependencies:**
 - Market-specific one-pagers (EU, US, APAC variants)
@@ -25,20 +27,24 @@
 
 **Tagline:** We don't sell AI. We make it work for your business.
 
+**Positioning:** Your Fractional AI & Technology Team — senior engineers on demand, no long-term commitment.
+
 ---
 
 ## The Challenge
 
-Your teams are drowning in manual work. Customer inquiries go unanswered for hours. Data sits in disconnected systems. Scaling requires adding headcount proportionally to growth.
+Your teams are drowning in manual work. Customer inquiries go unanswered for hours. Data sits in disconnected systems. Scaling means adding headcount proportionally to growth — a model that doesn't scale.
 
 Traditional consultancies deliver slide decks. Implementation takes months. By the time the system is built, your requirements have changed.
 
+**The real cost isn't the consultancy fee — it's the months of lost productivity while you wait.**
+
 ---
 
-## What We Build
+## What We Build — Outcomes, Not Features
 
 ### Custom Software Development
-- Operational dashboards that surface real-time insights
+- **Before:** Teams manually pulling reports from 5 systems. **After:** Real-time operational dashboard, one screen, auto-updated.
 - Database architecture for terabyte-scale data processing
 - Client-facing platforms and portals
 - Integration systems connecting fragmented data sources
@@ -46,14 +52,14 @@ Traditional consultancies deliver slide decks. Implementation takes months. By t
 **Technology:** Python, TypeScript, React, PostgreSQL, Google Cloud Platform
 
 ### AI & Automation Systems
-- AI chatbots handling customer service 24/7 (1,000+ daily conversations)
+- **Before:** 8-person team handling customer inquiries, 4-hour response time. **After:** AI handles 1,000+ conversations daily, instant response, 24/7.
+- **Before:** Attorneys spend 1,300 hours/year summarizing meetings. **After:** AI generates summaries in seconds.
 - Document processing systems (contracts, invoices, intake forms)
-- Meeting transcription and summarization (1,300 attorney hours saved annually)
-- Intelligent workflow automation (probate lead generation: 3-5 hours daily eliminated)
+- Intelligent workflow automation (3-5 hours daily of manual work eliminated)
 
 **Proven At:** Johns Hopkins (AI diagnostics), Fortune 100 financial institutions, immigration law firms, real estate investors, professional services firms
 
-### Fractional CTO Services
+### Fractional CTO / Technology Leadership
 - Technology strategy and roadmap development
 - Technical due diligence for acquisitions
 - Engineering team leadership and mentoring
@@ -70,10 +76,12 @@ Every project is led directly by our founders — not delegated to junior develo
 
 **Result:** No miscommunication. No layers between you and the people doing the work. Senior-level expertise at every stage.
 
-### AI-Native Operations
-We run our own business entirely on proprietary AI systems we built internally. Our sales pipeline, client proposals, project management — all automated with AI. What used to take 5-10 hours per proposal now takes less than 1 hour (20-30x time reduction).
+### AI-Native Operations (6 Proprietary Systems)
+We run our own business entirely on 6 proprietary AI systems we built internally. Our sales pipeline, client proposals, prototyping, development, marketing, and operations — all powered by AI we built ourselves. What used to take 5-10 hours per proposal now takes less than 1 hour (20-30x time reduction).
 
-**Result:** Faster turnaround times, lower overhead, delivery speeds traditional agencies cannot match. We pass these efficiency gains directly to our clients.
+Traditional consultancies sell labor at 30-40% margins. AI-native firms like Nexrizen use AI internally to deliver finished outcomes at dramatically higher efficiency — and pass the savings to clients through faster delivery and lower costs. We have an 18+ month head start building and integrating these systems.
+
+**Result:** Faster turnaround times, lower overhead, delivery speeds traditional agencies cannot match. We pass these efficiency gains directly to you through our hourly model — you pay only for the hours used.
 
 ### Prototype-First Sales Process
 After a single discovery conversation, we build a working prototype of the proposed solution — **before any contract is signed**. Not a slide deck. Not a proposal document. A functional application your team can interact with.
@@ -117,18 +125,26 @@ This approach delivers a 90% response rate and 75-80% conversion to paying clien
 
 ---
 
-## How to Start
+## How to Start — Your Fractional AI/Tech Team
 
-### Entry Point: 3-Day MVP
-**Investment:** $3,000–$5,000
-**Timeline:** 72 hours
-**Deliverable:** Working prototype deployed to production
+### Step 1: Free Prototype (Zero Risk)
+After a single discovery call, we build a working prototype — **before any contract is signed.** Not a slide deck. A functional application you can interact with.
 
-But here's the key: **We often deliver a prototype after the first discovery call, before any contract is signed.** This is how we eliminate the trust gap and prove our capabilities immediately.
+### Step 2: Hourly Engagement ($120/hr)
+Love the prototype? Engage our team on an hourly basis. No minimums, no long-term lock-in. Scale up or down as needed.
 
-### From There
-- **Custom AI & Software Projects:** $10K–$50K+ depending on scope
-- **Fractional CTO Retainer:** $5K–$15K/month for ongoing strategic leadership
+### What You Get vs. What the Market Charges
+
+| What You Expect | What We Offer | The Difference |
+|-----------------|--------------|----------------|
+| $300-$500/hr for senior engineers | $120/hr, ex-Meta & Georgia Tech PhDs | Senior talent at 1/3 the market rate |
+| $50K-$150K from traditional agency | Typical MVP scope = ~80-120 hrs ($10-14K) | Fraction of the cost, 10x faster |
+| 6-month delivery timeline | 3-6 weeks | 10x faster |
+| Pay $25K-$50K upfront before seeing anything | Free prototype first, then hourly | Zero risk |
+| Hire a full-time CTO ($200K+/year) | Fractional AI team at $120/hr, no minimums | CTO-level thinking on demand |
+
+### The Model: Ongoing Partnership, Not One-Off Projects
+We become your **fractional AI and technology team** — available on demand for new projects, maintenance, strategic guidance, and scaling. Most clients engage us ongoing because the relationship compounds in value over time.
 
 ---
 
@@ -179,4 +195,4 @@ But here's the key: **We often deliver a prototype after the first discovery cal
 
 ---
 
-**Nexrizen LLC** | Delaware, United States | Serving clients globally since 2019 | 50+ production applications shipped
+**Nexrizen LLC** | Delaware, United States | Your Fractional AI & Technology Team | 50+ production applications shipped | $120/hr, all senior engineers

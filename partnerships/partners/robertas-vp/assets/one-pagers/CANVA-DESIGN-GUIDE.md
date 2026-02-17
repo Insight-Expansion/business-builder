@@ -79,7 +79,9 @@
 │ OUR FOUNDERS                        │  ← Enhanced profiles
 │ Wei (Meta, meditation) | Gabe (exits)│
 ├─────────────────────────────────────┤
-│ HOW TO START                        │  ← CTA
+│ HOW TO START — YOUR FRACTIONAL      │  ← CTA
+│ AI/TECH TEAM                        │
+│ [Price Anchoring Table]            │
 │ [Button: Schedule Discovery Call]  │
 │                        [QR Code]    │
 └─────────────────────────────────────┘
@@ -113,6 +115,13 @@ We make it work for your business.
 - Size: 24-28pt
 - Weight: Bold (700)
 - Color: `#1e293b` (navy)
+
+**Positioning line (below tagline, smaller):**
+```
+Your Fractional AI & Technology Team —
+senior engineers on demand, no long-term commitment.
+```
+- Font: Inter Regular, 12-14pt, `#475569`
 
 **Subtext (optional, small):**
 ```
@@ -355,24 +364,48 @@ Eliminated    Conversations   Scaled
 
 ---
 
-### SECTION 7: HOW TO START (CTA)
+### SECTION 7: HOW TO START — YOUR FRACTIONAL AI/TECH TEAM (CTA)
 
 **Headline:**
 ```
-How to Start
+How to Start — Your Fractional AI/Tech Team
 ```
 
-**3-Step Process:**
+**2-Step Process:**
 ```
-1. Schedule a discovery call
-   We'll discuss your operational challenges
+Step 1: Free Prototype (Zero Risk)
+After a single discovery call, we build a working prototype
+— before any contract is signed.
 
-2. See a working prototype
-   After one conversation, we build something functional
-
-3. Make an informed decision
-   Interact with the prototype. Decide if we're a fit.
+Step 2: Hourly Engagement ($120/hr)
+Love it? Engage our team hourly. No minimums, no lock-in.
 ```
+
+**Price Anchoring Table (NEW in v3.0):**
+
+Design as a clean comparison table with 3 columns:
+
+| What You Expect | What We Offer | The Difference |
+|-----------------|--------------|----------------|
+| €250-€400/hr senior engineers | $120/hr (~€110/hr) | 1/3 market rate |
+| €50K-€150K consultancy | ~80-120 hrs (~€9K-€13K) | Fraction of cost |
+| 6-month delivery | 3-6 weeks | 10x faster |
+| €25K-€50K advance payment | Free prototype first | Zero risk |
+| Full-time CTO (€180K+/yr) | Fractional team, $120/hr | On demand |
+
+**Design Notes:**
+- Use alternating row colors (white/light blue)
+- Bold "The Difference" column values
+- Keep compact — this is the key value proposition visual
+- Consider highlighting "€110/hr" and "Zero risk" in brand color
+
+**Partnership Model Callout:**
+```
+We become your fractional AI & technology team —
+available on demand, compounding in value over time.
+```
+- Font: Inter Italic or SemiBold, 10pt, `#475569`
+- Light background box (`#f8fafc`) to set apart
 
 **CTA Button:**
 ```
@@ -447,13 +480,13 @@ GDPR-compliant systems for European clients
    - Include bleed: No
    - Crop marks: No
    - Flatten PDF: Yes (if using Pro features)
-4. Download as: `Nexrizen-EU-Overview-v1.0-A4.pdf`
+4. Download as: `Nexrizen-EU-Overview-v3.0-A4.pdf`
 
 **For US Letter (optional):**
 1. Duplicate design
 2. Resize to 216 x 279 mm (8.5 x 11 inches)
 3. Adjust layout if needed
-4. Export as: `Nexrizen-EU-Overview-v1.0-Letter.pdf`
+4. Export as: `Nexrizen-EU-Overview-v3.0-Letter.pdf`
 
 ---
 
@@ -477,8 +510,8 @@ Before finalizing:
 Save to: `/partnerships/partners/robertas-vp/assets/one-pagers/`
 
 **Files:**
-1. `Nexrizen-EU-Overview-v1.0-A4.pdf` (main deliverable)
-2. `Nexrizen-EU-Overview-v1.0-Letter.pdf` (optional)
+1. `Nexrizen-EU-Overview-v3.0-A4.pdf` (main deliverable)
+2. `Nexrizen-EU-Overview-v3.0-Letter.pdf` (optional)
 3. `Nexrizen-EU-Overview-CANVA-LINK.txt` (shareable Canva link for future edits)
 
 ---
