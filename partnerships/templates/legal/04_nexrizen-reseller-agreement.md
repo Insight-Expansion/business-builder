@@ -4,15 +4,18 @@
 
 **BETWEEN:**
 
+**Weipeng Zhuo, CEO & Co-Founder**
 **Nexrizen LLC**
-A Delaware Limited Liability Company
+wei@nexrizen.com | NEXRIZEN.com
+A Delaware Limited Liability Company, USA
 ("Company" or "Nexrizen")
 
 **AND:**
 
-**_________________________________**
-[Robertas V.P. / BIG GROUP entity name]
-[Address]
+**Robertas Preiksa**, Technology & Financial Advisor
+info@signalaiagi.com | SignalAIAGI.com
+big@banqueinvest.com | BANQUEINVEST.com
+Monaco, MC
 ("Reseller")
 
 Collectively referred to as the "Parties" and individually as a "Party."
@@ -25,7 +28,7 @@ WHEREAS, Nexrizen provides AI consulting, custom software development, and autom
 
 WHEREAS, Nexrizen's sales process includes delivering working prototypes to prospects after initial discovery calls, prior to contract execution, to demonstrate capabilities and accelerate decision-making;
 
-WHEREAS, Reseller has established relationships with executives and decision-makers in the European Union and European Economic Area;
+WHEREAS, Reseller has established relationships with executives and decision-makers in the European Union and European Economic Area, built over 30+ years in finance, banking, and investment at the highest institutional standards (including Big Four firms: KPMG, Deloitte, PwC, EY);
 
 WHEREAS, the Parties wish to establish a mutually beneficial arrangement whereby Reseller will introduce prospective clients to Nexrizen in exchange for commission payments;
 
@@ -44,7 +47,7 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinaf
 
 **1.3 "Collected Revenue"** means gross payments actually received by Nexrizen from a Referred Client, excluding taxes, refunds, chargebacks, and disputed amounts.
 
-**1.4 "Territory"** means the European Union member states, European Economic Area countries (Norway, Iceland, Liechtenstein), Switzerland, and the United Kingdom.
+**1.4 "Territory"** means the European Union member states, European Economic Area countries (Norway, Iceland, Liechtenstein), and Switzerland. The United Kingdom is excluded as a primary Territory; however, commission shall be payable for clients whose primary legal entity is registered in the Territory (EU/EEA/Switzerland), even if such clients maintain operational offices in the United Kingdom. Clients whose primary legal entity is registered in the United Kingdom remain excluded unless added by written amendment at a future date upon mutual agreement of the Parties.
 
 **1.5 "Services"** means all consulting, software development, AI implementation, automation, and related technology services offered by Nexrizen.
 
@@ -80,9 +83,10 @@ Reseller retains the right to represent other technology providers, provided suc
 
 **3.1 Commission Rate.** Nexrizen shall pay Reseller a commission equal to **fifteen percent (15%)** of Collected Revenue from Referred Clients.
 
-**3.2 Attribution Period.** Commission shall be payable on:
-- (a) The initial engagement with a Referred Client; AND
-- (b) Any subsequent engagements with the same Referred Client that commence within twenty-four (24) months of the original Qualified Introduction.
+**3.2 Introduction Window and Commission Period.** Commission shall be payable on Collected Revenue from a Referred Client, subject to the following:
+- (a) **Introduction Window:** The Referred Client must become a paying customer of Nexrizen within thirty-six (36) months of the original Qualified Introduction ("Introduction Window"). If the Referred Client does not become a paying customer within the Introduction Window, no commission shall be payable for that client.
+- (b) **Commission Period:** Commission shall be payable for a period of twelve (12) months commencing on the date of the first payment received by Nexrizen from such Referred Client ("Commission Period"). The Commission Period applies to all engagements with the Referred Client during that twelve-month window, including subsequent engagements that commence within the Commission Period.
+- (c) **Expiration:** No commission shall be payable after expiration of the Commission Period, regardless of ongoing or subsequent engagements with the Referred Client.
 
 **3.3 Payment Terms.** Commission payments shall be made within thirty (30) days following Nexrizen's receipt of payment from the Referred Client. Payments shall be made via wire transfer to an account designated by Reseller.
 
@@ -182,7 +186,7 @@ Reseller retains the right to represent other technology providers, provided suc
 
 **8.2 License.** Nexrizen grants Reseller a limited, non-exclusive, non-transferable license to use Nexrizen's name, logo, and approved marketing materials solely for purposes of performing under this Agreement.
 
-**8.3 Restrictions.** Reseller shall not modify Nexrizen's trademarks or materials without prior written approval.
+**8.3 Restrictions.** Reseller shall not modify Nexrizen's trademarks or materials without prior written approval signed by both Parties.
 
 ---
 
@@ -203,7 +207,7 @@ Reseller retains the right to represent other technology providers, provided suc
 - (a) Reseller shall cease representing itself as an authorized reseller of Nexrizen;
 - (b) Reseller shall return or destroy all Confidential Information and marketing materials;
 - (c) Nexrizen shall pay all commissions earned prior to termination, including commissions on Collected Revenue received within ninety (90) days after termination for engagements that commenced prior to termination;
-- (d) Attribution for Referred Clients introduced prior to termination shall continue for the remainder of the 24-month attribution period.
+- (d) Attribution for Referred Clients introduced prior to termination shall continue as follows: the Introduction Window and Commission Period defined in Section 3.2 shall survive termination for any Qualified Introductions made prior to the termination date.
 
 ---
 
@@ -259,24 +263,31 @@ Title: CEO & Co-Founder
 Date: _________________________________
 
 
-**[RESELLER ENTITY NAME]**
+**ROBERTAS PREIKSA | ADVISOR**
 
 By: _________________________________
-Name: _________________________________
-Title: _________________________________
+Name: Robertas Preiksa
+Title: Technology & Financial Advisor
 Date: _________________________________
 
 ---
 
 ## EXHIBIT A: COMMISSION SCHEDULE
 
-| Service Category | Commission Rate |
-|---|---|
-| 3-Day MVP / Rapid Prototyping | 15% |
-| Custom Software Development | 15% |
-| AI & Automation Projects | 15% |
-| Fractional CTO / Advisory | 15% |
-| Maintenance & Support | 15% |
+**Pricing Model:** Nexrizen services are primarily billed on an hourly basis at the then-current hourly rate (currently $120 USD/hour as of the Effective Date). Fixed-price engagements may be offered at Nexrizen's sole discretion on a case-by-case basis, subject to a mutually agreed scope document signed by both Parties. Commission on fixed-price engagements shall be calculated on Collected Revenue at the same rate specified in Section 3.1.
+
+| Service Category | Hourly Rate | Commission Rate |
+|---|---|---|
+| Custom Software Development | $120/hr | 15% of Collected Revenue |
+| AI & Automation Systems | $120/hr | 15% of Collected Revenue |
+| Fractional CTO / Advisory | $200/hr | 15% of Collected Revenue |
+| Rapid Prototyping (MVP) | $120/hr | 15% of Collected Revenue |
+| Maintenance & Support | $120/hr | 15% of Collected Revenue |
+
+**Note:** Nexrizen may adjust its hourly rate upon thirty (30) days' written notice to Reseller. Commission rate remains fixed at 15% regardless of hourly rate changes.
+
+By: _________________________________  &emsp;  By: _________________________________
+Name: Weipeng Zhuo  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Name: Robertas Preiksa
 
 ---
 
@@ -284,12 +295,17 @@ Date: _________________________________
 
 The following materials are approved for Reseller use as of the Effective Date:
 
-1. Nexrizen EU/EEA Partnership Overview (one-pager)
-2. Nexrizen Case Study Collection
-3. Nexrizen Logo and Brand Guidelines
-4. Service Capability Sheets (by industry vertical)
+1. Nexrizen EU Executive Overview (one-pager, PDF)
+2. Nexrizen Partnership Presentation Deck (slides with speaker notes)
+3. Nexrizen Case Study Collection
+4. Nexrizen Logo and Brand Guidelines
+5. Service Capability Sheets (by industry vertical)
+6. Email Introduction Templates (5 industry-specific versions)
 
-Additional materials may be approved in writing by Nexrizen from time to time.
+Additional materials may be approved in writing and signed by both Parties from time to time.
+
+By: _________________________________  &emsp;  By: _________________________________
+Name: Weipeng Zhuo  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Name: Robertas Preiksa
 
 ---
 
@@ -297,8 +313,12 @@ Additional materials may be approved in writing by Nexrizen from time to time.
 
 **For Nexrizen:**
 - Primary: Weipeng Zhuo, CEO — wei@nexrizen.com
-- Secondary: Gabriel Perez, CTO — [email]
+- Secondary: Gabriel Perez, CTO — gabe@nexrizen.com
 
 **For Reseller:**
-- Primary: _________________ — _________________
-- Secondary: _________________ — _________________
+- Primary: Robertas Preiksa, Advisor — big@banqueinvest.com
+- Secondary: Angela Ritz (Executive Advisor) — info@signalaiagi.com
+
+By: _________________________________  &emsp;  By: _________________________________
+Name: Weipeng Zhuo  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Name: Robertas Preiksa
+Date: _________________________________  &emsp;  Date: _________________________________
