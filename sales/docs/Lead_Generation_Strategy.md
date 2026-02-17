@@ -1,7 +1,7 @@
 ---
 **Document:** Lead_Generation_Strategy.md
-**Version:** 1.0
-**Last Updated:** 2026-02-14
+**Version:** 1.1
+**Last Updated:** 2026-02-16
 **Owner:** Sales (Wei/Gabe)
 **Update Frequency:** Monthly or when channels change
 
@@ -12,16 +12,20 @@
 - `../../business-core/Strategic_Market_Insights.md` (coverage: ~70%)
 - `Sales_Process_Framework.md` (coverage: ~90%)
 - `../../business-core/context/01_ai-native-agencies-aaron-epstein.md` (coverage: ~100%)
+- `../../business-core/context/02_nexrizen-operational-roadmap.md` (coverage: ~40% — retreat timeline, channel mix targets, cost reduction levers, Gabe operating plan)
+- `../../business-core/context/03_nexrizen-strategic-vision.md` (coverage: ~20% — "Foundation before expansion" principle, retreat as systems test)
 
 **What Changed:**
 - v1.0 (2026-02-14): Initial strategy synthesized from positioning, ICP, sales process, and AI-native vision
+- v1.1 (2026-02-16): CRITICAL FIX — Updated all pricing to hourly-only ($120/hr) per Feb 2026 policy (was incorrectly using "$10K MVP Sprint" fixed-price language). Added retreat timeline constraints, Gabe operating plan, cost reduction levers, channel mix targets (60%+ non-Upwork post-retreat).
 
 **Downstream Dependencies:**
 - `Sales_Process_Framework.md` - Leads generated here feed directly into Wei's "Proof Before Payment" process
 - `../../business-core/Target_Verticals_ICP.md` - Audience targeting aligns to ICP verticals
-- `Pricing_Framework.md` - $10K MVP Sprint pricing used in ad copy
+- `Pricing_Framework.md` - Hourly pricing at $120/hr; historical tiered model for anchoring only
+- `../../business-core/Retreat_Operations_Plan.md` - Lead gen must be retreat-proof
 
-**Completeness:** ⚠️ Strategy defined, needs execution data to validate channel performance
+**Completeness:** ⚠️ Strategy defined, needs execution data to validate channel performance. Retreat alignment added.
 ---
 
 # Lead Generation Strategy
@@ -54,7 +58,7 @@ Nexrizen's free POC offer is the single strongest lead generation asset in the b
 | **Generic** | The core copy above |
 | **PI Law** | "We'll build a working AI intake system for your firm — free. Ex-Meta engineers. We already built one that handles 1,000+ leads/day. Want to see yours? 7 days, no cost." |
 | **Construction** | "We'll build a working field services app for your crew — free. AI proposals, real-time coaching, automated documentation. Send us your biggest workflow headache." |
-| **Funded Startups** | "Need an MVP but don't have a CTO? We'll build a working prototype in 7 days — free. Ex-Meta, Georgia Tech PhDs. If you love it, production version is $10K." |
+| **Funded Startups** | "Need an MVP but don't have a CTO? We'll build a working prototype in 7 days — free. Ex-Meta, Georgia Tech PhDs. Love it? Hire us as your fractional tech team at $120/hr — no long-term commitment." |
 | **Professional Services** | "Still doing [intake/proposals/scheduling] manually? We'll build you an AI system that handles it — free prototype in 7 days. 50+ production apps shipped." |
 
 ---
@@ -182,7 +186,7 @@ Nexrizen's free POC offer is the single strongest lead generation asset in the b
 
 **Titles:**
 - "Client Sent Me 2 Sentences. I Built Their Entire App in 3 Days."
-- "I Built a $10K App in 72 Hours — Here's How"
+- "I Built a Client's Entire App in 72 Hours — Here's How"
 - "What a Free Prototype Looks Like (Full Build, Real Client)"
 
 **Why:** YouTube is a search engine. Videos rank for "how to build an app" queries for years. One video generates leads for 36+ months.
@@ -216,15 +220,19 @@ Then do it. Build a prototype during a break, show it at the evening reception. 
 
 ## Price Anchoring (Use in All Channels)
 
-The $10K MVP is dramatically underpriced relative to market expectations. Always anchor:
+> **IMPORTANT: All new work is hourly at $120/hr, no exceptions.** The fixed-price "$10K MVP" framing below is for **anchoring purposes only** — to communicate value in ad copy and conversations. Actual billing is always hourly. See `../../business-core/Nexrizen_Business_Overview.md` — "Pricing Policy" for details.
 
-| What They Expect | What We Charge | Frame |
-|------------------|---------------|-------|
-| $50K-$150K from traditional agency | $10K fixed-price MVP | "1/5th to 1/15th the cost" |
+Nexrizen's hourly rate is dramatically underpriced relative to market expectations for the caliber of team. Always anchor:
+
+| What They Expect | What We Offer | Frame |
+|------------------|--------------|-------|
+| $300-500/hr for senior engineers | $120/hr, ex-Meta/Georgia Tech PhDs | "Senior talent at 1/3 the market rate" |
+| $50K-$150K from traditional agency | Typical MVP scope = ~80-120 hrs ($10-14K at our rate) | "Fraction of the cost, 10x faster" |
 | 6 months delivery | 3-6 weeks | "10x faster" |
 | Pay $25-50K upfront before seeing anything | Free prototype first | "Zero risk" |
+| Hire a full-time CTO ($200K+/year) | Fractional AI team at $120/hr, no minimums | "CTO-level thinking on demand" |
 
-**Package name:** "The 3-Week MVP Sprint" — fixed scope, fixed price, fixed timeline.
+**Positioning:** "Your fractional AI/tech team" — ongoing partnership, not one-off project delivery. Hourly = flexible, retreat-proof, and builds long-term relationships.
 
 ---
 
@@ -253,7 +261,7 @@ The $10K MVP is dramatically underpriced relative to market expectations. Always
 | Qualified leads | 20-40/month | 40-50% of fills | Has real project, real budget |
 | POCs built | 10-15/month | 50% of qualified | Capacity constraint |
 | Clients closed | 8-12/month | 75-80% of POCs | Proven close rate |
-| Revenue | $80K-$120K+/month | $10K-$50K per deal | Mix of MVPs and custom dev |
+| Revenue | $80K-$120K+/month | $10K-$50K per engagement | Mix of hourly MVPs and ongoing retainers |
 
 ### Monthly Review Checklist
 
@@ -273,7 +281,7 @@ The $10K MVP is dramatically underpriced relative to market expectations. Always
 | **1** | Build Dream 100 list (top 3 verticals), start personalized outreach | Gabe | $0 |
 | **1** | Wei posts first "show the work" LinkedIn content | Wei | $0 |
 | **1** | Post in 2-3 Reddit communities | Wei | $0 |
-| **2** | Build landing page for "$10K MVP Sprint" | Gabe/Dev | $0 |
+| **2** | Build landing page for "Free Prototype" offer (hourly engagement funnel) | Gabe/Dev | $0 |
 | **2** | Launch Google Search Ads | Gabe | $2-4K/mo |
 | **3** | Launch LinkedIn Ads (test 2 verticals) | Gabe | $3-5K/mo |
 | **4** | Publish prototype gallery on website | Dev | $0 |
@@ -282,3 +290,59 @@ The $10K MVP is dramatically underpriced relative to market expectations. Always
 
 **Total monthly budget once running:** $5-9K/month in paid ads
 **Expected return:** $80-120K+/month in new revenue (10-16x ROAS)
+
+---
+
+## Retreat Alignment (Critical Constraint)
+
+### Timeline
+
+Wei will be unavailable for approximately 1.5 months for a silent meditation retreat (~March 28 - May). The lead generation strategy MUST account for this.
+
+### What Stops During Retreat
+
+| Channel | Status During Retreat | Impact |
+|---------|----------------------|--------|
+| **Upwork (Wei's profile)** | Paused — Wei handles end-to-end | **~70% of current revenue at risk** |
+| **Wei's LinkedIn content** | Pre-scheduled posts continue | Minimal — impressions continue |
+| **Wei's sales calls** | Paused | Gabe must handle all conversions |
+| **YouTube (Wei on camera)** | Paused | Long-term play, not immediate impact |
+
+### What Keeps Running
+
+| Channel | Owner During Retreat | Notes |
+|---------|---------------------|-------|
+| **LinkedIn DM + Email Outbound** | Automated (Gabe monitors) | Must be activated before retreat |
+| **Paid Ads (Google/LinkedIn)** | Gabe monitors spend/performance | Should be running 4+ weeks before retreat |
+| **Reddit Organic** | Gabe or Ruth can post | Lower priority but free |
+| **Prototype Gallery** | Passive (always on) | Evergreen inbound |
+| **Gabe's LinkedIn** | Gabe maintains cadence | His profile's inbound continues |
+| **Partnership Channels** | Robertas, Rob bring work | Retreat-proof |
+
+### Pre-Retreat Activation Checklist
+
+All of these must be operational before March 28:
+
+- [ ] LinkedIn DM outbound system turned on and generating conversations
+- [ ] Google/LinkedIn ads running with at least 2 weeks of performance data
+- [ ] Gabe has closed at least 1 deal independently (confidence test)
+- [ ] Pipeline pre-loaded with 2-3 committed hourly engagements
+- [ ] Network re-activation complete (top 20 past clients/contacts contacted)
+- [ ] Ruth has SOPs for lead filtering and appointment setting
+
+### Cost Reduction Levers (If Pipeline Dries Up)
+
+| Lever | Monthly Savings | Decision Point |
+|-------|----------------|----------------|
+| Pause Susanna (20 hrs/wk) | ~$4,800 | If utilization < 70% by end of Week 3 (early March) |
+| Pause Ruth (30 hrs/wk VA) | ~$1,200 | If no active outbound campaigns |
+| Reduce ad spend to minimum | ~$3-5K | If ROI not proven by retreat start |
+
+### Channel Mix Target (Post-Retreat)
+
+**Current:** 70% Upwork / 20% LinkedIn / 10% Referrals
+**Target:** 60%+ non-Upwork channels (LinkedIn outbound + ads + partnerships + referrals)
+
+This shift is essential — Upwork dependency is the single biggest risk to revenue stability.
+
+> See `../../business-core/Retreat_Operations_Plan.md` for the detailed week-by-week preparation plan, Gabe's operating playbook, and success metrics.

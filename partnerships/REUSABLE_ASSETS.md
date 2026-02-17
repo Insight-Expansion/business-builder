@@ -405,7 +405,7 @@ partnerships/
 2. Nexrizen checks CRM for existing relationship
 3. Confirmation or decline sent within 5 business days
 4. Lead tagged in CRM with partner attribution
-5. 24-month attribution window tracking
+5. 12-month attribution window tracking
 6. Dispute resolution process
 
 **References:** `Process_Flows.md` section on Lead Introduction & Attribution

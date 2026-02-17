@@ -267,7 +267,7 @@ Robertas
 
 ---
 
-**Attribution confirmed for 24 months from date of introduction (per `context/01_eu-partnership-proposal.md` lines 138-140).**
+**Attribution confirmed for 12 months from date of introduction.**
 
 ---
 

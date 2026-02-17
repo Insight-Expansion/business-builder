@@ -40,7 +40,7 @@ The Partnerships department manages Nexrizen's reseller and channel partner rela
 
 2. **[Current_State.md](docs/Current_State.md)** - How partnerships work today
    - Partnership model overview (authorized reseller)
-   - Commission structure (15%, 24-month attribution)
+   - Commission structure (15%, 12-month attribution)
    - Current partners (Robertas/BIG GROUP - pilot)
    - Services catalog
    - Territory: EU/EEA + Switzerland
@@ -98,7 +98,7 @@ This prototype-first approach eliminates visualization gap and reflects well on 
 
 **Commission Structure:**
 - Rate: 15% of collected revenue
-- Attribution period: 24 months from introduction
+- Attribution period: 12 months from introduction
 - Payment timing: Within 30 days of Nexrizen receiving payment
 - Currency: USD or EUR (partner's election)
 

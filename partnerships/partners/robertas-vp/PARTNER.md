@@ -4,12 +4,12 @@
 **Territory:** EU/EEA + Switzerland
 **Agreement Signed:** Not yet (draft in progress)
 **Partnership Start:** 2026-02-06 (kickoff meeting)
-**Last Updated:** 2026-02-12
-**Recent Update:** EU one-pager v2.0 content complete, ready for design
+**Last Updated:** 2026-02-16
+**Recent Update:** All 5 deliverables complete — Agreement (hourly pricing, Robertas details), One-pager v3.0, Presentation deck v1.0 (13 slides), Email Generator v2.0 (5 sample emails, CustomGPT-ready), SignalAIAGI Content Brief v1.0 (2 web pages for Robertas's site)
 
 **Commission Structure:**
 - Rate: 15% of collected revenue
-- Attribution period: 24 months
+- Attribution period: 12 months
 - Payment timing: Within 30 days of collection
 ---
 
@@ -123,7 +123,7 @@
 ### Commission Terms
 
 - **Rate:** 15% of collected revenue
-- **Attribution period:** 24 months from introduction
+- **Attribution period:** 12 months from introduction
 - **Payment timing:** Within 30 days of Nexrizen receiving client payment
 - **Currency:** USD or EUR (Robertas's election) - likely EUR given Monaco/EU base
 
@@ -188,7 +188,8 @@
 3. Risk-free way to test capabilities
 4. High-quality, institutional-grade work
 5. Senior engineers only (ex-Meta, ex-IBM, Georgia Tech)
-6. Fast execution (3-day MVP option)
+6. Hourly engagement at $120/hr (~€110/hr) — 1/3 market rate for senior talent
+7. Your fractional AI/tech team — ongoing partnership, not one-off projects
 
 ---
 
@@ -243,17 +244,33 @@
 
 ### Wei / Nexrizen (In Progress)
 
-**Due: Early next week (~2026-02-09 to 2026-02-12)**
-- [ ] Send draft reseller agreement
-- [ ] Send collateral drafts:
-  - [x] One-pager (EU executive overview) ✅ **v2.0 content complete (Feb 11, 2026)** - Ready for Canva design (3-4 hours), then PDF export
+**Due: Early next week (~2026-02-09 to 2026-02-12)** *(OVERDUE — now Feb 16)*
+- [x] Send draft reseller agreement ✅ **Updated Feb 16** — Robertas details filled in (individual advisor, Monaco), hourly-only pricing ($120/hr), UK excluded, Exhibit A/B/C updated
+    - **Location:** `partnerships/templates/legal/04_nexrizen-reseller-agreement.md`
+    - **Next:** Send to Robertas for review and signature
+- [x] Send collateral drafts:
+  - [x] One-pager (EU executive overview) ✅ **v3.0 content complete (Feb 16, 2026)** - Ready for Canva design (3-4 hours), then PDF export
     - **Location:** `partnerships/partners/robertas-vp/assets/one-pagers/EU-Executive-Overview-CONTENT.md`
-    - **Includes:** Complete 6-system AI-native stack, GitHub repos, "No Advance Payment" differentiator, banking-standard positioning
-    - **Next:** Design execution, then send to Robertas for review
-  - [ ] Co-branded presentation materials (planned, not yet created)
-  - [ ] Email introduction templates (planned, not yet created)
+    - **Includes:** Hourly-only pricing ($120/hr), "Fractional AI/Tech Team" positioning, "Sell the Outcome" framing, AI-native agency thesis, price anchoring table, 6-system stack, GitHub repos, "No Advance Payment" differentiator
+    - **Next:** Design execution in Canva, then send to Robertas for review
+  - [x] Co-branded presentation materials ✅ **v1.0 created (Feb 16, 2026)** - 13 slides with full speaker notes for Robertas
+    - **Location:** `partnerships/partners/robertas-vp/assets/presentations/EU-Partnership-Deck-CONTENT.md`
+    - **Includes:** All v3.0 positioning, before/after case studies, price anchoring, detailed speaker notes on every slide
+    - **Next:** Design execution (Canva/Google Slides/PowerPoint), then send to Robertas
+  - [x] Email introduction templates ✅ **v3.0 created (Feb 16, 2026)** - 4-phase workflow (Research → Plan → Write → Review) with mandatory website research
+    - **Instructions:** `partnerships/partners/robertas-vp/templates/Email_Generator_Instructions.md`
+    - **Examples:** `partnerships/partners/robertas-vp/templates/Email_Generator_Examples.md`
+    - **Includes:** Mandatory website browsing before writing, pain-point extraction, angle selection framework, "Sell the Outcome" framing, hourly pricing, fractional team positioning, EUR price anchoring, ThreeDays.ai context
+    - **Examples include:** 5 complete examples with research summaries + email strategies + drafted emails (Affidea, Allianz, Vintage Cash Cow, VistaJet, Aalto Capital)
+    - **Next:** Deploy as CustomGPT or use as manual templates, send to Robertas
+  - [x] SignalAIAGI.com web content brief ✅ **v1.0 created (Feb 16, 2026)** - Two complete web pages for Robertas's site
+    - **Location:** `partnerships/partners/robertas-vp/templates/SignalAIAGI_Content_Brief.md`
+    - **Includes:** Page 1 (Nexrizen partner page — 8 sections, SEO meta, pricing table, CTAs), Page 2 (ThreeDays.ai — 8 sections, 3-step process, who it's for), shared design specs (color palette, typography, mobile optimization)
+    - **Next:** Send to Robertas/Angela to build on SignalAIAGI.com
 - [x] Provide logo and brand assets ✅ **Complete** - Brand guidelines in `business-core/brand/Brand_Guidelines.md`
 - [ ] Schedule recurring bi-weekly check-ins
+- [ ] Execute Canva design for one-pager PDF
+- [ ] Execute slide design for presentation deck
 
 **Timeline commitment:**
 > "I can get you a draft of the agreement by early next week. And draft of the collaterals and then we can reiterate for another week. We could get this done in the next like 10 15 days." — Wei, 2026-02-06 meeting
@@ -363,6 +380,6 @@
 **Current length:** ~450 lines
 **Status:** Within recommended range
 
-**Last updated:** 2026-02-10
+**Last updated:** 2026-02-16
 **Next update:** After agreement signed OR after first deal closes, whichever comes first
 **Owner:** Wei Zhuo

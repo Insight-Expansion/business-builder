@@ -1,8 +1,8 @@
 ---
 **Partner:** Robertas V.P. / BIG GROUP
-**Last Updated:** 2026-02-10
+**Last Updated:** 2026-02-16
 **Total Leads:** 5
-**Attribution Period:** 24 months from introduction date
+**Attribution Period:** 12 months from introduction date
 ---
 
 # Robertas V.P. - Lead Pipeline
@@ -69,8 +69,8 @@
 
 **Opportunity:**
 - **Primary use cases:** Patient intake automation, imaging workflow optimization, operational dashboards across network
-- **Entry point:** 3-Day MVP ($3K-$5K) - patient intake chatbot or dashboard prototype
-- **Expansion potential:** $40K-$100K+ (network-wide rollout, multi-location deployment)
+- **Entry point:** Free prototype → hourly engagement at $120/hr (~80-120 hrs for MVP = $10K-$14K)
+- **Expansion potential:** $40K-$100K+ (network-wide rollout, multi-location deployment, ongoing fractional team)
 - **Relevant case studies:** Johns Hopkins Vision AI, AI Meeting Summaries, Genomic Processing, Medical Voice AI
 
 **Risk mitigation:**
@@ -84,7 +84,7 @@
 - GDPR/compliance requirements
 - Highest-ROI quick win for prototype
 
-**Attribution:** 2026-02-06 (identified) → 24-month window expires 2028-02-06
+**Attribution:** 2026-02-06 (identified) → 12-month window expires 2027-02-06
 
 ---
 
@@ -106,8 +106,8 @@
 
 **Opportunity:**
 - **Primary use cases:** Customer service AI (24/7 chatbot), seller management automation, product data processing, operational dashboards, outreach & growth
-- **Entry point:** 3-Day MVP ($3K-$5K) - customer service chatbot or seller analytics
-- **Expansion potential:** $60K-$150K+ (multiple projects over time)
+- **Entry point:** Free prototype → hourly engagement at $120/hr (~80-120 hrs for MVP = $10K-$14K)
+- **Expansion potential:** $60K-$150K+ (multiple projects over time, ongoing fractional team)
 - **Relevant case studies:** AI Outreach Platform, AI Intake Systems (1,000+ conversations/day), Client Analytics
 
 **Strategic positioning:**
@@ -125,7 +125,7 @@
 - How external vendors fit with 200-person team
 - Budget and procurement process
 
-**Attribution:** 2026-02-06 (identified) → 24-month window expires 2028-02-06
+**Attribution:** 2026-02-06 (identified) → 12-month window expires 2027-02-06
 
 ---
 
@@ -148,8 +148,8 @@
 
 **Angle 1: Direct to Aalto**
 - Portfolio analytics dashboard, deal flow automation, client relationship management, research assistant AI
-- Entry: $3K-$5K MVP → $15K-$50K custom
-- Commission: $2.25K-$7.5K
+- Entry: Free prototype → hourly at $120/hr (~$10K-$14K MVP scope)
+- Commission: $1.5K-$7.5K
 
 **Angle 2: Portfolio Company Referrals** (strategic focus)
 - Introduce Nexrizen to portfolio companies needing AI/automation
@@ -172,7 +172,7 @@
 - Portfolio company landscape (how many? what stages? what industries?)
 - Interest in both direct service AND portfolio referrals
 
-**Attribution:** 2026-02-06 (identified) → 24-month window expires 2028-02-06
+**Attribution:** 2026-02-06 (identified) → 12-month window expires 2027-02-06
 
 ---
 
@@ -187,7 +187,7 @@
 - **Not yet discussed with daughter** (Robertas showing potential, needs to brief her first)
 
 **Use cases:** HR automation (onboarding, employee inquiries chatbot, meeting summarization, document processing)
-**Entry:** 3-Day MVP ($3K-$5K)
+**Entry:** Free prototype → hourly at $120/hr
 **Risk:** Even with daughter's autonomy, may face corporate procurement. Also: family relationship = extra care needed.
 **Next:** Robertas briefs daughter, gauges interest, then formal intro
 
@@ -201,7 +201,7 @@
 - Contact has technical background BUT may not be decision-maker for tech purchases
 
 **Use cases:** Customer service AI, booking optimization, operational dashboards, client relationship management
-**Entry:** 3-Day MVP ($3K-$5K) → Potential $40K+ custom or Fractional CTO
+**Entry:** Free prototype → hourly at $120/hr (potential $40K+ engagement or Fractional CTO)
 **Risk:** Will likely need to route to operations/IT leadership (pilot as internal champion)
 **Strategy:** Use pilot to identify right decision-maker, leverage Robertas's aviation finance background
 
@@ -325,6 +325,6 @@
 ---
 
 **Document length:** ~450 lines
-**Last updated:** 2026-02-10
+**Last updated:** 2026-02-16
 **Next update:** When first introduction is sent or new leads are added
 **Owner:** Wei Zhuo (with Robertas as relationship owner)

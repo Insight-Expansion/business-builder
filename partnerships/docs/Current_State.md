@@ -107,7 +107,7 @@ This AI-native operations model enables faster turnaround than traditional agenc
 | **Basis** | Cash received from client (not contract value) |
 | **Payment timing** | Within 30 days of Nexrizen receiving client payment |
 | **Payment method** | Wire transfer (EUR or USD, partner's preference) |
-| **Attribution period** | Initial engagement + any follow-on work within 24 months of introduction |
+| **Attribution period** | Initial engagement + any follow-on work within 12 months of introduction |
 | **Minimum deal size** | None (typical engagements: $3K-$50K+) |
 | **Exclusions** | Clients who contact Nexrizen independently (not through partner introduction) |
 
@@ -137,7 +137,7 @@ This AI-native operations model enables faster turnaround than traditional agenc
 **How attribution is established:**
 1. Partner sends email to Nexrizen identifying: company name, contact person, brief context
 2. Nexrizen confirms receipt and attribution status within 5 business days
-3. Attribution holds for 24 months from date of introduction
+3. Attribution holds for 12 months from date of introduction
 4. If Nexrizen has pre-existing relationship, partner is notified within 5 days (no commission)
 5. If multiple sources introduce same client, attribution goes to first qualified introduction
 

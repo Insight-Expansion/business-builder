@@ -39,7 +39,7 @@ This document catalogs all context sources in the `partnerships/context/` direct
 
 **Content Summary:**
 - Complete partnership model overview (reseller/authorized representative)
-- Commission structure (15% of collected revenue, 24-month attribution)
+- Commission structure (15% of collected revenue, 12-month attribution)
 - Service catalog with pricing (3-Day MVP, Custom AI, Fractional CTO)
 - 17+ case studies across verticals (fintech, healthcare, legal, etc.)
 - Territory definition (EU/EEA countries + Switzerland)
@@ -47,7 +47,7 @@ This document catalogs all context sources in the `partnerships/context/` direct
 
 **Key Data Points:**
 - Commission rate: 15%
-- Attribution period: 24 months
+- Attribution period: 12 months
 - 3-Day MVP pricing: $3K-$5K
 - Custom software: $10K-$50K+
 - Fractional CTO: $5K-$15K/month
@@ -179,7 +179,7 @@ This document catalogs all context sources in the `partnerships/context/` direct
 **Key Legal Terms:**
 - **Commission:** 15% of collected revenue (not contract value)
 - **Territory:** EU/EEA + Switzerland + UK
-- **Attribution period:** 24 months from introduction
+- **Attribution period:** 12 months from introduction
 - **Payment timing:** 30 days after Nexrizen receives payment
 - **Confidentiality:** 3 years post-termination
 - **Initial term:** 12 months, auto-renewing
