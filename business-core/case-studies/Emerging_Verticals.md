@@ -1,21 +1,29 @@
 ---
 **Document:** Emerging_Verticals.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-18
 **Owner:** Business Development
 **Update Frequency:** Monthly
 **Parent:** Case_Studies_Library.md
 
+**Synthesized From:**
+- `Founder_Track_Record.md` v1.0 (coverage: ~100% for EdTech/AgriTech projects)
+
+**What Changed:**
+- v1.0 (2026-02-10): Initial creation — 7 Nexrizen case studies
+- v1.1 (2026-02-18): Added 5 founder track record projects (F4, F12, F18, F21, F25)
+
 **Downstream Dependencies:**
 - README.md - Index file references this
+- Case_Studies_Library.md - Master index references this
 - Sales playbooks and proposals may reference specific cases
 - Emerging opportunity tracking
 ---
 
 # Emerging Verticals Case Studies
 
-**Total Cases:** 7
-**Status Mix:** 1 discovery delivered / 1 discovery complete / 1 consultation / 4 early stage
+**Total Cases:** 12 (7 Nexrizen + 5 Founder Track Record)
+**Status Mix:** 1 discovery delivered / 1 discovery complete / 1 consultation / 4 early stage + 5 completed (pre-Nexrizen)
 
 Emerging verticals represent opportunities where Nexrizen is exploring new markets or early-stage engagements that haven't yet matured into full production systems. These case studies demonstrate breadth of capability and willingness to tackle novel problems across diverse industries.
 
@@ -32,6 +40,12 @@ Emerging verticals represent opportunities where Nexrizen is exploring new marke
 | Fashion Trend Analysis | Latifa | 📝 Folder Created | TBD | TBD |
 | Lumetica Engineering | Lumetica | 📝 Folder Created | TBD | TBD |
 | Maui Consulting | Kevin (Maui) | 📝 Transcript Exists | TBD | TBD |
+| **Founder Track Record** | **Pre-Nexrizen** | | | |
+| F4: Moxie — AI Writing Assistant | Wei (Fractional CTO) | ✅ Completed | — | $300K+ pre-seed raise |
+| F12: Education Workforce Analytics | Wei (Consulting) | ✅ Completed | — | $1M potential savings |
+| F18: EdTech Analytics Dashboard | Wei (Consulting) | ✅ Completed | — | 10K+ users, 70% faster |
+| F21: Peer Feedback — EdTech | Gabe (Founded) | ✅ Completed | — | 7,000+ students, 10 years |
+| F25: ABACROP — Precision Agriculture | Gabe (Fractional CTO) | ✅ Completed | — | MVP in 3 months |
 
 ---
 
@@ -193,6 +207,192 @@ Automotive industry, high-volume phone-based businesses, lead qualification need
 
 ### Sales Usage
 [Pending transcript analysis]
+
+---
+
+## Founder Track Record (Pre-Nexrizen)
+
+> **Important:** These are NOT Nexrizen client projects. Frame them as "our founders' track record" or "what our team has built before," not as Nexrizen deliverables.
+
+---
+
+### F4: Moxie (Academic Insight Lab) — AI Writing Assistant
+
+**Client Type:** EdTech / AI Research Tools
+**Role:** Fractional CTO (October 2023 – April 2024) — Gabe also worked here as Senior Engineer
+**Status:** ✅ Completed (contributed to $300K+ raise)
+
+#### Problem
+Moxie had an AI-powered writing assistant built as a no-code MVP. It lacked robustness, customizability, and IP independence needed for institutional partnerships and Series A readiness.
+
+#### Solution
+- Recruited and led a high-caliber technical team (data scientists + engineers)
+- Transformed no-code MVP into robust, customizable platform
+- Developed technical strategic vision for optimal utilization of seed funding toward Series A
+- Designed KPIs and analytics frameworks to measure AI tool impact on research quality
+- Led IP and technology licensing discussions with partner companies
+
+#### Results
+- Contributed to successful **$300K+ pre-seed funding round**
+- Platform readied for institutional deployment
+- KPI framework enabled data-driven product decisions
+
+#### Technologies
+Django, AI/ML, NLP, HECVAT/FERPA compliance, research analytics
+
+#### Team
+Wei (Fractional CTO) + Gabe (Senior Engineer) + technical team
+
+#### Sales Usage
+**Use when:**
+- Selling Fractional CTO services (demonstrates the role in action)
+- EdTech prospects
+- Proving ability to transform MVPs into production-ready platforms
+- **Verticals:** EdTech, research institutions, AI startups
+
+**Note:** Both founders worked at Moxie — demonstrates pre-Nexrizen collaboration.
+
+---
+
+### F12: Predictive Analytics for Education Workforce
+
+**Client Type:** EdTech Company
+**Role:** Consultant via Insight Expansion
+**Status:** ✅ Completed (discovery + model)
+
+#### Problem
+An EdTech company needed to optimize substitute teacher placement across a large school district. Fill rates were suboptimal, costing the system significantly.
+
+#### Solution
+- Analyzed historical data covering 500,000+ teacher absences
+- Identified key factors influencing fill rates through comprehensive analysis
+- Built ML model improving substitute matching accuracy
+- Created phased implementation roadmap for executing data science use cases
+
+#### Results
+- **25% improvement** in substitute matching accuracy
+- **$1M potential annual savings** identified
+- Data-driven insights from 500,000+ historical records
+
+#### Technologies
+Python, ML classification/regression, historical data analysis, workforce optimization
+
+#### Team
+Wei (lead data scientist)
+
+#### Sales Usage
+**Use when:**
+- Selling predictive analytics for workforce optimization
+- Demonstrating data science discovery process
+- **Verticals:** EdTech, HR/staffing, workforce management
+
+---
+
+### F18: Scalable EdTech Analytics Dashboard
+
+**Client Type:** EdTech Platform
+**Role:** Consultant via Insight Expansion
+**Status:** ✅ Completed
+
+#### Problem
+An EdTech platform serving 10,000+ users needed a high-performance analytics dashboard. Existing dashboards were slow and deployments took days.
+
+#### Solution
+- Developed high-performance analytics dashboard
+- Engineered efficient data models with materialized views
+- Built responsive frontend using React and D3.js
+- Set up CI/CD pipeline using Docker and GitHub Actions
+
+#### Results
+- **70% improvement** in dashboard load time
+- **10,000+ users** served
+- New feature deployment reduced from **days to hours**
+
+#### Technologies
+React, D3.js, Django ORM, materialized views, Docker, GitHub Actions, CI/CD
+
+#### Team
+Wei (full-stack developer)
+
+#### Sales Usage
+**Use when:**
+- Selling dashboard development or analytics platforms
+- Demonstrating full-stack capability (backend + frontend + DevOps)
+- **Verticals:** EdTech, SaaS, analytics platforms
+
+---
+
+### F21: Peer Feedback — EdTech Platform
+
+**Client Type:** EdTech / Higher Education
+**Role:** Founder (December 2015 – December 2025, 10 years)
+**Status:** ✅ Completed (10-year run)
+
+#### Problem
+Large online courses at Georgia Tech lacked effective peer feedback mechanisms. Students needed structured, research-based collaborative learning with AI-powered evaluation.
+
+#### Solution
+- Built full-stack EdTech SaaS platform from scratch
+- Implemented AI-powered feedback evaluation system
+- Integrated with Canvas LMS for seamless data import
+- Implemented research-based collaborative learning features
+- Maintained and evolved the platform for a full decade
+
+#### Results
+- **7,000+ students** served at Georgia Tech
+- **10-year operation** — longest sustained entrepreneurial commitment
+- Canvas LMS integration adopted across courses
+- Research-based approach validated in academic environment
+
+#### Technologies
+Django, full-stack web development, AI/ML evaluation, Canvas LMS API, PostgreSQL
+
+#### Team
+Gabe (sole founder/developer for most of lifecycle)
+
+#### Sales Usage
+**Use when:**
+- Demonstrating long-term commitment and sustainability (10 years!)
+- Selling to EdTech or higher education prospects
+- Proving ability to build and maintain systems at scale
+- **Verticals:** EdTech, higher education, LMS integrations
+
+---
+
+### F25: ABACROP — Precision Agriculture
+
+**Client Type:** AgriTech / Precision Farming
+**Role:** Fractional CTO (May 2023 – May 2024)
+**Status:** ✅ Completed
+
+#### Problem
+An agricultural technology company needed a crop monitoring MVP built rapidly and with the right technical architecture for scaling.
+
+#### Solution
+- Led development team to build crop monitoring MVP in 3 months
+- Architected precision agriculture technology stack
+- Provided strategic technology direction for the product roadmap
+
+#### Results
+- **MVP delivered in 3 months**
+- Precision agriculture tech stack architected for scale
+- Foundation established for continued product development
+
+#### Technologies
+AgriTech, crop monitoring, sensor integration, web application, data visualization
+
+#### Team
+Gabe (Fractional CTO) + development team
+
+#### Client Testimonial
+> "Improved efficiency." — Josue Roman, ABACROP
+
+#### Sales Usage
+**Use when:**
+- Demonstrating rapid MVP delivery
+- Selling to AgriTech or IoT companies
+- Proving cross-vertical adaptability
+- **Verticals:** Agriculture, IoT, environmental monitoring
 
 ---
 

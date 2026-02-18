@@ -1,21 +1,29 @@
 ---
 **Document:** Content_Publishing.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-18
 **Owner:** Business Development
 **Update Frequency:** Monthly
 **Parent:** Case_Studies_Library.md
 
+**Synthesized From:**
+- `Founder_Track_Record.md` v1.0 (coverage: ~100% for content/publishing projects)
+
+**What Changed:**
+- v1.0 (2026-02-10): Initial creation — 2 Nexrizen case studies
+- v1.1 (2026-02-18): Added 2 founder track record projects (F22, F24)
+
 **Downstream Dependencies:**
 - README.md - Index file references this
+- Case_Studies_Library.md - Master index references this
 - Sales playbooks and proposals may reference specific cases
 - AI content creation vertical marketing materials
 ---
 
 # Content & Publishing Case Studies
 
-**Total Cases:** 2
-**Status Mix:** 1 job posting / 1 POC consideration
+**Total Cases:** 4 (2 Nexrizen + 2 Founder Track Record)
+**Status Mix:** 1 job posting / 1 POC consideration + 2 completed (pre-Nexrizen, Gabe)
 
 Content and publishing represent an emerging vertical where Nexrizen's AI content generation and creative automation capabilities meet high editorial standards. These case studies demonstrate expertise in AI-assisted authorship, personalization at scale, and maintaining quality while leveraging automation.
 
@@ -27,6 +35,9 @@ Content and publishing represent an emerging vertical where Nexrizen's AI conten
 |------------|--------|--------|--------|------------|
 | AI-Powered Book Publishing | Alex Hammer | 📝 Job Posting | Premium | Elite-level quality |
 | Dreamily Personalized Books | Nick (Australia) | 📝 POC | ~$2K MVP | Character consistency |
+| **Founder Track Record** | **Pre-Nexrizen** | | | |
+| F22: Caproni — Podcast SaaS | Gabe (Founded) | ✅ Sold | — | Full lifecycle exit |
+| F24: Listen Network — Podcast Ad-Tech | Gabe (Fractional CTO) | ✅ Completed | — | Core ad-tech product |
 
 ---
 
@@ -100,6 +111,85 @@ Wei + creative AI specialists
 
 ### Sales Usage
 Perfect for e-commerce personalization, gift businesses, parents, grandparents, anyone wanting authentic AI-powered physical products (counters "digital junk" trend). **Unique differentiator:** Physical product with authentic personalization - not just digital AI slop, creates meaningful keepsake gifts.
+
+---
+
+## Founder Track Record (Pre-Nexrizen)
+
+> **Important:** These are NOT Nexrizen client projects. Frame them as "our founders' track record" or "what our team has built before," not as Nexrizen deliverables.
+
+---
+
+### F22: Caproni — Podcast SaaS
+
+**Client Type:** Podcast Publishing / SaaS
+**Role:** Founder (March 2020 – October 2024, 4+ years)
+**Status:** ✅ Completed (sold — successful exit)
+
+#### Problem
+Podcast creators needed streamlined tools for production, distribution, analytics, and discoverability.
+
+#### Solution
+- Built full-stack podcast publishing SaaS from scratch
+- Implemented analytics, auto-generated website features, SEO optimization
+- Designed complete UX/UI for podcast creators
+- Scaled from solo project to managing a development team
+- Built marketing, SEO, and growth channels
+
+#### Results
+- **Successfully sold** to entrepreneur for continued growth
+- **Full lifecycle demonstrated:** ideation → development → marketing → team scaling → exit
+- Proof of ability to build, grow, and sell a software product
+
+#### Technologies
+Full-stack web development, analytics, SEO, podcast distribution, payment integration
+
+#### Team
+Gabe (founder) → scaled to development team
+
+#### Sales Usage
+**Use when:**
+- Demonstrating startup exit experience
+- Proving full product lifecycle capability (not just building — selling)
+- Selling SaaS development or marketplace products
+- **Verticals:** Media tech, SaaS, content platforms
+
+**Key proof point:** This is Gabe's cleanest exit story — built it, grew it, sold it.
+
+---
+
+### F24: Listen Network — Podcast Ad-Tech
+
+**Client Type:** Podcast Promotion Agency
+**Role:** Fractional CTO (January 2023 – March 2025, 2+ years)
+**Status:** ✅ Completed
+
+#### Problem
+A podcast promotion agency needed a core ad-tech product to power their service offering and scale beyond manual operations.
+
+#### Solution
+- Developed core ad-tech product driving the company's service offering
+- Provided strategic tech consulting in the podcast/ad-tech space
+- Led MVP development for promotion platform
+- Mentored junior developers on the team
+
+#### Results
+- Core product became the foundation of company's service offering
+- 2+ years of strategic technical guidance
+- Junior developer mentorship and team capability building
+
+#### Technologies
+Ad-tech, podcast analytics, web development, API integrations
+
+#### Team
+Gabe (Fractional CTO) + junior developers
+
+#### Sales Usage
+**Use when:**
+- Selling Fractional CTO services
+- Demonstrating ad-tech or media tech experience
+- Proving ability to build core products for service businesses
+- **Verticals:** Media, advertising, podcast/audio
 
 ---
 

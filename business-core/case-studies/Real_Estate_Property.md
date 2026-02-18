@@ -1,21 +1,29 @@
 ---
 **Document:** Real_Estate_Property.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-18
 **Owner:** Business Development
 **Update Frequency:** Monthly
 **Parent:** Case_Studies_Library.md
 
+**Synthesized From:**
+- `Founder_Track_Record.md` v1.0 (coverage: ~100% for real estate projects)
+
+**What Changed:**
+- v1.0 (2026-02-10): Initial creation — 1 Nexrizen case study
+- v1.1 (2026-02-18): Added 1 founder track record project (F16: Real Estate Data Pipeline)
+
 **Downstream Dependencies:**
 - README.md - Index file references this
+- Case_Studies_Library.md - Master index references this
 - Sales playbooks and proposals may reference specific cases
 - Real estate vertical marketing materials
 ---
 
 # Real Estate & Property Case Studies
 
-**Total Cases:** 1
-**Status Mix:** 1 requirements complete (ready for development)
+**Total Cases:** 2 (1 Nexrizen + 1 Founder Track Record)
+**Status Mix:** 1 requirements complete (ready for development) + 1 completed (pre-Nexrizen)
 
 Real estate represents a promising vertical where Nexrizen's automation capabilities can eliminate manual, repetitive workflows that real estate investors face daily. This case study demonstrates expertise in court portal automation, OCR data extraction, and lead generation systems.
 
@@ -26,6 +34,8 @@ Real estate represents a promising vertical where Nexrizen's automation capabili
 | Case Study | Client | Status | Budget | Key Metric |
 |------------|--------|--------|--------|------------|
 | Probate Lead Automation | Matt Saunders | ✅ Requirements | $7,000 (14 days) | 3-5 hrs/day → automated |
+| **Founder Track Record** | **Pre-Nexrizen** | | | |
+| F16: Real Estate Data Pipeline | Wei (Consulting) | ✅ Completed | — | 98-99% load reduction |
 
 ---
 
@@ -78,6 +88,47 @@ Wei (architect), automation engineers
 
 ### Sales Usage
 Perfect showcase for real estate investors, lead generation businesses, anyone scraping court/public records, businesses with repetitive data gathering workflows. **Unique differentiator:** Fully automated probate lead generation - typically a 100% manual process for real estate investors.
+
+---
+
+## Founder Track Record (Pre-Nexrizen)
+
+> **Important:** These are NOT Nexrizen client projects. Frame them as "our founders' track record" or "what our team has built before," not as Nexrizen deliverables.
+
+---
+
+### F16: Automated Real Estate Data Pipeline
+
+**Client Type:** Real Estate Analytics Firm
+**Role:** Consultant via Insight Expansion
+**Status:** ✅ Completed
+
+#### Problem
+A real estate analytics firm needed to integrate 5+ disparate data sources (public records, third-party APIs) into a unified warehouse with reliable, scalable processing.
+
+#### Solution
+- Engineered resilient, scalable data processing pipeline
+- Integrated 5+ disparate data sources into unified data warehouse
+- Implemented containerization and CI/CD practices
+- Applied selective delta updates for efficiency
+- Delivered comprehensive documentation for knowledge transfer
+
+#### Results
+- **98-99% reduction in system load** through selective delta updates
+- **80% reduction in deployment time** through containerization/CI/CD
+- Scalable architecture for ongoing data ingestion
+
+#### Technologies
+Docker, CI/CD, data warehouse, multi-source API integration, delta processing
+
+#### Team
+Wei (lead engineer)
+
+#### Sales Usage
+**Use when:**
+- Selling data pipeline or ETL solutions
+- Demonstrating multi-source data integration
+- **Verticals:** Real estate, property tech, data aggregation businesses
 
 ---
 

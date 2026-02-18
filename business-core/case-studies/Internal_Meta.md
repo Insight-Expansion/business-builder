@@ -1,21 +1,29 @@
 ---
 **Document:** Internal_Meta.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-18
 **Owner:** Business Development
 **Update Frequency:** Monthly
 **Parent:** Case_Studies_Library.md
 
+**Synthesized From:**
+- `Founder_Track_Record.md` v1.0 (coverage: ~100% for Insight Expansion)
+
+**What Changed:**
+- v1.0 (2026-02-10): Initial creation — 4 Nexrizen case studies
+- v1.1 (2026-02-18): Added 1 founder track record project (F2: Insight Expansion)
+
 **Downstream Dependencies:**
 - README.md - Index file references this
+- Case_Studies_Library.md - Master index references this
 - Sales playbooks and proposals may reference specific cases
 - Business Builder roadmap references internal tooling
 ---
 
 # Internal & Meta Case Studies
 
-**Total Cases:** 4
-**Status Mix:** 2 production / 1 in development / 1 historical
+**Total Cases:** 5 (4 Nexrizen + 1 Founder Track Record)
+**Status Mix:** 2 production / 1 in development / 1 historical + 1 active (pre-Nexrizen)
 
 These case studies showcase Nexrizen's internal systems and meta-innovations that power our competitive advantages. These are not just client projects—they are the strategic assets that enable our 90% Upwork response rate and 75-80% conversion rate.
 
@@ -29,6 +37,8 @@ These case studies showcase Nexrizen's internal systems and meta-innovations tha
 | Proposal Builder | Nexrizen (Internal) | ✅ Production | Internal | 20-30x time reduction |
 | Business Builder | Nexrizen (Internal) | 🚧 In Development | Internal | TBD |
 | Credit Repair Automation | Historical | 📝 Historical | White-label | 15 seconds processing |
+| **Founder Track Record** | **Pre-Nexrizen** | | | |
+| F2: Insight Expansion Consultancy | Wei (Founded) | ✅ Active | — | $500K/yr revenue |
 
 ---
 
@@ -308,4 +318,35 @@ Wei built this in 2021 - white-label credit repair software with AI
 
 ---
 
-**Last Updated:** 2026-02-10
+## Founder Track Record (Pre-Nexrizen)
+
+> **Important:** This is NOT a Nexrizen client project. Frame as "our founder's track record" — the predecessor company to Nexrizen.
+
+---
+
+### F2: Insight Expansion — AI/Data Consultancy
+
+**Client Type:** Consultancy (Wei's first company)
+**Role:** CEO & Founder (November 2020 – Present)
+**Status:** ✅ Active (operating alongside Nexrizen)
+
+#### Overview
+Wei founded Insight Expansion as a data science and engineering consultancy. It grew to $500K annual revenue within 3 years, serving Fortune 1000 companies and startups.
+
+#### Key Achievements
+- **$500K annual revenue** within 3 years
+- Built big-data infrastructure for a **startup now valued at $100M+**
+- Infrastructure processing **10TB+ transactions daily**
+- Increased client satisfaction by **40%** through proprietary project management methodology
+- Reduced project delivery times by **25%**
+- Delivered customized AI/ML solutions across healthcare, finance, and e-commerce
+
+#### Sales Usage
+**Use when:**
+- Proving Wei's entrepreneurial track record and revenue generation
+- Demonstrating experience across Fortune 1000 and startup environments
+- **Context:** Insight Expansion is the predecessor to Nexrizen — same founder, same skillset, proven revenue
+
+---
+
+**Last Updated:** 2026-02-18

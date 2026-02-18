@@ -1,21 +1,29 @@
 ---
 **Document:** Sports_Fitness.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-18
 **Owner:** Business Development
 **Update Frequency:** Monthly
 **Parent:** Case_Studies_Library.md
 
+**Synthesized From:**
+- `Founder_Track_Record.md` v1.0 (coverage: ~100% for sports/fitness projects)
+
+**What Changed:**
+- v1.0 (2026-02-10): Initial creation — 2 Nexrizen case studies
+- v1.1 (2026-02-18): Added 1 founder track record project (F20: CITYROW/WaterRower)
+
 **Downstream Dependencies:**
 - README.md - Index file references this
+- Case_Studies_Library.md - Master index references this
 - Sales playbooks and proposals may reference specific cases
 - Sports tech vertical marketing materials
 ---
 
 # Sports & Fitness Case Studies
 
-**Total Cases:** 2
-**Status Mix:** 1 phase 1 complete (phase 2 pending) / 1 discovery/solution architecture
+**Total Cases:** 3 (2 Nexrizen + 1 Founder Track Record)
+**Status Mix:** 1 phase 1 complete (phase 2 pending) / 1 discovery/solution architecture + 1 completed (pre-Nexrizen)
 
 Sports technology represents a specialized vertical where Nexrizen's computer vision and real-time video analysis capabilities shine. These case studies demonstrate expertise in biomechanics, frame-precise temporal detection, and mobile edge computing—all critical for performance analysis applications.
 
@@ -27,6 +35,8 @@ Sports technology represents a specialized vertical where Nexrizen's computer vi
 |------------|--------|--------|--------|------------|
 | Baseball Phase Detection | SportsFX | 🚧 Phase 1 Complete | Premium | ~70% → improved accuracy |
 | Live Real-Time Mobile Metrics | SportsFX | 📝 Solution Architecture | TBD | 4-second latency target |
+| **Founder Track Record** | **Pre-Nexrizen** | | | |
+| F20: CITYROW → WaterRower Acquisition | Gabe (Fractional CTO) | ✅ Completed | — | Led tech through acquisition |
 
 ---
 
@@ -108,6 +118,52 @@ Wei + mobile ML specialists
 
 ### Sales Usage
 Showcase for mobile AI, edge computing, real-time video analysis. Perfect for sports tech startups seeking investor-ready features, fitness apps, or any application requiring immediate feedback from video without cloud dependency (security, latency, offline capability).
+
+---
+
+## Founder Track Record (Pre-Nexrizen)
+
+> **Important:** These are NOT Nexrizen client projects. Frame them as "our founders' track record" or "what our team has built before," not as Nexrizen deliverables.
+
+---
+
+### F20: CITYROW → WaterRower Acquisition
+
+**Client Type:** Fitness Tech / Connected Fitness
+**Role:** Senior Software Engineer (Sep 2021 – Jul 2022) → Fractional CTO (Mar 2023 – Mar 2024)
+**Status:** ✅ Completed (client acquired January 2024)
+
+#### Problem
+CITYROW, a connected fitness company, needed technical leadership to optimize their digital platform and position the company for strategic outcomes (acquisition).
+
+#### Solution
+- Initially joined as Senior Software Engineer, elevated to Fractional CTO
+- Spearheaded tech strategy aligned with business goals
+- Optimized digital fitness platform performance
+- Drove product innovation that made the company attractive for acquisition
+
+#### Results
+- **CITYROW acquired by WaterRower** (January 2024)
+- Technology strategy was a key factor enabling the acquisition
+- 2.5 years total engagement (engineer → CTO → acquisition)
+
+#### Technologies
+Full-stack web development, digital fitness platform, product strategy
+
+#### Team
+Gabe (Fractional CTO) + engineering team
+
+#### Client Testimonial
+> "An incredible asset... absolute game changer for us." — Helaine Knapp, Founder & CEO, CITYROW
+
+#### Sales Usage
+**Use when:**
+- Selling Fractional CTO services (this is the gold-standard example)
+- Demonstrating ability to drive acquisition outcomes
+- Proving business impact beyond code (strategy → exit)
+- **Verticals:** Fitness tech, consumer apps, companies positioning for acquisition
+
+**Key proof point:** This is the primary exit story for Gabe — proves he can lead tech strategy that creates company-level outcomes.
 
 ---
 

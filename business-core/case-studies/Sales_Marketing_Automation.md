@@ -1,21 +1,29 @@
 ---
 **Document:** Sales_Marketing_Automation.md
-**Version:** 1.0
-**Last Updated:** 2026-02-10
+**Version:** 1.1
+**Last Updated:** 2026-02-18
 **Owner:** Business Development
 **Update Frequency:** Monthly
 **Parent:** Case_Studies_Library.md
 
+**Synthesized From:**
+- `Founder_Track_Record.md` v1.0 (coverage: ~100% for sales/marketing projects)
+
+**What Changed:**
+- v1.0 (2026-02-10): Initial creation — 3 Nexrizen case studies
+- v1.1 (2026-02-18): Added 3 founder track record projects (F3, F11, F15)
+
 **Downstream Dependencies:**
 - README.md - Index file references this
+- Case_Studies_Library.md - Master index references this
 - Sales playbooks and proposals may reference specific cases
 - CRM automation vertical marketing materials
 ---
 
 # Sales & Marketing Automation Case Studies
 
-**Total Cases:** 3
-**Status Mix:** 1 demo ready / 2 discovery phase
+**Total Cases:** 6 (3 Nexrizen + 3 Founder Track Record)
+**Status Mix:** 1 demo ready / 2 discovery phase + 3 completed (pre-Nexrizen)
 
 Sales enablement and marketing automation represent a high-value vertical where Nexrizen's real-time AI and CRM expertise deliver immediate ROI. These case studies demonstrate capabilities in live coaching, luxury event automation, and high-ticket sales processes.
 
@@ -28,6 +36,10 @@ Sales enablement and marketing automation represent a high-value vertical where 
 | Live Sales Coaching System | 8-Figure Insurance Agency | 🚧 Demo Ready | Premium | Reduce ramp time |
 | Med Spa VIP Event System | Israel Gold (Med Spa) | 📝 Requirements | TBD | Luxury client reactivation |
 | Draegon Solar Lead-to-Sale | Draegon (Solar) | 📝 Quote Request | TBD | Lead conversion tracking |
+| **Founder Track Record** | **Pre-Nexrizen** | | | |
+| F3: ContactAI — LinkedIn Lead Gen | Wei + Gabe (Co-founded) | ✅ Completed | — | 800% engagement increase |
+| F11: Marketing Scoring System | Wei (Consulting) | ✅ Completed | — | 35% accuracy increase |
+| F15: Brand Sentiment Analysis | Wei (Consulting) | ✅ Completed | — | Multi-client scale |
 
 ---
 
@@ -148,6 +160,117 @@ Ideal for med spas, luxury services, high-ticket B2C, event-based sales, existin
 
 ### Sales Usage
 Solar companies, home improvement sales, high-ticket B2C with complex proposals
+
+---
+
+## Founder Track Record (Pre-Nexrizen)
+
+> **Important:** These are NOT Nexrizen client projects. Frame them as "our founders' track record" or "what our team has built before," not as Nexrizen deliverables.
+
+---
+
+### F3: ContactAI — LinkedIn Lead Generation Platform
+
+**Client Type:** AI SaaS Startup
+**Role:** Co-Founder & CEO (April 2023 – February 2025) — co-founded with Gabe
+**Status:** ✅ Completed (pivoted into Nexrizen)
+
+#### Problem
+B2B companies struggled with manual, time-consuming LinkedIn outreach. Personalization at scale was impossible with human-only workflows.
+
+#### Solution
+- Automated market research, customized outreach message generation, and conversation exchange
+- AI-driven research feeding personalized messaging at scale
+- Automated follow-up sequences adapting to prospect behavior
+- Scalable architecture on AWS SageMaker
+
+#### Results
+- **800% increase in client engagement rates**
+- Established partnerships with **2 major marketing agencies**
+- Led team of **6 engineers and data scientists**
+
+#### Technologies
+Pinecone, GPT-4 API, LLaMA 3, LangChain, AWS SageMaker, agentic framework
+
+#### Team
+Wei (CEO/Tech Lead) + Gabe (Co-Founder) + 4 additional engineers/data scientists
+
+#### Sales Usage
+**Use when:**
+- Selling LinkedIn outreach automation or lead gen systems
+- Demonstrating AI-at-scale for marketing
+- Proving founders have worked together before Nexrizen
+- **Verticals:** B2B SaaS, marketing agencies, sales teams
+
+---
+
+### F11: Multi-Channel Marketing Scoring System
+
+**Client Type:** Major Marketing Agency
+**Role:** Consultant via Insight Expansion
+**Status:** ✅ Completed
+
+#### Problem
+A major marketing agency needed a sophisticated system to score campaign performance across 80+ features from diverse data sources, with KPIs aligned to the conversion funnel.
+
+#### Solution
+- Architected hierarchical KPI framework (awareness → consideration → conversion → loyalty)
+- Engineered integration of 80+ features from diverse data sources
+- Evaluated multiple ML models and implemented advanced feature engineering
+- Built scalable MVP with automated retraining capabilities
+
+#### Results
+- **35% increase in predictive accuracy**
+- **40% improvement** in client campaign performance visibility
+- **60% reduction** in model update time through automated retraining
+- Comprehensive documentation enabling knowledge transfer
+
+#### Technologies
+Python, ML (multiple models evaluated), feature engineering, automated retraining, Jupyter notebooks
+
+#### Team
+Wei (architect)
+
+#### Sales Usage
+**Use when:**
+- Selling marketing analytics or performance scoring systems
+- Demonstrating predictive modeling for business KPIs
+- **Verticals:** Marketing agencies, e-commerce, performance marketing
+
+---
+
+### F15: Brand Sentiment Analysis System
+
+**Client Type:** Marketing / Brand Analytics
+**Role:** Consultant via Insight Expansion
+**Status:** ✅ Completed
+
+#### Problem
+Multiple clients needed automated, large-scale sentiment analysis of social media content. Manual analysis couldn't keep pace with volume.
+
+#### Solution
+- Designed custom AI system for multi-client, large-scale sentiment analysis
+- Optimized prompts for derived and aggregated sentiment metrics using ChatGPT and Claude
+- Built prototype pipeline for processing Meltwater data
+- Developed LLM Agent-based architecture for input processing, tool interaction, and structured output
+- Integrated with downstream public-facing dashboards
+
+#### Results
+- Multi-client deployment at scale
+- Automated sentiment scoring replacing manual analysis
+- Real-time dashboards for client decision-making
+
+#### Technologies
+ChatGPT, Claude, LLM agents, Meltwater integration, dashboard visualization
+
+#### Team
+Wei (architect)
+
+#### Sales Usage
+**Use when:**
+- Selling social media analytics or brand monitoring
+- Demonstrating multi-client AI systems
+- **Verticals:** Marketing agencies, PR firms, brand management
 
 ---
 
