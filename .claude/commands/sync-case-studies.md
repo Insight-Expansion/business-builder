@@ -26,10 +26,11 @@ You are syncing new projects from the **remote proposal-builder GitHub repositor
    ```
 
 2. **Read existing case studies:**
-   - Location: `business-core/case-studies/Case_Studies_Library.md`
-   - Extract list of projects already documented
-   - Build a map of: project folder name → case study number/section
-   - Track coverage percentage and last sync date from metadata
+   - Index: `business-core/case-studies/Case_Studies_Library.md` (lightweight index — counts and metadata only)
+   - Vertical files: `business-core/case-studies/*.md` (single source of truth for all case study content)
+   - Extract list of projects already documented across all vertical files
+   - Build a map of: project folder name → vertical file + case study number/section
+   - Track coverage percentage and last sync date from index metadata
 
 3. **Compare and identify new projects:**
    - Find projects in remote repo NOT yet in case studies library
@@ -70,11 +71,14 @@ You are syncing new projects from the **remote proposal-builder GitHub repositor
    ```
 
 5. **Optional: Auto-add skeleton entries**
-   If user confirms, add skeleton case study entries to Case_Studies_Library.md:
-   - Use the existing template format
+   If user confirms, add skeleton case study entries to the **appropriate vertical file** (not Case_Studies_Library.md):
+   - Determine which vertical file the project belongs in (use Case_Studies_Library.md vertical table for reference)
+   - Use the existing template format from the target vertical file
    - Mark fields as [TBD] where info is missing
-   - Add to appropriate industry section
-   - Update metadata (version increment, sources list)
+   - Add to the correct section (Nexrizen case studies, before Portfolio Summary)
+   - Update vertical file metadata (version increment, sources list, total case count)
+   - Update Case_Studies_Library.md index counts
+   - Update README.md counts
 
 ## Key Rules
 
