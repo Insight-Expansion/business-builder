@@ -1,7 +1,7 @@
 ---
 **Document:** Executive_Overview.md
-**Version:** 2.0
-**Last Updated:** 2026-02-16
+**Version:** 2.1
+**Last Updated:** 2026-02-18
 **Owner:** Wei
 **Update Frequency:** Monthly (or when core positioning/offerings change)
 
@@ -14,6 +14,7 @@
 **What Changed:**
 - v1.0 (2026-02-11): Created generic executive overview from EU-specific version
 - v2.0 (2026-02-16): CRITICAL — Updated all pricing to hourly-only ($120/hr). Added "Fractional AI/Tech Team" positioning, "Sell the Outcome" framing, AI-native agency thesis, price anchoring table. Aligned with EU one-pager v3.0.
+- v2.1 (2026-02-18): Enhanced "Our Founders" section with detailed credentials from LinkedIn, CV, and comprehensive bios. Cross-referenced team/execs/.
 
 **Downstream Dependencies:**
 - Market-specific one-pagers (EU, US, APAC variants)
@@ -151,19 +152,29 @@ We become your **fractional AI and technology team** — available on demand for
 ## Our Founders
 
 **Weipeng Zhuo, PhD (ABD) — CEO & Co-Founder**
-- Former Meta data scientist
-- Seven years at Georgia Tech (ranked #3 nationally in engineering)
-- Background: Genentech (biotech), terabyte-scale genomic data processing
-- Conducts 3-4 client discovery calls daily
+- Former Meta data scientist — improved ad revenue loss prediction by 40%, saving ~$2M/month
+- PhD (ABD) Chemical Engineering with integrated AI/ML systems, Georgia Tech (ranked #3 nationally in engineering)
+- Background: Genentech (biotech), OMNY Health (~100TB healthcare datasets), Girihlet (PB-scale genomics)
+- Founded Insight Expansion consultancy — grew to $500K annual revenue
+- Published in Journal of the American Academy of Dermatology (Johns Hopkins collaboration, 2025) and Lab on a Chip (65 citations)
+- Upcoming book: "Apply LLAMA 3" (Packt Publishing)
 - AILA Technology Innovation Award winner
+- Data Incubator Fellow (top 2% of 3,000 applicants), Meyerhoff Scholar, Tau Beta Pi
+- Conducts 3-4 client discovery calls daily; certified yoga instructor with 10+ years annual silent meditation practice
 
-**Gabriel Perez — CTO & Co-Founder**
-- 15+ years engineering experience
-- Computer Science at Georgia Tech (ranked #2 nationally in CS)
-- Former IBM engineer
-- Serial entrepreneur: Two successful exits
-  - Led CITYROW through WaterRower acquisition (January 2024)
-  - Built SaaS platform acquired by Georgia Tech
+**Gabriel J. Perez Irizarry — CTO & Co-Founder**
+- MS Computer Science, Georgia Tech (ranked #2 nationally in CS)
+- 15+ years shipping production software; 50+ apps across 6 verticals
+- Patent holder: Distributed Computing Utilizing Homomorphic Encryption
+- Serial entrepreneur with multiple exits:
+  - Led CITYROW through WaterRower acquisition (January 2024) — "An incredible asset... absolute game changer" — CEO
+  - Built and sold Caproni (podcast SaaS) — full lifecycle: ideation to exit
+  - Founded Peer Feedback — 10-year EdTech platform, 7,000+ students at Georgia Tech
+- Former IBM engineer; Google Summer of Code participant (Sunlight Foundation)
+- GEM Fellowship recipient; 3 Day Startup Competition — First Place
+- Trilingual: English, Spanish (native), Japanese (professional)
+
+> See `team/execs/` for comprehensive founder bios.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 **Document:** Strategic_Vision.md
-**Version:** 1.1
-**Last Updated:** 2026-02-16
+**Version:** 1.2
+**Last Updated:** 2026-02-18
 **Owner:** Wei / Gabe
 **Update Frequency:** Quarterly or when strategic direction shifts
 
@@ -13,6 +13,7 @@
 **What Changed:**
 - v1.0 (2026-02-14): Initial creation from founders' strategy session (Feb 2026)
 - v1.1 (2026-02-16): Added external validation of AI-native agency model (Epstein thesis), operational cross-references for principles in practice (retreat as systems test), connected info product timeline to Retreat_Operations_Plan
+- v1.2 (2026-02-18): Enhanced Pillar 1 (Technology Expertise) with specific founder credentials — publications, patents, fellowships, awards. Cross-referenced `team/execs/`
 
 **Downstream Dependencies:**
 - `Nexrizen_Business_Overview.md` - Informs business model direction
@@ -57,7 +58,12 @@ These are the foundational capabilities that, once sufficiently developed, make 
 
 **Current State: Strong — this is the natural advantage.**
 
-Both founders have deep technical backgrounds (Wei's PhD in data science from Georgia Tech, Meta experience; Gabe's engineering expertise). The team can build rapidly using modern AI tools, and staying current with technological innovation is a natural interest rather than a chore.
+Both founders have deep technical backgrounds with credentials that substantiate this assessment:
+
+- **Wei Zhuo** — PhD (ABD) Chemical Engineering with integrated AI/ML systems, Georgia Tech (ranked #3 nationally in engineering). Ex-Meta data scientist (improved ad revenue loss prediction by 40%, saving ~$2M/month). Published in Journal of the American Academy of Dermatology (Johns Hopkins collaboration, 2025) and Lab on a Chip (65 citations). Upcoming book: "Apply LLAMA 3" (Packt Publishing). Data Incubator Fellow (top 2% of 3,000 applicants). Meyerhoff Scholar, Tau Beta Pi.
+- **Gabe Perez** — MS Computer Science, Georgia Tech (ranked #2 nationally in CS). Patent holder: Distributed Computing Utilizing Homomorphic Encryption. 15+ years shipping production software; 50+ apps across 6 verticals. Google Summer of Code contributor (Sunlight Foundation). Founded Peer Feedback — 10-year EdTech platform with 7,000+ students at Georgia Tech, AI-powered feedback evaluation.
+
+The team can build rapidly using modern AI tools, and staying current with technological innovation is a natural interest rather than a chore.
 
 **What mastery looks like:**
 - Ability to rapidly prototype any AI/software solution within days (the "3 Days AI" approach already demonstrates this)

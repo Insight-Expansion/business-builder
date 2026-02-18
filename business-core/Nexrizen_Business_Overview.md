@@ -47,14 +47,16 @@ Wei brings a PhD in data science from Georgia Tech and experience at Meta to the
 
 ## Team Structure
 
-| Role | Person | Responsibilities |
-|------|--------|------------------|
-| CEO | Wei (Weipeng Zhuo, PhD ABD) | Sales (Upwork + LinkedIn leads from his profile), strategy, client relationships, thought leadership, proposal building, Fractional CTO at Saenz-Garcia Law |
-| CTO | Gabe (Gabriel Perez) | Technical leadership, sales (LinkedIn leads from his profile), daily LinkedIn content, demos, partnership development |
-| Senior Data Scientist | Zhimin Gao, PhD | Data science, AI/ML development |
-| Senior Data Scientist | Sol Ah Lee, PhD | Data science, AI/ML development |
-| Engineers | 3 full-stack developers | Product development, client delivery |
-| VA | Ruth | LinkedIn outreach execution, Upwork application assistance, CRM/lead management, SOP execution - capable of running LinkedIn outreach system with proper SOPs |
+| Role | Person | Credentials | Responsibilities |
+|------|--------|-------------|------------------|
+| CEO | Wei (Weipeng Zhuo) | PhD (ABD) Chemical Engineering w/ AI/ML, Georgia Tech (#3 engineering); ex-Meta data scientist ($2M/mo impact); Insight Expansion founder ($500K/yr revenue); published in JAAD (Johns Hopkins) & Lab on a Chip (65 citations); upcoming Packt book; Data Incubator Fellow (top 2% of 3,000); AILA Innovation Award winner | Sales (Upwork + LinkedIn leads from his profile), strategy, client relationships, thought leadership, proposal building, Fractional CTO at Saenz-Garcia Law |
+| CTO | Gabe (Gabriel J. Perez Irizarry) | MS Computer Science, Georgia Tech (#2 CS); patent holder (Distributed Computing / Homomorphic Encryption); 15+ yrs shipping production software; 2 exits (Caproni sold, CITYROW acquired by WaterRower); 10-year EdTech founder (Peer Feedback, 7,000+ students); GEM Fellow; Google Summer of Code (Sunlight Foundation); trilingual (EN/ES native, JP professional) | Technical leadership, sales (LinkedIn leads from his profile), daily LinkedIn content, demos, partnership development |
+| Senior Data Scientist | Zhimin Gao, PhD | PhD | Data science, AI/ML development |
+| Senior Data Scientist | Sol Ah Lee, PhD | PhD | Data science, AI/ML development |
+| Engineers | 3 full-stack developers | — | Product development, client delivery |
+| VA | Ruth | — | LinkedIn outreach execution, Upwork application assistance, CRM/lead management, SOP execution - capable of running LinkedIn outreach system with proper SOPs |
+
+> See `team/execs/` for comprehensive founder bios.
 
 **Team size:** 8 total (2 founders, 2 PhDs, 3 engineers, 1 VA)
 **Website claim:** "100+ years of combined experience"
@@ -607,5 +609,6 @@ The ultimate goal is not to build one company and ride it to retirement. It's to
 
 ---
 
-*Last updated: February 16, 2026*
+*Last updated: February 18, 2026*
+*v2.2: Enhanced Team Structure table with detailed founder credentials (education, publications, patents, exits, fellowships). Added cross-reference to `team/execs/` for comprehensive bios.*
 *v2.1: Added four-pillar strategic alignment, serial builders endgame, business model evolution spectrum (services → products), post-retreat product priorities, Epstein AI-native agency validation. Cross-referenced Strategic_Vision.md and context/01, context/02, context/03.*

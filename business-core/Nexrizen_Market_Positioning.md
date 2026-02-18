@@ -4,8 +4,8 @@
 
 ---
 **Document:** Nexrizen_Market_Positioning.md
-**Version:** 1.5
-**Last Updated:** 2026-02-16
+**Version:** 1.6
+**Last Updated:** 2026-02-18
 **Owner:** Wei (CEO)
 **Update Frequency:** Quarterly or when repositioning
 
@@ -31,6 +31,7 @@
 - v1.3 (2026-02-10): AI-NATIVE POSITIONING - Added comprehensive "AI-Native Operations" section as #1 differentiator, featuring Proposal Builder (20-30x reduction), Business Builder vision, cutting-edge tech integration. Updated elevator pitches to lead with AI-native angle. Source: Zane meeting (VC partner conversation).
 - v1.4 (2026-02-10): VALUES & EU POSITIONING - Added 2 new differentiators: "We Don't Work With Assholes" (values-driven client selection from Gary meeting), "Banking-Standard Quality for EU Executives" (no advance payment, institutional quality from Robertas partnership). Enhanced Wei's leadership profile with 10-day meditation retreats, "search for truth" philosophy. Added bootstrap mindset positioning.
 - v1.5 (2026-02-16): STRATEGIC VISION INTEGRATION - Added AI-native agency thesis (Epstein external validation, "software margins"), serial builders positioning, "Sell the Outcome" messaging principle, retreat as brand asset, hourly-only pricing policy update, services-to-products positioning evolution.
+- v1.6 (2026-02-18): Enhanced Team Credentials > Leadership section with detailed founder credentials from LinkedIn, CV, bios. Wei: publications, awards, fellowships, specific Meta impact. Gabe: patent, exits, GEM Fellowship, GSoC, trilingual, Spain relocation. Cross-referenced `team/execs/`.
 
 **Downstream Dependencies:**
 - `sales/docs/Sales_Messaging.md` - Uses positioning for pitch
@@ -264,19 +265,27 @@ Unlike agencies asking €25-50K advance payment, Nexrizen delivers working prot
 ### Leadership
 
 **Weipeng Zhuo, PhD (ABD)** - CEO & Co-Founder
-- Ex-Meta engineer (machine learning algorithms, data analytics)
-- PhD in Data Science (Georgia Tech #3 engineering school)
+- Ex-Meta data scientist — improved ad revenue loss prediction by 40%, saving ~$2M/month
+- PhD (ABD) Chemical Engineering with integrated AI/ML systems (Georgia Tech #3 engineering school)
 - Fractional CTO at Saenz-Garcia Law (largest Dallas immigration firm)
-- **10-day silent meditation retreats annually** (10th year) - brings mindfulness and clarity to business decisions
-- 30+ years combined experience across genomics (Genentech), distributed data processing, computer vision research
+- Founded Insight Expansion consultancy ($500K annual revenue); co-founded ContactAI (800% engagement increase)
+- Published: JAAD (2025, Johns Hopkins collaboration), Lab on a Chip (2017, 2014 — 65 citations); upcoming book with Packt Publishing
+- Data Incubator Fellow (top 2% of 3,000 applicants), Meyerhoff Scholar, Tau Beta Pi
+- Background spans genomics (Genentech), healthcare data (~100TB at OMNY Health), distributed computing (Girihlet, PB-scale)
+- **10-day silent meditation retreats annually** (10th year); certified yoga instructor — brings mindfulness and clarity to business decisions
 - Philosophy: "On a search for truth... connecting with good people and doing good things"
 
-**Gabriel Perez** - CTO & Co-Founder
-- Ex-IBM engineer
-- Multiple startup exits (CTO of acquired startups)
-- Built SaaS acquired by Georgia Tech
-- Technical leadership across 50+ production apps
-- 10-15 years entrepreneurship experience
+**Gabriel J. Perez Irizarry** - CTO & Co-Founder
+- MS Computer Science, Georgia Tech (#2 CS school nationally)
+- Ex-IBM engineer (zSeries systems); Google Summer of Code participant (Sunlight Foundation)
+- Patent holder: Distributed Computing Utilizing Homomorphic Encryption
+- Serial entrepreneur with exits: Led CITYROW through WaterRower acquisition (Jan 2024); built and sold Caproni (podcast SaaS)
+- Founded Peer Feedback — 10-year EdTech platform, 7,000+ students at Georgia Tech, AI-powered evaluation
+- 4 years healthcare compliance (Cygnus) — CMS-compliant price transparency deployed across Puerto Rican hospitals
+- GEM Fellowship Recipient; 3 Day Startup Competition — First Place
+- Technical leadership across 50+ production apps; 6 vertical domains (EdTech, HealthTech, AgriTech, FitnessTech, Ad-Tech, Legal Tech)
+- Trilingual: English, Spanish (native), Japanese (professional working)
+- Relocating to Spain Q2 2026 — EU timezone presence for partnership expansion
 
 ### Senior Data Scientists
 - **Zhimin Gao, PhD** - Senior Data Scientist
