@@ -318,7 +318,7 @@ Technology & Financial Advisory | Monaco
 
 [QR Code: nexrizen.com/contact]
 
-**NEXRIZEN LLC** | Delaware, United States
+**NEXRIZEN LLC** | Puerto Rico, United States
 Your Fractional AI & Technology Team
 50+ production applications shipped | $120/hr, all senior engineers
 GDPR-compliant systems for European clients

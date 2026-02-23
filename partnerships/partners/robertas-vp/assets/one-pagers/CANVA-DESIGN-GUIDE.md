@@ -426,7 +426,7 @@ available on demand, compounding in value over time.
 **Contact Info:**
 ```
 NEXRIZEN LLC
-Delaware, United States | Serving clients globally
+Puerto Rico, United States | Serving clients globally
 
 Website: nexrizen.com
 Email: wei@nexrizen.com

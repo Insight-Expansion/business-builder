@@ -206,4 +206,4 @@ We become your **fractional AI and technology team** — available on demand for
 
 ---
 
-**Nexrizen LLC** | Delaware, United States | Your Fractional AI & Technology Team | 50+ production applications shipped | $120/hr, all senior engineers
+**Nexrizen LLC** | Puerto Rico, United States | Your Fractional AI & Technology Team | 50+ production applications shipped | $120/hr, all senior engineers

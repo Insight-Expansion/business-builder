@@ -174,7 +174,7 @@ This document catalogs all context sources in the `partnerships/context/` direct
 - Term and termination (12-month initial, auto-renewal, 60-day termination notice)
 - Independent contractor relationship
 - Limitation of liability
-- Governing law (Delaware, arbitration via AAA)
+- Governing law (Puerto Rico, arbitration via AAA)
 
 **Key Legal Terms:**
 - **Commission:** 15% of collected revenue (not contract value)

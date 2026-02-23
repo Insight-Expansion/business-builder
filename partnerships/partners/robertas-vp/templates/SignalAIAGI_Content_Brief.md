@@ -262,7 +262,7 @@ Or contact Robertas directly for a personal introduction.
 ### FOOTER
 
 ```
-Nexrizen LLC | Delaware, United States
+Nexrizen LLC | Puerto Rico, United States
 Your Fractional AI & Technology Team
 50+ production apps shipped | ~€110/hr, all senior engineers
 GDPR-compliant systems for European clients
@@ -470,7 +470,7 @@ Or contact Robertas for a personal introduction to the Nexrizen team.
 
 ```
 ThreeDays.ai — From Idea to App in 3 Days
-Powered by Nexrizen LLC | Delaware, United States
+Powered by Nexrizen LLC | Puerto Rico, United States
 Ex-Meta & Georgia Tech Engineers | 50+ Production Apps
 
 Website: threedays.ai | nexrizen.com

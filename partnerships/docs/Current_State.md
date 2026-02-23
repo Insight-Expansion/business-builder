@@ -484,7 +484,7 @@ Partner agrees not to directly compete by offering identical AI development serv
 - Exceptions: Breaches of confidentiality, willful misconduct
 
 **Governing law:**
-- State of Delaware, USA
+- Puerto Rico, USA
 - Arbitration via American Arbitration Association if negotiation fails
 
 ### Compliance Considerations

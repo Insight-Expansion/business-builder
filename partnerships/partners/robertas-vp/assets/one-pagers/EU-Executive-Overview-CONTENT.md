@@ -245,4 +245,4 @@ This overview is provided through our authorized EU/EEA partner network. For que
 
 ---
 
-**Nexrizen LLC** | Delaware, United States | Your Fractional AI & Technology Team | 50+ production applications shipped | $120/hr, all senior engineers
+**Nexrizen LLC** | Puerto Rico, United States | Your Fractional AI & Technology Team | 50+ production applications shipped | $120/hr, all senior engineers

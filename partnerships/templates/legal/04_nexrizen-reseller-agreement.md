@@ -7,7 +7,7 @@
 **Weipeng Zhuo, CEO & Co-Founder**
 **Nexrizen LLC**
 wei@nexrizen.com | NEXRIZEN.com
-A Delaware Limited Liability Company, USA
+A Puerto Rico Limited Liability Company, USA
 ("Company" or "Nexrizen")
 
 **AND:**
@@ -233,7 +233,7 @@ Reseller retains the right to represent other technology providers, provided suc
 
 ## 12. GENERAL PROVISIONS
 
-**12.1 Governing Law.** This Agreement shall be governed by the laws of the State of Delaware, United States, without regard to conflict of law principles.
+**12.1 Governing Law.** This Agreement shall be governed by the laws of Puerto Rico, United States, without regard to conflict of law principles.
 
 **12.2 Dispute Resolution.** The Parties agree to attempt to resolve any dispute through good faith negotiation. If negotiation fails, disputes shall be resolved through binding arbitration administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules.
 
